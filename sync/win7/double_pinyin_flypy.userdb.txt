@@ -1,0 +1,12 @@
+# Rime user dictionary
+#@/db_name	double_pinyin_flypy.userdb.kct
+#@/db_type	userdb
+#@/rime_version	1.1.2
+#@/tick	4
+#@/user_id	win7
+jia jin 	加緊	c=0 d=0.1 t=0
+pei zhi 	配置	c=1 d=1 t=4
+san xiang shui 	三湘水	c=0 d=0.1 t=0
+san xiang shui jia jin 	三湘水加緊	c=1 d=1 t=1
+shu ru fa 	輸入法	c=1 d=1 t=3
+wo de 	我的	c=1 d=1 t=2

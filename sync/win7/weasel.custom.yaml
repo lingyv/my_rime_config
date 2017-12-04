@@ -1,0 +1,23 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.9.30
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Fri Jul 15 09:01:54 2016"
+  rime_version: 1.1.2
+patch:
+  "style/display_tray_icon": true
+  "style/color_scheme": QingXin
+  "style/horizontal": true
+  "style/inline_preedit": true
+  "preset_color_schemes/QingXin":  # 在配色方案列表裏加入標識爲 QingXin 的新方案
+    name: QingXin
+    author: 凌宇
+    back_color: 0xFFFFFF
+    border_color: 0x47FF47
+    text_color: 0x000000
+    hilited_text_color: 0xFF0368
+    hilited_back_color: 0xFFFFFF
+    hilited_candidate_text_color: 0xFF294D
+    hilited_candidate_back_color: 0xFBFF7A
+    candidate_text_color: 0x000000
+    comment_text_color: 0xFFFFFF
