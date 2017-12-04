@@ -1,0 +1,32 @@
+# Rime user dictionary
+#@/db_name	double_pinyin_flypy.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	23
+#@/user_id	macbook
+ban 	半	c=2 d=1.92312 t=23
+bu neng 	不能	c=0 d=0.1 t=4
+bu neng da zi 	不能打字	c=1 d=1 t=5
+da zi 	打字	c=0 d=0.1 t=4
+dian zi qin 	電子琴	c=2 d=1.99005 t=19
+hai cheng 	海城	c=0 d=0.1 t=7
+jia jin 	加緊	c=0 d=0.0980199 t=23
+pei zhi 	配置	c=2 d=1.89037 t=23
+san xiang shui 	三湘水	c=0 d=0.0980199 t=23
+san xiang shui jia jin 	三湘水加緊	c=1 d=0.985112 t=23
+shan chu 	刪除	c=2 d=1.99005 t=22
+shen du 	深度	c=1 d=1 t=6
+shu ru fa 	輸入法	c=1 d=0.995012 t=23
+shuang pin 	雙拼	c=1 d=1 t=4
+sou gou 	搜狗	c=1 d=1 t=3
+tian jia 	添加	c=1 d=1 t=1
+tian kong 	天空	c=0 d=0.1 t=15
+tian kong zhi cheng 	天空之城	c=1 d=1 t=16
+wang yi 	網易	c=4 d=3.95544 t=14
+wo de 	我的	c=1 d=0.99005 t=23
+xin 	新	c=0 d=0.1 t=7
+xin hai cheng 	新海城	c=1 d=1 t=8
+ya ma ha 	雅馬哈	c=1 d=1 t=18
+yun 	暈	c=1 d=1 t=10
+yun 	雲	c=2 d=1.98511 t=15
+zhi cheng 	之城	c=0 d=0.1 t=15
