@@ -1,0 +1,4529 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	30955
+#@/user_id	arch
+a 	啊	c=27 d=0.000665523 t=30955
+a 	阿	c=2 d=1.50523e-17 t=30955
+a er fa 	阿爾法	c=1 d=1.48156e-07 t=30955
+a ha ha 	啊哈哈	c=1 d=1.20757e-13 t=30955
+a li 	阿里	c=3 d=6.09778e-05 t=30955
+a li yun 	阿里雲	c=6 d=1.91132e-05 t=30955
+ai 	唉	c=1 d=2.01095e-13 t=30955
+ai 	愛	c=2 d=0.927496 t=30955
+ai che 	愛車	c=0 d=4.87333e-16 t=30955
+ai che de 	愛車的	c=1 d=4.89775e-15 t=30955
+ai da 	捱打	c=0 d=2.81358e-24 t=30955
+ai da lei 	捱打類	c=1 d=2.82768e-23 t=30955
+ai ga dong 	唉噶棟	c=1 d=3.92039e-14 t=30955
+ai ke ke 	愛可可	c=2 d=0.309983 t=30955
+ai she 	艾舍	c=1 d=6.38607e-19 t=30955
+ai she er 	艾舍爾	c=2 d=1.20154e-13 t=30955
+ai ya 	哎呀	c=1 d=7.81348e-10 t=30955
+an 	按	c=15 d=0.00148848 t=30955
+an 	暗	c=0 d=2.04204e-18 t=30955
+an ci xu 	按次序	c=1 d=7.58516e-14 t=30955
+an den deng an 	按㩐登岸	c=1 d=3.90084e-14 t=30955
+an hui 	安徽	c=1 d=4.52121e-15 t=30955
+an hui sheng 	安徽省	c=3 d=4.06316e-12 t=30955
+an jian 	按鍵	c=1 d=4.37625e-14 t=30955
+an jian 	案件	c=1 d=4.35444e-14 t=30955
+an li 	案例	c=1 d=4.43144e-05 t=30955
+an li hao 	案例號	c=1 d=0.000443861 t=30955
+an niu 	按鈕	c=110 d=0.759127 t=30955
+an pai 	安排	c=1 d=2.51921e-17 t=30955
+an quan 	安全	c=8 d=0.00010622 t=30955
+an ren yi 	按任意	c=1 d=3.56074e-29 t=30955
+an shi 	暗示	c=1 d=2.20565e-12 t=30955
+an shi jian 	暗時間	c=3 d=9.9339e-17 t=30955
+an shun xu 	按順序	c=1 d=1.72221e-13 t=30955
+an xi 	安息	c=0 d=4.16281e-15 t=30955
+an xia 	按下	c=1 d=4.21482e-13 t=30955
+an xu yao 	按需要	c=1 d=9.61935e-15 t=30955
+an zhao 	按照	c=1 d=6.94669e-09 t=30955
+an zhuang 	安裝	c=24 d=0.000552179 t=30955
+an zhuo 	安卓	c=3 d=4.14135e-12 t=30955
+ao mi 	奧祕	c=3 d=7.19659e-13 t=30955
+ba 	八	c=2 d=2.23123e-13 t=30955
+ba 	吧	c=36 d=0.00779175 t=30955
+ba 	把	c=39 d=0.0844244 t=30955
+ba da 	八大	c=0 d=9.91061e-14 t=30955
+ba da fang 	八大方	c=7 d=3.57876e-06 t=30955
+ba lie 	八列	c=1 d=2.56923e-13 t=30955
+ba ni 	把你	c=3 d=1.0471e-12 t=30955
+ba she 	跋涉	c=1 d=8.15618e-15 t=30955
+ba ta 	把它	c=1 d=1.12727e-27 t=30955
+bai 	擺	c=1 d=3.23198e-07 t=30955
+bai 	白	c=3 d=4.01669e-07 t=30955
+bai 	百	c=1 d=1.40638e-12 t=30955
+bai da 	白搭	c=1 d=3.47708e-14 t=30955
+bai da 	百搭	c=1 d=3.44248e-14 t=30955
+bai du 	百度	c=1 d=4.9223e-16 t=30955
+bai du bai ke 	百度百科	c=1 d=1.5898e-13 t=30955
+bai du yun 	百度暈	c=1 d=4.94698e-15 t=30955
+bai fen 	百分	c=2 d=1.90026e-12 t=30955
+bai fen bi 	百分比	c=5 d=1.19421e-13 t=30955
+bai fen shu 	百分數	c=2 d=3.58544e-14 t=30955
+bai ke 	百科	c=1 d=3.4508e-13 t=30955
+bai long 	白龍	c=0 d=8.26288e-15 t=30955
+bai long si 	白龍寺	c=1 d=8.29945e-14 t=30955
+bai long si 	白龍死	c=1 d=4.68226e-15 t=30955
+bai ming dan 	白名單	c=1 d=3.92786e-07 t=30955
+bai shi 	百世	c=1 d=0.373492 t=30955
+bai shi hui tong 	百世匯通	c=1 d=0.000523486 t=30955
+bai xing tao 	白興桃	c=4 d=1.18997e-07 t=30955
+ban 	伴	c=1 d=1.86564e-13 t=30955
+ban 	半	c=1 d=1.21069e-14 t=30955
+ban 	搬	c=1 d=1.85697e-17 t=30955
+ban 	板	c=5 d=0.0985112 t=30955
+ban 	版	c=5 d=3.79736e-12 t=30955
+ban 	班	c=1 d=1.45296e-13 t=30955
+ban 	辦	c=2 d=5.75852e-08 t=30955
+ban ben 	版本	c=25 d=2.41314e-06 t=30955
+ban ben ku 	版本庫	c=5 d=1.29178e-12 t=30955
+ban che 	班車	c=2 d=2.69958e-07 t=30955
+ban fa 	辦法	c=2 d=2.43174e-13 t=30955
+ban jia qi 	半加器	c=1 d=8.59507e-14 t=30955
+ban jiao 	半角	c=2 d=7.95368e-13 t=30955
+ban li 	辦理	c=2 d=2.86345e-27 t=30955
+ban lv 	伴侶	c=1 d=8.0375e-19 t=30955
+ban wa gong 	板瓦工	c=2 d=3.71399e-17 t=30955
+ban zhang 	辦張	c=1 d=1.43304e-27 t=30955
+bang 	棒	c=2 d=2.24906e-06 t=30955
+bang de 	綁的	c=1 d=0.000212834 t=30955
+bang ding 	綁定	c=18 d=0.00130725 t=30955
+bang ku 	綁庫	c=2 d=9.28217e-07 t=30955
+bang ni 	幫你	c=1 d=1.8287e-13 t=30955
+bao 	包	c=45 d=0.955997 t=30955
+bao 	報	c=6 d=7.89075e-08 t=30955
+bao 	孢	c=1 d=1.2197e-13 t=30955
+bao biao 	報表	c=2 d=5.47125e-13 t=30955
+bao chi 	保持	c=5 d=6.48798e-15 t=30955
+bao cun 	保存	c=126 d=1.84853 t=30955
+bao cun zai 	保存在	c=1 d=1.92711e-12 t=30955
+bao cuo 	報錯	c=17 d=1.68289e-06 t=30955
+bao gao 	報告	c=1 d=1.15145e-12 t=30955
+bao ge 	抱個	c=1 d=3.33211e-13 t=30955
+bao gui 	寶貴	c=1 d=2.61481e-14 t=30955
+bao han 	包含	c=4 d=0.00379394 t=30955
+bao jia 	報價	c=370 d=0.246515 t=30955
+bao jia dan 	報價單	c=1 d=3.19156e-06 t=30955
+bao jia dan hao 	報價單號	c=1 d=4.90444e-31 t=30955
+bao jia fang 	報價方	c=5 d=0.0544757 t=30955
+bao jia ri qi 	報價日期	c=1 d=3.96046e-16 t=30955
+bao kuo 	包括	c=1 d=2.16418e-24 t=30955
+bao li 	包裏	c=2 d=2.61672e-12 t=30955
+bao liu 	保留	c=13 d=5.84461e-10 t=30955
+bao lu 	暴露	c=1 d=8.72499e-14 t=30955
+bao ming 	包名	c=3 d=0.00219006 t=30955
+bao pan 	報盤	c=1 d=1.17775e-13 t=30955
+bao shui 	保稅	c=15 d=0.00137752 t=30955
+bao shui qu fen 	保稅區分	c=2 d=0.000868038 t=30955
+bao wei 	包圍	c=2 d=7.81082e-06 t=30955
+bao xia 	包下	c=1 d=9.91229e-15 t=30955
+bao xian 	保險	c=10 d=2.48607e-13 t=30955
+bao xian fei 	保險費	c=2 d=6.80205e-26 t=30955
+bao zheng 	保證	c=1 d=1.78786e-12 t=30955
+bao zhuang 	包裝	c=81 d=7.64196e-12 t=30955
+bao zhuang hao 	包裝號	c=1 d=4.76773e-22 t=30955
+bei 	唄	c=6 d=6.73996e-13 t=30955
+bei 	背	c=1 d=1.67854e-05 t=30955
+bei 	被	c=10 d=0.00946646 t=30955
+bei fen 	備份	c=14 d=0.843699 t=30955
+bei hai 	貝海	c=1 d=2.17695e-05 t=30955
+bei jing 	北京	c=2 d=0.00740944 t=30955
+bei jing 	背景	c=10 d=3.17242e-09 t=30955
+bei jing se 	背景色	c=5 d=3.25534e-06 t=30955
+bei ke 	備課	c=1 d=1.12865e-12 t=30955
+bei song 	背誦	c=1 d=3.52051e-13 t=30955
+bei wang 	備忘	c=1 d=1.63032e-15 t=30955
+bei zhu 	備註	c=12 d=4.62605e-12 t=30955
+bei zi 	被子	c=1 d=4.63488e-13 t=30955
+ben 	本	c=2 d=0.000287381 t=30955
+ben di 	本地	c=10 d=3.41325e-12 t=30955
+ben di cang ku 	本地倉庫	c=1 d=1.35824e-14 t=30955
+ben fang fa 	本方法	c=1 d=2.03116e-13 t=30955
+ben ke 	本科	c=2 d=2.33744e-14 t=30955
+ben pao 	奔跑	c=3 d=4.44534e-08 t=30955
+ben shen 	本身	c=1 d=3.24984e-13 t=30955
+ben wei 	本位	c=6 d=1.5179e-11 t=30955
+ben wei bi 	本位幣	c=10 d=4.91474e-10 t=30955
+ben wei bi dan jia 	本位幣單價	c=1 d=1.6919e-10 t=30955
+ben wei bi zhong 	本位幣種	c=3 d=1.68346e-10 t=30955
+ben yuan 	本源	c=1 d=0.367879 t=30955
+ben zhi 	本質	c=2 d=2.76933e-13 t=30955
+bi 	幣	c=1 d=6.91438e-13 t=30955
+bi 	比	c=1 d=7.01889e-13 t=30955
+bi bao 	閉包	c=2 d=5.81942e-14 t=30955
+bi bei 	必備	c=1 d=4.0391e-12 t=30955
+bi ding 	必定	c=1 d=1.02724e-22 t=30955
+bi hu 	壁虎	c=2 d=3.36804e-13 t=30955
+bi ji 	筆記	c=3 d=0.000223746 t=30955
+bi ji ben 	筆記本	c=6 d=3.4065e-07 t=30955
+bi jiao 	比較	c=5 d=8.2039e-13 t=30955
+bi jing 	畢竟	c=2 d=0.00694315 t=30955
+bi li 	比例	c=1 d=1.25877e-31 t=30955
+bi lv 	比率	c=2 d=5.95929e-30 t=30955
+bi te 	比特	c=3 d=7.34196e-13 t=30955
+bi tian 	必填	c=5 d=1.46625e-10 t=30955
+bi tian xiang 	必填項	c=3 d=1.66701e-12 t=30955
+bi xu 	必須	c=9 d=3.88971e-12 t=30955
+bi yao 	必要	c=1 d=1.15463e-15 t=30955
+bi ye 	畢業	c=2 d=2.05433e-14 t=30955
+bi ying 	必應	c=4 d=0.396531 t=30955
+bi ying ci dian 	必應詞典	c=2 d=1.14073e-12 t=30955
+bi zhi 	壁紙	c=4 d=2.58652 t=30955
+bi zhong 	幣種	c=56 d=1.05215e-07 t=30955
+bian 	編	c=1 d=1.09813e-13 t=30955
+bian 	變	c=4 d=6.99228e-11 t=30955
+bian cheng 	編程	c=28 d=0.391015 t=30955
+bian dao 	變到	c=1 d=4.32152e-13 t=30955
+bian geng 	變更	c=19 d=1.0058 t=30955
+bian geng hou 	變更後	c=1 d=2.01581e-12 t=30955
+bian hao 	編號	c=20 d=3.35287e-08 t=30955
+bian hua 	變化	c=10 d=8.61062e-08 t=30955
+bian ji 	編輯	c=66 d=0.00270517 t=30955
+bian ji bu 	編輯部	c=1 d=3.2577e-12 t=30955
+bian ji de 	編輯的	c=1 d=2.95582e-15 t=30955
+bian ji hang 	編輯行	c=12 d=3.83284e-13 t=30955
+bian ji jie dian 	編輯節點	c=1 d=5.6173e-10 t=30955
+bian ji qi 	編輯器	c=1 d=1.76917e-06 t=30955
+bian ji qian 	編輯前	c=1 d=3.23418e-15 t=30955
+bian kuang 	邊框	c=1 d=8.23816e-15 t=30955
+bian li 	遍歷	c=13 d=7.08918e-12 t=30955
+bian liang 	變量	c=30 d=0.00849021 t=30955
+bian ma 	編碼	c=41 d=5.10339e-05 t=30955
+bian xie 	編寫	c=3 d=2.00576e-12 t=30955
+bian yi 	編譯	c=2 d=2.14046e-12 t=30955
+bian yi hou 	編譯後	c=1 d=5.89207e-13 t=30955
+bian yi qi 	編譯器	c=1 d=3.19319e-12 t=30955
+bian zao 	編造	c=2 d=2.26359e-13 t=30955
+biao 	表	c=127 d=0.128581 t=30955
+biao da shi 	表達式	c=7 d=0.00181558 t=30955
+biao dan 	表單	c=18 d=1.79005e-12 t=30955
+biao dui 	表對	c=1 d=2.21286e-21 t=30955
+biao ge 	表格	c=62 d=7.23771e-12 t=30955
+biao ji 	標記	c=12 d=0.0448245 t=30955
+biao li 	表裏	c=1 d=2.59505e-13 t=30955
+biao ming 	表名	c=12 d=0.0136851 t=30955
+biao qian 	標籤	c=15 d=0.736667 t=30955
+biao qian ye 	標籤頁	c=1 d=8.48762e-13 t=30955
+biao shi 	標識	c=7 d=0.00214418 t=30955
+biao shi 	表示	c=1 d=0.00215492 t=30955
+biao shi ming 	表示名	c=3 d=3.36434e-12 t=30955
+biao ti 	標題	c=4 d=8.00761e-13 t=30955
+biao ti ming 	標題名	c=1 d=9.28691e-13 t=30955
+biao tou 	表頭	c=1 d=3.69145e-12 t=30955
+biao you 	表有	c=1 d=0.00494193 t=30955
+biao zhi 	標誌	c=3 d=8.34141e-26 t=30955
+biao zhong 	表中	c=5 d=2.71967e-06 t=30955
+biao zhu 	標註	c=1 d=9.81199e-13 t=30955
+biao zhun 	標準	c=56 d=0.000139165 t=30955
+biao zhun ku 	標準庫	c=1 d=0.00115923 t=30955
+bie 	別	c=3 d=3.90107e-12 t=30955
+bie ji 	別急	c=1 d=1.89384e-13 t=30955
+bie ming 	別名	c=1 d=0.000978001 t=30955
+bie ren 	別人	c=1 d=2.93908e-07 t=30955
+bie ti 	別提	c=1 d=1.87047e-14 t=30955
+bin 	斌	c=1 d=5.78327e-29 t=30955
+bing 	並	c=43 d=0.00106483 t=30955
+bing 	病	c=2 d=5.75077e-13 t=30955
+bing bu 	並不	c=1 d=3.50295e-13 t=30955
+bing bu shi 	並不是	c=1 d=1.46403e-14 t=30955
+bing fa 	併發	c=2 d=4.63505e-13 t=30955
+bing fei 	並非	c=1 d=1.0872e-13 t=30955
+bing ji 	並集	c=1 d=6.88109e-15 t=30955
+bing ji ling 	冰激凌	c=1 d=1.65665e-27 t=30955
+bing jia 	病假	c=1 d=3.04532e-13 t=30955
+bing jia dan 	病假單	c=2 d=5.92557e-13 t=30955
+bing lie 	並列	c=1 d=0.00453922 t=30955
+bing qie 	並且	c=4 d=1.7607e-08 t=30955
+bo 	博	c=1 d=1.33802e-14 t=30955
+bo 	播	c=1 d=7.64158e-13 t=30955
+bo ke 	博客	c=1 d=1.91762e-14 t=30955
+bo ke ye 	博客也	c=1 d=4.16281e-14 t=30955
+bo ke yuan 	博客園	c=2 d=1.61487e-13 t=30955
+bo rui 	博瑞	c=2 d=3.27624e-12 t=30955
+bo zhou 	亳州	c=1 d=4.54387e-15 t=30955
+bo zhou shi 	亳州市	c=1 d=4.58952e-15 t=30955
+bu 	不	c=34 d=0.000274506 t=30955
+bu 	布	c=1 d=7.63769e-07 t=30955
+bu 	步	c=4 d=5.07985e-10 t=30955
+bu 	補	c=1 d=3.29896e-13 t=30955
+bu 	部	c=3 d=2.75648e-13 t=30955
+bu an 	不安	c=0 d=2.06719e-15 t=30955
+bu an zhong 	不安中	c=1 d=2.07756e-14 t=30955
+bu bi yao 	不必要	c=1 d=2.55025e-14 t=30955
+bu bian 	不變	c=1 d=6.24133e-14 t=30955
+bu bin 	不斌	c=1 d=1.47112e-12 t=30955
+bu can yu 	不參與	c=1 d=1.02619e-10 t=30955
+bu cheng 	不乘	c=1 d=3.11435e-12 t=30955
+bu cheng gong 	不成功	c=1 d=7.16069e-13 t=30955
+bu chong 	補充	c=1 d=4.91209e-20 t=30955
+bu cun 	不存	c=2 d=7.12496e-13 t=30955
+bu cun zai 	不存在	c=41 d=2.91293e-11 t=30955
+bu dai 	不帶	c=1 d=9.01399e-15 t=30955
+bu dao 	不到	c=2 d=6.27261e-14 t=30955
+bu deng yu 	不等於	c=2 d=5.98212e-15 t=30955
+bu ding 	不定	c=0 d=8.44529e-14 t=30955
+bu ding xiang 	不定向	c=1 d=8.48762e-13 t=30955
+bu dong 	不懂	c=1 d=2.39553e-13 t=30955
+bu dui 	不對	c=1 d=5.25286e-15 t=30955
+bu duo 	不多	c=1 d=3.16798e-07 t=30955
+bu e 	不餓	c=1 d=1.51514e-06 t=30955
+bu er 	布爾	c=8 d=3.009e-13 t=30955
+bu er lei xing 	布爾類型	c=1 d=7.49793e-25 t=30955
+bu fang 	不放	c=1 d=8.9675e-13 t=30955
+bu fang bian 	不方便	c=2 d=1.5621e-12 t=30955
+bu fen 	部分	c=17 d=0.0815505 t=30955
+bu gai 	不改	c=1 d=1.90301e-11 t=30955
+bu geng xin 	不更新	c=1 d=4.22429e-10 t=30955
+bu gou 	不夠	c=1 d=2.56923e-14 t=30955
+bu gou yong 	不夠用	c=2 d=2.58211e-13 t=30955
+bu gu ding 	不固定	c=1 d=6.77864e-15 t=30955
+bu guo 	不過	c=5 d=9.75808e-07 t=30955
+bu hao 	不好	c=1 d=4.27923e-15 t=30955
+bu hao yi si 	不好意思	c=2 d=1.35801e-12 t=30955
+bu hui 	不會	c=11 d=2.40681e-06 t=30955
+bu hui ba 	不會吧	c=1 d=1.66699e-12 t=30955
+bu jia ru 	不加入	c=1 d=6.83724e-28 t=30955
+bu jian 	不見	c=1 d=6.54439e-13 t=30955
+bu jiao 	補繳	c=3 d=2.43487e-12 t=30955
+bu jie qu 	不截取	c=1 d=2.43381e-23 t=30955
+bu jiu 	補救	c=1 d=1.38903e-13 t=30955
+bu ka 	補卡	c=1 d=2.8903e-16 t=30955
+bu kai 	不開	c=1 d=0.000134358 t=30955
+bu ke 	不可	c=3 d=2.36722e-12 t=30955
+bu ke neng 	不可能	c=2 d=0.00680566 t=30955
+bu le 	不了	c=1 d=7.81613e-14 t=30955
+bu ma 	補碼	c=1 d=6.91438e-13 t=30955
+bu mai 	不買	c=1 d=3.85205e-13 t=30955
+bu mang 	不忙	c=1 d=1.24455e-15 t=30955
+bu mei you 	不沒有	c=1 d=1.52378e-14 t=30955
+bu men 	部門	c=26 d=0.000424807 t=30955
+bu ming que 	不明確	c=1 d=2.94769e-12 t=30955
+bu neng 	不能	c=36 d=0.946495 t=30955
+bu neng shi 	不能是	c=1 d=8.96444e-09 t=30955
+bu neng wei 	不能爲	c=1 d=4.36495e-13 t=30955
+bu neng yong 	不能用	c=4 d=3.98723e-07 t=30955
+bu pi pei 	不匹配	c=2 d=2.05157e-13 t=30955
+bu qing chu 	不清楚	c=1 d=1.64867e-29 t=30955
+bu qu 	不去	c=2 d=1.41979e-06 t=30955
+bu quan 	補全	c=4 d=1.81191e-12 t=30955
+bu quan 	部全	c=1 d=1.30161e-13 t=30955
+bu ran 	不然	c=5 d=1.98445e-05 t=30955
+bu ran ne 	不然呢	c=1 d=0.000199439 t=30955
+bu shan 	不刪	c=1 d=1.89352e-11 t=30955
+bu sheng cheng 	不生成	c=2 d=0.0746459 t=30955
+bu shi 	不是	c=32 d=0.064283 t=30955
+bu shi ma 	不是嗎	c=1 d=8.55661e-20 t=30955
+bu shi shuo 	不是說	c=0 d=5.34787e-21 t=30955
+bu shi yong 	不適用	c=1 d=0.839457 t=30955
+bu shu 	部署	c=13 d=4.20431e-12 t=30955
+bu shu lian 	不熟練	c=1 d=1.58596e-14 t=30955
+bu shu yu 	不屬於	c=0 d=9.88334e-11 t=30955
+bu shu yu wo 	不屬於我	c=1 d=9.93288e-10 t=30955
+bu shua xin 	部刷新	c=1 d=1.05798e-16 t=30955
+bu shuo 	不說	c=1 d=9.05763e-13 t=30955
+bu tai 	不太	c=0 d=1.51984e-14 t=30955
+bu tai dui 	不太對	c=1 d=1.52746e-13 t=30955
+bu tie 	補貼	c=1 d=1.10022e-06 t=30955
+bu tong 	不同	c=12 d=0.00180902 t=30955
+bu tong bu 	不同步	c=1 d=2.39431e-07 t=30955
+bu wei 	不爲	c=7 d=5.24784e-08 t=30955
+bu wei 	部位	c=1 d=7.68122e-15 t=30955
+bu wei kong 	不爲空	c=2 d=1.49979e-07 t=30955
+bu xian shi 	不顯示	c=2 d=1.98614e-14 t=30955
+bu xing 	不行	c=1 d=3.18386e-08 t=30955
+bu xu yao 	不需要	c=22 d=0.0153538 t=30955
+bu yao 	不要	c=3 d=4.38286e-12 t=30955
+bu yao you 	不要有	c=1 d=4.05934e-12 t=30955
+bu yi lai 	不依賴	c=1 d=0.00275318 t=30955
+bu yi zhi 	不一致	c=3 d=3.50446e-13 t=30955
+bu yong 	不用	c=4 d=2.10752e-06 t=30955
+bu yun xing 	不運行	c=1 d=3.28697e-29 t=30955
+bu zai 	不再	c=1 d=1.74159e-27 t=30955
+bu zha shi 	不紮實	c=1 d=9.61936e-15 t=30955
+bu zheng que 	不正確	c=1 d=0.733447 t=30955
+bu zhi chi 	步支持	c=1 d=5.9349e-10 t=30955
+bu zhi dao 	不知道	c=10 d=0.000245118 t=30955
+bu zhi xing 	不執行	c=2 d=3.40822e-14 t=30955
+bu zhou 	步驟	c=8 d=0.0158434 t=30955
+bu zou 	步驟	c=3 d=2.45389e-12 t=30955
+ca chu 	擦出	c=1 d=1.29826e-12 t=30955
+cai 	才	c=8 d=0.00726316 t=30955
+cai 	菜	c=1 d=1.60163e-12 t=30955
+cai dan 	菜單	c=18 d=2.93855e-11 t=30955
+cai dan shang 	菜單上	c=1 d=5.19972e-13 t=30955
+cai fan 	採番	c=14 d=0.00636875 t=30955
+cai gou 	採購	c=112 d=0.776143 t=30955
+cai gou dan jia 	採購單價	c=1 d=0.000276698 t=30955
+cai gou duan 	採購段	c=2 d=0.00162053 t=30955
+cai gou jia 	採購價	c=15 d=8.0506e-07 t=30955
+cai gou ru ku 	採購入庫	c=1 d=1.69599e-09 t=30955
+cai gou shu liang 	採購數量	c=1 d=5.19073e-22 t=30955
+cai gou ti yun dan hao 	採購提運單號	c=1 d=3.55892e-23 t=30955
+cai gou yun shu 	採購運輸	c=1 d=0.000413853 t=30955
+cai gou zhuang xiang dan 	採購裝箱單	c=1 d=2.17992e-21 t=30955
+cai jiao 	才叫	c=0 d=3.7947e-14 t=30955
+cai kuang 	採礦	c=4 d=5.74649e-13 t=30955
+cai na 	採納	c=2 d=8.63841e-14 t=30955
+cai neng 	才能	c=5 d=4.38058e-12 t=30955
+cai shu 	菜蔬	c=1 d=2.73043e-23 t=30955
+cai wu 	財務	c=3 d=5.13362e-08 t=30955
+cai wu nian yue 	財務年月	c=1 d=4.75138e-11 t=30955
+cai yong 	採用	c=1 d=4.14276e-16 t=30955
+cai you 	纔有	c=1 d=2.5371e-12 t=30955
+can kao 	參考	c=9 d=5.22223e-05 t=30955
+can shu 	參數	c=95 d=1.13789 t=30955
+can shu li 	參數裏	c=1 d=3.38247e-13 t=30955
+can yu 	參與	c=2 d=1.87961e-10 t=30955
+can zhao 	參照	c=1 d=1.25445e-20 t=30955
+cang 	倉	c=6 d=6.76141e-09 t=30955
+cang ku 	倉庫	c=31 d=1.84933e-08 t=30955
+cao peng 	曹鵬	c=1 d=1.95623e-12 t=30955
+cao zuo 	操作	c=86 d=0.47057 t=30955
+cao zuo lei xing 	操作類型	c=2 d=0.802519 t=30955
+cao zuo xi tong 	操作系統	c=2 d=3.33846e-06 t=30955
+ce 	冊	c=1 d=9.33345e-13 t=30955
+ce 	測	c=10 d=1.48176e-05 t=30955
+ce shi 	測試	c=44 d=0.0613 t=30955
+ce shi gong cheng shi 	測試工程師	c=1 d=6.85611e-31 t=30955
+ce shi shu ju 	測試數據	c=2 d=0.335598 t=30955
+ce shi yong 	測試用	c=1 d=2.92591e-13 t=30955
+ce wan le 	測完了	c=1 d=0.000136389 t=30955
+ce yi xia 	冊一下	c=1 d=1.29826e-12 t=30955
+ceng 	層	c=37 d=2.75518 t=30955
+ceng ji 	層級	c=9 d=0.00105227 t=30955
+ceng shu 	層數	c=4 d=0.677675 t=30955
+cha 	差	c=1 d=2.74841e-12 t=30955
+cha 	查	c=4 d=2.28489e-13 t=30955
+cha bu dao 	查不到	c=2 d=7.45291e-13 t=30955
+cha cha 	查查	c=1 d=3.042e-30 t=30955
+cha chu 	查出	c=2 d=2.19502e-14 t=30955
+cha dao 	查到	c=2 d=4.37773e-12 t=30955
+cha jian 	插件	c=34 d=0.000872671 t=30955
+cha kan 	查看	c=68 d=0.00438923 t=30955
+cha le 	查了	c=1 d=1.50472e-13 t=30955
+cha ru 	插入	c=45 d=1.34738 t=30955
+cha ru biao 	插入表	c=2 d=3.73107e-12 t=30955
+cha shou 	查收	c=1 d=3.97896e-12 t=30955
+cha xin 	查新	c=4 d=0.00362464 t=30955
+cha xun 	查詢	c=124 d=0.0633246 t=30955
+cha xun chu 	查詢出	c=1 d=2.04906e-28 t=30955
+cha yi xia 	查一下	c=1 d=1.78355e-13 t=30955
+cha zhao 	查找	c=6 d=5.86462e-13 t=30955
+chai 	拆	c=1 d=1.89842e-12 t=30955
+chai fen 	拆分	c=2 d=4.05008e-10 t=30955
+chai xian 	拆線	c=1 d=6.04223e-15 t=30955
+chan pin 	產品	c=4 d=3.72034e-12 t=30955
+chan pin hao 	產品號	c=1 d=3.72919e-14 t=30955
+chan sheng 	產生	c=6 d=3.57882e-08 t=30955
+chang du 	長度	c=12 d=0.257947 t=30955
+chang he 	場合	c=1 d=3.69145e-12 t=30955
+chang liang 	常量	c=8 d=7.77187e-06 t=30955
+chang liang lei 	常量類	c=1 d=1.13215e-19 t=30955
+chang yang 	長陽	c=1 d=6.86683e-20 t=30955
+chang yong 	常用	c=7 d=0.000103362 t=30955
+chang zheng 	長征	c=2 d=1.57442e-24 t=30955
+chao 	超	c=1 d=0.00224287 t=30955
+chao guo 	超過	c=2 d=1.15145e-12 t=30955
+chao ji 	超級	c=2 d=1.42052e-12 t=30955
+chao shi 	超市	c=1 d=1.69363e-22 t=30955
+chao shi 	超時	c=1 d=0.00052611 t=30955
+che 	車	c=1 d=1.76833e-12 t=30955
+che dan 	扯淡	c=1 d=1.3821e-13 t=30955
+che kai 	扯開	c=1 d=2.32473e-13 t=30955
+che pai 	車牌	c=1 d=1.64245e-14 t=30955
+che xiao 	撤銷	c=2 d=1.63928e-13 t=30955
+che yao shi 	車鑰匙	c=1 d=1.67535e-12 t=30955
+chen 	陳	c=2 d=2.48771e-16 t=30955
+cheng 	乘	c=2 d=8.27831e-13 t=30955
+cheng 	城	c=1 d=3.28754e-31 t=30955
+cheng 	成	c=28 d=0.159614 t=30955
+cheng 	稱	c=2 d=6.11774e-14 t=30955
+cheng ben 	成本	c=61 d=1.4895 t=30955
+cheng du 	程度	c=1 d=6.43139e-14 t=30955
+cheng fa 	乘法	c=1 d=0.362402 t=30955
+cheng gong 	成功	c=51 d=1.52214 t=30955
+cheng gong hou 	成功後	c=1 d=1.1806e-12 t=30955
+cheng hu 	稱呼	c=1 d=1.3147e-13 t=30955
+cheng ji 	成績	c=1 d=5.37196e-14 t=30955
+cheng li 	成立	c=1 d=3.43359e-13 t=30955
+cheng ren 	承認	c=1 d=2.48086e-13 t=30955
+cheng shi 	城市	c=3 d=0.0272418 t=30955
+cheng wei 	成爲	c=5 d=1.5101e-12 t=30955
+cheng xian 	呈現	c=2 d=1.18888e-09 t=30955
+cheng xu 	程序	c=32 d=0.00340501 t=30955
+cheng xu yuan 	程序員	c=6 d=3.70503e-12 t=30955
+cheng xu yuan 	程序猿	c=1 d=6.84678e-15 t=30955
+cheng zan 	稱讚	c=1 d=2.32473e-13 t=30955
+cheng zuo 	稱作	c=1 d=1.35474e-13 t=30955
+chi 	吃	c=1 d=1.49259e-06 t=30955
+chi duo 	吃多	c=1 d=1.75909e-27 t=30955
+chi shen me 	吃什麼	c=1 d=8.42633e-16 t=30955
+chi yao 	吃藥	c=1 d=6.94906e-13 t=30955
+chi zhi yi heng 	持之以恆	c=1 d=1.09529e-12 t=30955
+chong 	蟲	c=2 d=6.68615e-12 t=30955
+chong 	重	c=1 d=1.55055e-13 t=30955
+chong dian 	充電	c=1 d=3.47885e-20 t=30955
+chong die 	重疊	c=4 d=9.25501e-13 t=30955
+chong fen 	充分	c=1 d=1.20445e-12 t=30955
+chong fu 	重複	c=16 d=1.25631e-06 t=30955
+chong fu xing 	重複性	c=1 d=1.89874e-14 t=30955
+chong gou 	重構	c=4 d=1.15443e-13 t=30955
+chong ming ming 	重命名	c=2 d=1.37166e-12 t=30955
+chong qi 	重啓	c=3 d=2.97013e-13 t=30955
+chong shang 	崇尚	c=1 d=2.8044e-14 t=30955
+chong she 	重設	c=1 d=1.90398e-17 t=30955
+chong suan 	重算	c=13 d=1.52755e-08 t=30955
+chong tu 	衝突	c=6 d=2.2167e-12 t=30955
+chong wen 	重溫	c=1 d=4.10014e-12 t=30955
+chong wu 	寵物	c=4 d=2.93544e-06 t=30955
+chong xin 	重新	c=80 d=0.00740884 t=30955
+chong xin ji suan 	重新計算	c=1 d=5.42409e-10 t=30955
+chong xin sheng cheng 	重新生成	c=3 d=3.54611e-10 t=30955
+chong zhi 	充值	c=1 d=1.12865e-12 t=30955
+chong zhi 	重置	c=21 d=3.14248e-12 t=30955
+chong zhi xu lie 	重置序列	c=3 d=3.76667e-14 t=30955
+chu 	出	c=26 d=4.65967e-08 t=30955
+chu 	除	c=10 d=9.03047e-13 t=30955
+chu bu 	初步	c=1 d=1.15443e-13 t=30955
+chu chang 	出廠	c=1 d=2.52445e-12 t=30955
+chu diao 	除掉	c=1 d=2.11916e-12 t=30955
+chu fa 	出發	c=1 d=7.2689e-13 t=30955
+chu fa 	觸發	c=11 d=4.84577e-07 t=30955
+chu fa qi 	觸發器	c=1 d=7.2689e-13 t=30955
+chu fang 	處方	c=1 d=1.33779e-12 t=30955
+chu huo 	出貨	c=3 d=6.01331e-05 t=30955
+chu ji 	初級	c=1 d=7.56919e-15 t=30955
+chu ji cheng xu yuan 	初級程序員	c=1 d=6.91556e-15 t=30955
+chu kou 	出口	c=1 d=3.73566e-05 t=30955
+chu ku 	出庫	c=6 d=5.49076e-05 t=30955
+chu lai 	出來	c=3 d=2.25603e-13 t=30955
+chu le 	除了	c=2 d=6.27261e-14 t=30955
+chu le ma 	除了嗎	c=1 d=7.54733e-14 t=30955
+chu li 	處理	c=38 d=0.0217389 t=30955
+chu li lei 	處理類	c=1 d=2.46975e-19 t=30955
+chu mo ban 	觸摸板	c=1 d=6.3488e-09 t=30955
+chu qu 	出去	c=2 d=1.38544e-12 t=30955
+chu qu 	除去	c=1 d=1.39239e-12 t=30955
+chu sheng 	出生	c=1 d=1.65896e-14 t=30955
+chu shi 	出世	c=1 d=2.09302e-13 t=30955
+chu shi 	初始	c=0 d=2.13857e-32 t=30955
+chu shi hua 	初始化	c=54 d=0.197501 t=30955
+chu shi zhi 	初始值	c=2 d=7.22013e-22 t=30955
+chu wei 	儲位	c=1 d=1.30769e-09 t=30955
+chu xian 	出現	c=7 d=2.0403e-07 t=30955
+chu yin 	初音	c=1 d=5.57296e-05 t=30955
+chu yu 	處於	c=1 d=1.65896e-14 t=30955
+chu yuan 	出院	c=1 d=2.95532e-13 t=30955
+chu zhou 	滁州	c=1 d=1.08927e-06 t=30955
+chuan 	串	c=2 d=4.20511e-14 t=30955
+chuan 	傳	c=7 d=2.96647e-12 t=30955
+chuan bo 	傳播	c=18 d=0.907174 t=30955
+chuan can 	傳參	c=4 d=8.36314e-13 t=30955
+chuan dao 	傳到	c=1 d=5.98111e-13 t=30955
+chuan di 	傳遞	c=2 d=1.47493e-13 t=30955
+chuan jiao shi 	傳教士	c=1 d=1.33135e-14 t=30955
+chuan ru 	傳入	c=10 d=8.93341e-11 t=30955
+chuan shu 	傳輸	c=3 d=1.92379e-12 t=30955
+chuan song 	傳送	c=3 d=5.16168e-13 t=30955
+chuan zhi 	傳值	c=5 d=3.58981e-12 t=30955
+chuang 	創	c=1 d=0.878095 t=30955
+chuang 	牀	c=1 d=4.56585e-13 t=30955
+chuang 	窗	c=2 d=4.82402e-14 t=30955
+chuang jian 	創建	c=41 d=0.00200918 t=30955
+chuang jian ren 	創建人	c=3 d=9.15457e-13 t=30955
+chuang kou 	窗口	c=7 d=2.7184e-12 t=30955
+chuang shang 	牀上	c=1 d=3.4615e-20 t=30955
+chuang shi ji 	創世紀	c=1 d=2.92283e-30 t=30955
+chuang zao 	創造	c=1 d=5.80433e-13 t=30955
+chun 	春	c=1 d=4.12855e-05 t=30955
+chun 	純	c=2 d=1.94046e-05 t=30955
+chun li run 	純利潤	c=5 d=0.000118783 t=30955
+chuo 	戳	c=1 d=2.36107e-19 t=30955
+ci 	次	c=7 d=0.135335 t=30955
+ci 	此	c=4 d=6.01108e-13 t=30955
+ci ci 	此次	c=1 d=2.79137e-18 t=30955
+ci dian 	詞典	c=4 d=0.793073 t=30955
+ci fang fa 	次方法	c=1 d=5.63567e-19 t=30955
+ci hui 	詞彙	c=1 d=5.69036e-15 t=30955
+ci ji 	次級	c=1 d=3.52171e-17 t=30955
+ci ku 	詞庫	c=1 d=3.46869e-15 t=30955
+ci lei 	此類	c=2 d=7.19575e-14 t=30955
+ci shi 	此時	c=2 d=3.14565e-12 t=30955
+ci shu 	次數	c=2 d=0.231078 t=30955
+ci xu 	次序	c=2 d=1.0429e-13 t=30955
+ci zhi 	辭職	c=1 d=3.1159e-14 t=30955
+ci zhi le 	辭職了	c=1 d=3.03013e-13 t=30955
+cong 	從	c=49 d=0.2278 t=30955
+cong shu 	叢書	c=1 d=6.62725e-14 t=30955
+cong wu 	從無	c=1 d=4.77601e-13 t=30955
+cun 	存	c=1 d=1.98134e-15 t=30955
+cun 	寸	c=3 d=6.67867e-13 t=30955
+cun chu 	存儲	c=10 d=7.22901e-12 t=30955
+cun de 	存的	c=1 d=1.94211e-15 t=30955
+cun fang 	存放	c=5 d=6.96256e-11 t=30955
+cun fang zai 	存放在	c=4 d=2.14465e-13 t=30955
+cun ru 	存入	c=2 d=1.19824e-10 t=30955
+cun you 	存有	c=1 d=1.44596e-15 t=30955
+cun zai 	存在	c=31 d=1.68387e-10 t=30955
+cuo 	錯	c=1 d=3.55347e-05 t=30955
+cuo le 	錯了	c=1 d=1.63537e-22 t=30955
+cuo shi 	措施	c=2 d=3.17933e-12 t=30955
+cuo wu 	錯誤	c=32 d=1.36099e-07 t=30955
+cuo zuo 	錯做	c=2 d=4.91033e-10 t=30955
+da 	大	c=5 d=6.90966e-09 t=30955
+da 	打	c=8 d=2.43762e-12 t=30955
+da 	答	c=2 d=4.69979e-22 t=30955
+da an 	答案	c=1 d=1.48232e-13 t=30955
+da ba 	大巴	c=0 d=4.14205e-15 t=30955
+da ba 	大把	c=0 d=0.00192191 t=30955
+da ba da ba 	大把大把	c=1 d=0.0096577 t=30955
+da ba ni 	大巴你	c=1 d=4.16281e-14 t=30955
+da ban 	大阪	c=2 d=8.2656e-14 t=30955
+da ban guan xi 	大阪關西	c=1 d=4.06003e-14 t=30955
+da ban nian 	大半年	c=1 d=8.23816e-15 t=30955
+da bao 	大寶	c=0 d=1.18506e-28 t=30955
+da bao 	打包	c=19 d=0.000161853 t=30955
+da bao ka 	大寶卡	c=1 d=1.191e-27 t=30955
+da bao shi jian 	打包時間	c=1 d=4.1938e-13 t=30955
+da bao zha 	大爆炸	c=1 d=1.95623e-12 t=30955
+da bu 	打不	c=0 d=1.11761e-15 t=30955
+da bu fen 	大部分	c=1 d=2.65433e-14 t=30955
+da bu kai 	打不開	c=2 d=2.44989e-12 t=30955
+da bu le 	打不了	c=1 d=1.12321e-14 t=30955
+da che 	打車	c=1 d=1.03668e-12 t=30955
+da chu 	打出	c=1 d=5.70415e-14 t=30955
+da dian hua 	打電話	c=2 d=1.12535e-07 t=30955
+da duan 	打斷	c=0 d=4.70251e-08 t=30955
+da duan dian 	打斷點	c=1 d=4.72608e-07 t=30955
+da fu 	答覆	c=28 d=1.71245e-05 t=30955
+da hua 	大話	c=1 d=9.10303e-13 t=30955
+da jian 	搭建	c=9 d=0.294458 t=30955
+da jiao tang 	大教堂	c=1 d=0.594521 t=30955
+da ka 	打卡	c=1 d=2.87589e-16 t=30955
+da kai 	打開	c=35 d=0.000330865 t=30955
+da liang 	大量	c=1 d=4.64686e-14 t=30955
+da men 	大門	c=1 d=6.41479e-13 t=30955
+da nao 	大腦	c=1 d=0.00227676 t=30955
+da quan 	大全	c=4 d=0.559898 t=30955
+da run fa 	大潤發	c=2 d=1.42787e-12 t=30955
+da san 	大三	c=1 d=9.76473e-15 t=30955
+da shen 	大神	c=6 d=0.000492113 t=30955
+da suan 	打算	c=2 d=4.4501e-05 t=30955
+da wang 	大王	c=1 d=0.774924 t=30955
+da wang ka 	大王卡	c=1 d=0.000112788 t=30955
+da xiao 	大小	c=6 d=0.242112 t=30955
+da xiao xie 	大小寫	c=4 d=4.85508e-13 t=30955
+da xie 	大寫	c=3 d=3.54671e-12 t=30955
+da xing 	大型	c=2 d=1.73532e-14 t=30955
+da xue 	大學	c=1 d=2.3589e-14 t=30955
+da yi 	答疑	c=2 d=4.10896e-18 t=30955
+da yin 	打印	c=10 d=0.558331 t=30955
+da you 	大有	c=1 d=1.74824e-13 t=30955
+da yu 	大於	c=11 d=7.29396e-05 t=30955
+da zhan 	大展	c=1 d=5.23932e-14 t=30955
+da zhi 	大致	c=1 d=2.60177e-14 t=30955
+da zhuan 	大專	c=1 d=9.21831e-14 t=30955
+da zi 	打字	c=1 d=1.55429e-12 t=30955
+dai 	代	c=6 d=8.18678e-12 t=30955
+dai 	帶	c=1 d=2.91886e-14 t=30955
+dai 	待	c=5 d=7.49521e-12 t=30955
+dai bian ji 	代編輯	c=1 d=5.42594e-14 t=30955
+dai biao 	代表	c=3 d=2.06929e-12 t=30955
+dai chu 	帶出	c=3 d=2.26284e-08 t=30955
+dai dao 	帶到	c=4 d=0.0761538 t=30955
+dai ge shi hua 	代格式化	c=1 d=2.39016e-16 t=30955
+dai hao 	代號	c=1 d=5.57673e-13 t=30955
+dai li 	代理	c=2 d=1.92639 t=30955
+dai ma 	代碼	c=71 d=6.77287e-05 t=30955
+dai ma da quan 	代碼大全	c=1 d=5.79033e-14 t=30955
+dai ma gui fan 	代碼規範	c=1 d=7.45292e-13 t=30955
+dai shi qu 	代時區	c=1 d=1.48232e-13 t=30955
+dai shu 	代數	c=2 d=6.38225e-13 t=30955
+dai su 	怠速	c=0 d=5.37196e-15 t=30955
+dai ti 	代替	c=2 d=0.00951391 t=30955
+dai zhe 	呆着	c=1 d=9.83906e-16 t=30955
+dai zhu shi 	帶註釋	c=1 d=5.92662e-23 t=30955
+dan 	但	c=7 d=1.28991e-12 t=30955
+dan 	單	c=20 d=1.65673e-06 t=30955
+dan biao 	單表	c=8 d=6.85418e-12 t=30955
+dan ceng 	單層	c=2 d=0.0799163 t=30955
+dan ci 	單詞	c=3 d=0.002977 t=30955
+dan dang 	擔當	c=1 d=4.29213e-12 t=30955
+dan fang 	單方	c=0 d=3.2853e-24 t=30955
+dan ge 	單個	c=7 d=0.0449436 t=30955
+dan ge jie dian 	單個節點	c=1 d=8.85685e-14 t=30955
+dan hang 	單行	c=1 d=1.56209e-12 t=30955
+dan hao 	單號	c=49 d=0.0156334 t=30955
+dan jia 	單價	c=34 d=1.43251e-07 t=30955
+dan ju 	單據	c=5 d=5.37193e-10 t=30955
+dan mo kuai 	單模塊	c=3 d=6.70994e-12 t=30955
+dan sheng 	誕生	c=1 d=4.87249e-13 t=30955
+dan shi 	但是	c=3 d=9.61772e-13 t=30955
+dan wei 	單位	c=48 d=1.00323e-07 t=30955
+dan ye mian 	但頁面	c=1 d=2.64064e-12 t=30955
+dan yi 	單一	c=1 d=1.49335e-12 t=30955
+dan yin hao 	單引號	c=2 d=9.33543e-15 t=30955
+dan yuan 	單元	c=16 d=4.21373e-12 t=30955
+dan yuan ge 	單元格	c=5 d=1.56209e-12 t=30955
+dan zai 	但在	c=1 d=3.23474e-17 t=30955
+dan zi 	單子	c=1 d=4.16494e-20 t=30955
+dang 	檔	c=0 d=3.31549e-14 t=30955
+dang 	當	c=3 d=0.0256042 t=30955
+dang qian 	當前	c=55 d=0.367785 t=30955
+dang qian ceng 	當前層	c=2 d=0.12768 t=30955
+dang qian hang 	當前行	c=1 d=1.22899e-14 t=30955
+dang ran 	當然	c=1 d=8.9907e-14 t=30955
+dang shi 	當時	c=1 d=6.01108e-13 t=30955
+dao 	到	c=78 d=1.15176 t=30955
+dao 	道	c=1 d=5.93692e-14 t=30955
+dao chu 	到處	c=1 d=1.37877e-14 t=30955
+dao chu 	導出	c=19 d=1.32948 t=30955
+dao da 	到達	c=0 d=3.44189e-13 t=30955
+dao da di 	到達地	c=1 d=3.45915e-12 t=30955
+dao hang 	導航	c=2 d=3.08336e-12 t=30955
+dao huo 	到貨	c=1 d=5.19623e-13 t=30955
+dao le 	到了	c=2 d=3.27403e-12 t=30955
+dao lun 	導論	c=1 d=4.40955e-15 t=30955
+dao mian 	到麪	c=2 d=7.42074e-13 t=30955
+dao ru 	導入	c=20 d=0.851195 t=30955
+dao ru shu ju 	導入數據	c=1 d=6.26601e-31 t=30955
+dao ru wen jian 	導入文件	c=1 d=7.99332e-13 t=30955
+dao shi 	倒是	c=1 d=9.9603e-13 t=30955
+dao shu 	倒數	c=3 d=3.84015e-06 t=30955
+dao shu 	導數	c=3 d=0.0523428 t=30955
+dao xian 	導線	c=1 d=5.93692e-14 t=30955
+dao zhi 	導致	c=1 d=1.53538e-15 t=30955
+de 	的	c=1183 d=6.0039 t=30955
+de dao 	得到	c=2 d=1.81478e-13 t=30955
+de er 	德爾	c=0 d=7.14341e-15 t=30955
+de shi hou 	的時候	c=1 d=3.28362e-17 t=30955
+de shu ju 	的數據	c=1 d=8.88128e-17 t=30955
+de ti du 	的梯度	c=1 d=0.0706512 t=30955
+den 	㩐	c=0 d=3.88138e-15 t=30955
+den an 	㩐按	c=1 d=3.95979e-14 t=30955
+deng 	登	c=1 d=1.01125e-14 t=30955
+deng 	等	c=11 d=3.27913e-12 t=30955
+deng ai 	等唉	c=2 d=7.91968e-14 t=30955
+deng an 	登岸	c=0 d=3.88138e-15 t=30955
+deng dai 	等待	c=1 d=1.39937e-12 t=30955
+deng dao 	等到	c=1 d=1.10078e-12 t=30955
+deng deng 	等等	c=3 d=4.37865e-12 t=30955
+deng hao 	等號	c=1 d=2.20602e-14 t=30955
+deng hui 	等會	c=3 d=1.33151e-06 t=30955
+deng ji 	等級	c=1 d=2.06115e-09 t=30955
+deng lu 	登錄	c=143 d=0.951886 t=30955
+deng lu re 	登陸熱	c=1 d=1.66784e-18 t=30955
+deng lu ren 	登錄人	c=6 d=5.33184e-09 t=30955
+deng lu ye mian 	登錄頁面	c=1 d=4.47698e-17 t=30955
+deng wo 	等我	c=1 d=2.83259e-14 t=30955
+deng xia 	燈下	c=2 d=2.55511e-07 t=30955
+deng xia 	等下	c=2 d=9.49373e-05 t=30955
+deng yu 	等於	c=12 d=0.0267644 t=30955
+deng zhe 	等着	c=3 d=0.000101546 t=30955
+di 	低	c=1 d=6.74484e-15 t=30955
+di 	地	c=1 d=3.85561e-12 t=30955
+di 	第	c=38 d=2.02153 t=30955
+di ba 	第八	c=1 d=2.05849e-13 t=30955
+di ba shi qu 	第八時區	c=2 d=7.42643e-12 t=30955
+di ceng 	底層	c=2 d=3.50727e-14 t=30955
+di duan 	低端	c=2 d=0.452341 t=30955
+di er 	滴耳	c=1 d=1.0872e-13 t=30955
+di fang 	地方	c=5 d=4.15207e-13 t=30955
+di gui 	遞歸	c=4 d=1.66736e-19 t=30955
+di guo 	帝國	c=6 d=3.10418 t=30955
+di guo shi dai 	帝國時代	c=5 d=3.12266 t=30955
+di que 	的確	c=2 d=6.96706e-14 t=30955
+di san 	第三	c=1 d=0.0279431 t=30955
+di san ceng 	第三層	c=1 d=0.280832 t=30955
+di san fang 	第三方	c=1 d=3.59224e-15 t=30955
+di shi ni 	迪士尼	c=1 d=8.17729e-16 t=30955
+di si 	第四	c=1 d=1.63004e-13 t=30955
+di tie 	地鐵	c=1 d=8.1759e-14 t=30955
+di tu 	地圖	c=2 d=3.52902e-12 t=30955
+di yi 	第一	c=1 d=2.72106e-12 t=30955
+di yi bu 	第一步	c=2 d=4.46403e-10 t=30955
+di yi ceng 	第一層	c=1 d=1.28246e-15 t=30955
+di yi ci 	第一次	c=1 d=1.22582e-13 t=30955
+di yi ge 	第一個	c=3 d=1.73967e-13 t=30955
+di yi hang 	第一行	c=5 d=7.2689e-13 t=30955
+di yi tiao 	第一條	c=5 d=2.03843e-27 t=30955
+di yu 	地域	c=2 d=4.25165e-28 t=30955
+di zhi 	地址	c=43 d=0.645532 t=30955
+di zhi lan 	地址欄	c=1 d=3.67305e-12 t=30955
+dian 	墊	c=1 d=1.06292e-12 t=30955
+dian 	店	c=1 d=3.34017e-12 t=30955
+dian 	電	c=1 d=2.53673e-14 t=30955
+dian 	點	c=7 d=4.7026e-08 t=30955
+dian ban 	點半	c=1 d=4.77681e-15 t=30955
+dian bao 	電報	c=4 d=9.0847e-13 t=30955
+dian cheng 	點乘	c=1 d=0.357007 t=30955
+dian chi 	電池	c=2 d=4.72014e-14 t=30955
+dian ci 	電磁	c=1 d=2.53098e-13 t=30955
+dian de 	點的	c=0 d=1.47036e-07 t=30955
+dian de fan 	點的飯	c=1 d=1.47774e-06 t=30955
+dian dui dian 	點對點	c=1 d=7.49028e-13 t=30955
+dian fu 	顛覆	c=1 d=9.81199e-13 t=30955
+dian hua 	電話	c=7 d=4.53558e-13 t=30955
+dian hua 	點畫	c=1 d=5.00878e-14 t=30955
+dian ji 	點擊	c=36 d=0.00449787 t=30955
+dian ji hang 	點擊行	c=1 d=1.45797e-24 t=30955
+dian ji hou 	點擊後	c=1 d=3.44365e-18 t=30955
+dian ji shi 	點擊時	c=1 d=7.64158e-13 t=30955
+dian kan chu 	店看出	c=1 d=2.72857e-15 t=30955
+dian li 	店裏	c=2 d=7.69185e-10 t=30955
+dian liu 	電流	c=1 d=6.08721e-14 t=30955
+dian lu 	電路	c=5 d=1.87651e-12 t=30955
+dian ma 	電碼	c=2 d=1.0852e-13 t=30955
+dian nao 	電腦	c=5 d=0.000273284 t=30955
+dian nao shang 	電腦上	c=1 d=2.78321e-13 t=30955
+dian ran 	點燃	c=2 d=1.18485e-12 t=30955
+dian wo 	點我	c=1 d=6.01108e-13 t=30955
+dian xian 	電線	c=1 d=2.146e-13 t=30955
+dian xin 	電信	c=2 d=8.95068e-19 t=30955
+dian xing 	典型	c=1 d=1.84231e-12 t=30955
+dian ya 	電壓	c=2 d=1.48975e-13 t=30955
+dian ying 	電影	c=2 d=0.00631391 t=30955
+dian yuan 	電源	c=1 d=3.34017e-12 t=30955
+dian zi 	電子	c=2 d=9.6424e-08 t=30955
+dian zi dang 	電子檔	c=1 d=3.33211e-13 t=30955
+dian zu 	電阻	c=1 d=6.02664e-14 t=30955
+diao 	掉	c=4 d=2.28433e-12 t=30955
+diao nao 	掉鬧	c=1 d=3.99891e-12 t=30955
+diao xia qu 	掉下去	c=1 d=4.0391e-12 t=30955
+diao yong 	調用	c=61 d=8.76038e-06 t=30955
+die dai 	迭代	c=1 d=1.28224e-13 t=30955
+ding 	丁	c=1 d=1.55478e-12 t=30955
+ding 	釘	c=2 d=5.68036e-16 t=30955
+ding dan 	訂單	c=32 d=0.007783 t=30955
+ding dan hao 	訂單號	c=2 d=2.34204e-12 t=30955
+ding dan jie shou zhe 	訂單接收者	c=1 d=1.88895e-12 t=30955
+ding huo 	訂貨	c=7 d=1.44199e-13 t=30955
+ding huo ren 	訂貨人	c=8 d=1.22148e-11 t=30955
+ding jia 	定價	c=1 d=3.02859e-07 t=30955
+ding lv 	定率	c=3 d=6.59971e-05 t=30955
+ding shi 	定時	c=6 d=0.000274654 t=30955
+ding wei 	定位	c=4 d=4.87598e-12 t=30955
+ding yi 	定義	c=32 d=1.08911 t=30955
+ding yi zai 	定義在	c=2 d=3.69609e-19 t=30955
+ding zhi 	定製	c=6 d=2.32109e-16 t=30955
+diu bao 	丟包	c=1 d=2.98299e-05 t=30955
+diu shi 	丟失	c=5 d=1.98008e-07 t=30955
+dong 	動	c=2 d=3.09282e-16 t=30955
+dong 	懂	c=1 d=2.67408e-13 t=30955
+dong 	東	c=1 d=8.09318e-12 t=30955
+dong 	棟	c=2 d=3.95912e-12 t=30955
+dong guo 	動過	c=0 d=3.7363e-08 t=30955
+dong hua 	動畫	c=6 d=0.0177239 t=30955
+dong jie 	凍結	c=1 d=6.46363e-14 t=30955
+dong lu 	東路	c=0 d=4.89775e-16 t=30955
+dong qing 	冬青	c=0 d=2.43762e-13 t=30955
+dong qing hei 	冬青黑	c=1 d=2.44984e-12 t=30955
+dong shou 	動手	c=2 d=7.15582e-05 t=30955
+dong tai 	動態	c=5 d=6.92783e-12 t=30955
+dong wu 	動物	c=1 d=1.26948e-13 t=30955
+dong xi 	東西	c=1 d=1.99094e-13 t=30955
+dou 	都	c=14 d=5.07006e-07 t=30955
+dou 	鬥	c=1 d=2.65388e-12 t=30955
+dou ban 	豆瓣	c=8 d=3.49717e-12 t=30955
+dou bu dong 	都不懂	c=1 d=1.30499e-14 t=30955
+dou hao 	逗號	c=3 d=0.726149 t=30955
+dou hui 	都會	c=2 d=0.00012909 t=30955
+dou jie shou 	都接受	c=2 d=1.1388e-12 t=30955
+dou ke yi 	都可以	c=1 d=6.30405e-14 t=30955
+dou mei 	都沒	c=1 d=3.08977e-07 t=30955
+dou mei you 	都沒有	c=1 d=4.51812e-07 t=30955
+dou neng 	都能	c=1 d=2.24478e-13 t=30955
+dou shi 	都是	c=5 d=0.00618895 t=30955
+dou shi yao 	都是要	c=1 d=1.09529e-12 t=30955
+dou yao 	都要	c=0 d=2.12465e-14 t=30955
+dou yao jia 	都要加	c=1 d=2.1353e-13 t=30955
+dou yi yang 	都一樣	c=1 d=3.04377e-07 t=30955
+dou you 	都有	c=3 d=0.00470279 t=30955
+du 	度	c=2 d=3.26613e-13 t=30955
+du 	讀	c=15 d=3.41479e-07 t=30955
+du du 	讀讀	c=1 d=6.97914e-05 t=30955
+du li 	獨立	c=1 d=8.8355e-15 t=30955
+du qu 	讀取	c=21 d=0.96276 t=30955
+du shu 	讀書	c=1 d=5.74855e-17 t=30955
+du xian 	獨顯	c=1 d=1.29512e-13 t=30955
+du xie 	讀寫	c=2 d=4.06708e-05 t=30955
+du yuan 	讀原	c=1 d=5.70415e-14 t=30955
+du yuan 	讀遠	c=1 d=5.43998e-15 t=30955
+du zi 	獨自	c=1 d=0.00414854 t=30955
+duan 	段	c=2 d=0.0017643 t=30955
+duan 	短	c=0 d=8.45993e-05 t=30955
+duan 	端	c=1 d=3.54671e-12 t=30955
+duan bian liang 	短變量	c=1 d=0.000850233 t=30955
+duan kou 	端口	c=10 d=0.937067 t=30955
+duan xin 	短信	c=1 d=6.90969e-05 t=30955
+duan zao 	鍛造	c=1 d=9.17231e-14 t=30955
+dui 	兌	c=6 d=1.75369e-30 t=30955
+dui 	對	c=31 d=1.03125 t=30955
+dui a 	對啊	c=1 d=7.36096e-14 t=30955
+dui bi 	對比	c=6 d=0.00412817 t=30955
+dui bi jin e 	對比金額	c=1 d=2.06467e-29 t=30955
+dui bu dui 	對不對	c=2 d=3.99411e-13 t=30955
+dui fang 	對方	c=1 d=3.51812e-05 t=30955
+dui hua 	對話	c=1 d=2.64883e-19 t=30955
+dui huan 	兌換	c=4 d=1.75063e-30 t=30955
+dui jie 	對接	c=9 d=1.20349e-11 t=30955
+dui lie 	隊列	c=10 d=6.26756e-12 t=30955
+dui qi 	對齊	c=2 d=3.64467e-09 t=30955
+dui xiang 	對象	c=56 d=1.50422e-05 t=30955
+dui ying 	對應	c=37 d=0.0672438 t=30955
+dui yu 	對於	c=3 d=1.22582e-13 t=30955
+dui zhao 	對照	c=3 d=5.22553e-13 t=30955
+dui zhe 	對着	c=1 d=5.53553e-14 t=30955
+duo 	多	c=21 d=4.56832e-09 t=30955
+duo bian 	多變	c=1 d=6.7112e-15 t=30955
+duo biao 	多表	c=2 d=8.57292e-13 t=30955
+duo bu hao yi si 	多不好意思	c=1 d=5.02173e-15 t=30955
+duo ceng 	多層	c=2 d=0.591954 t=30955
+duo ci 	多次	c=3 d=4.68592e-13 t=30955
+duo duo 	多多	c=1 d=1.47112e-12 t=30955
+duo fen zhi 	多分支	c=1 d=5.23932e-14 t=30955
+duo ge 	多個	c=17 d=0.00456202 t=30955
+duo ge tiao jian 	多個條件	c=1 d=1.05924e-30 t=30955
+duo hang 	多行	c=5 d=3.99716e-12 t=30955
+duo ji 	多級	c=3 d=2.29657e-11 t=30955
+duo le 	多了	c=1 d=2.46254e-14 t=30955
+duo nan 	多難	c=0 d=1.87047e-15 t=30955
+duo nan shou le 	多難受了	c=1 d=1.87985e-14 t=30955
+duo shao 	多少	c=3 d=1.66399e-12 t=30955
+duo she bei 	多設備	c=1 d=3.202e-15 t=30955
+duo shu ju 	多數據	c=1 d=1.67535e-12 t=30955
+duo shuo 	多說	c=1 d=3.20146e-13 t=30955
+duo tiao 	多條	c=4 d=0.704688 t=30955
+duo tiao jian 	多條件	c=1 d=7.07232e-14 t=30955
+duo xiang mu 	多項目	c=1 d=2.26264e-18 t=30955
+duo yu 	多餘	c=3 d=1.22899e-14 t=30955
+duo yu yan 	多語言	c=2 d=1.70096e-14 t=30955
+duo zhang 	多張	c=1 d=1.0487e-30 t=30955
+e 	額	c=12 d=4.42691e-06 t=30955
+e bu 	惡補	c=1 d=2.02626e-14 t=30955
+e le me 	餓了麼	c=4 d=1.1239e-13 t=30955
+e mo 	惡魔	c=1 d=2.22547e-29 t=30955
+en 	嗯	c=38 d=0.0243714 t=30955
+en 	恩	c=3 d=0.000219121 t=30955
+en en 	嗯嗯	c=1 d=3.72919e-14 t=30955
+er 	二	c=1 d=5.46819e-17 t=30955
+er 	而	c=8 d=0.000251014 t=30955
+er cha shu 	二叉樹	c=1 d=3.95912e-12 t=30955
+er dai 	二代	c=1 d=7.39535e-10 t=30955
+er jin zhi 	二進制	c=8 d=2.61951e-12 t=30955
+er qie 	而且	c=4 d=1.75548e-06 t=30955
+er san 	二三	c=0 d=0.000887071 t=30955
+er san xian 	二三線	c=3 d=0.027106 t=30955
+fa 	法	c=2 d=5.5777e-15 t=30955
+fa 	發	c=5 d=5.44943e-06 t=30955
+fa bu 	發佈	c=8 d=3.10946e-06 t=30955
+fa bu guo qu 	發佈過去	c=1 d=4.26821e-14 t=30955
+fa cuo 	發錯	c=0 d=2.61479e-07 t=30955
+fa cuo le 	發錯了	c=1 d=1.3041e-06 t=30955
+fa cuo ren 	發錯人	c=1 d=1.32381e-06 t=30955
+fa dan 	罰單	c=0 d=1.17715e-08 t=30955
+fa dan fang 	罰單方	c=1 d=1.18305e-07 t=30955
+fa dao 	發到	c=1 d=7.9356e-16 t=30955
+fa fang 	發放	c=1 d=8.0918e-10 t=30955
+fa ge 	發個	c=1 d=7.16069e-13 t=30955
+fa gei 	發給	c=0 d=7.82971e-06 t=30955
+fa gei ni 	發給你	c=2 d=3.54866e-12 t=30955
+fa gei wo 	發給我	c=2 d=0.000162664 t=30955
+fa gong zi 	發工資	c=1 d=0.00843808 t=30955
+fa hui 	發回	c=1 d=3.06423e-27 t=30955
+fa hui 	發揮	c=2 d=1.43608e-12 t=30955
+fa huo 	發貨	c=25 d=4.87514e-12 t=30955
+fa huo fang 	發貨方	c=49 d=0.000395174 t=30955
+fa huo shu liang 	發貨數量	c=2 d=2.6771e-21 t=30955
+fa ming 	發明	c=1 d=2.24478e-13 t=30955
+fa pan 	法盤	c=1 d=7.00195e-14 t=30955
+fa pan 	發盤	c=5 d=5.15857e-13 t=30955
+fa piao 	發票	c=32 d=0.00381711 t=30955
+fa qi 	發起	c=3 d=4.19517e-05 t=30955
+fa sheng 	發生	c=1 d=7.19781e-15 t=30955
+fa sheng 	發聲	c=1 d=4.44238e-14 t=30955
+fa song 	發送	c=26 d=0.000101039 t=30955
+fa xia lai 	發下來	c=1 d=7.7785e-16 t=30955
+fa xian 	發現	c=2 d=2.11405e-13 t=30955
+fa xing zhe 	發行者	c=1 d=1.42764e-12 t=30955
+fa xu 	發虛	c=1 d=1.27914e-14 t=30955
+fa yan 	發炎	c=2 d=7.62754e-13 t=30955
+fa yun 	發運	c=9 d=1.44382e-21 t=30955
+fa yun bao zhuang 	發運包裝	c=1 d=1.23599e-22 t=30955
+fan 	番	c=1 d=6.69388e-14 t=30955
+fan 	返	c=1 d=3.74394e-31 t=30955
+fan 	飯	c=0 d=1.47036e-07 t=30955
+fan hao 	番號	c=0 d=1.95623e-13 t=30955
+fan hui 	返回	c=47 d=0.00107016 t=30955
+fan hui zhi 	返回值	c=4 d=1.12662e-12 t=30955
+fan qie 	番茄	c=1 d=4.9342e-14 t=30955
+fan she 	反射	c=5 d=2.59601e-12 t=30955
+fan she 	販社	c=74 d=1.15444e-11 t=30955
+fan she shang pin 	販社商品	c=2 d=0.000528747 t=30955
+fan shen 	翻身	c=1 d=2.31913e-14 t=30955
+fan xiang 	反向	c=14 d=0.45705 t=30955
+fan xing 	泛型	c=2 d=4.50258e-14 t=30955
+fan ye 	翻頁	c=1 d=1.44921e-12 t=30955
+fan yi 	翻譯	c=10 d=0.000283018 t=30955
+fan yi cheng 	翻譯成	c=1 d=4.8851e-14 t=30955
+fan ying 	反映	c=1 d=0.000449405 t=30955
+fan zheng 	反正	c=1 d=7.62057e-10 t=30955
+fan zhuan 	反轉	c=2 d=7.58256e-10 t=30955
+fang 	方	c=20 d=0.000457415 t=30955
+fang an 	方案	c=3 d=1.03152e-12 t=30955
+fang bian 	方便	c=5 d=1.22878e-12 t=30955
+fang chan 	房產	c=1 d=1.7658e-13 t=30955
+fang cheng 	方程	c=1 d=4.43091e-13 t=30955
+fang da jing 	放大鏡	c=1 d=2.74841e-12 t=30955
+fang dai 	房貸	c=1 d=1.88439e-13 t=30955
+fang dao 	放到	c=1 d=1.35474e-13 t=30955
+fang dong 	房東	c=2 d=7.39872e-20 t=30955
+fang fa 	方法	c=129 d=1.25382e-11 t=30955
+fang hua lian 	防滑鏈	c=1 d=3.67305e-12 t=30955
+fang huo 	防火	c=1 d=1.02423e-17 t=30955
+fang huo qiang 	防火牆	c=7 d=2.95532e-13 t=30955
+fang jia 	房價	c=1 d=1.31153e-14 t=30955
+fang kuang 	方框	c=1 d=3.70606e-29 t=30955
+fang mian 	方面	c=1 d=6.71007e-13 t=30955
+fang qi 	放棄	c=1 d=5.11518e-26 t=30955
+fang ru 	放入	c=3 d=2.24478e-13 t=30955
+fang shi 	方式	c=31 d=0.000416077 t=30955
+fang wen 	訪問	c=9 d=1.07307e-06 t=30955
+fang zai 	放在	c=8 d=3.48374e-07 t=30955
+fang zhi 	防止	c=1 d=8.46715e-14 t=30955
+fang zhuang 	防撞	c=1 d=3.16142e-12 t=30955
+fang zu 	房租	c=1 d=9.01244e-13 t=30955
+fei 	費	c=8 d=1.77895e-12 t=30955
+fei 	非	c=10 d=2.31959e-05 t=30955
+fei 	飛	c=5 d=5.33622e-12 t=30955
+fei ben 	飛奔	c=1 d=1.77037e-14 t=30955
+fei chang 	非常	c=4 d=6.38204e-14 t=30955
+fei die 	飛碟	c=0 d=9.03577e-15 t=30955
+fei die shuo 	飛碟說	c=2 d=1.82076e-13 t=30955
+fei gong zuo ri 	非工作日	c=1 d=5.08449e-14 t=30955
+fei ji 	飛機	c=1 d=0.57695 t=30955
+fei lv 	費率	c=18 d=1.74372e-12 t=30955
+fei qiu 	飛秋	c=1 d=7.59159e-24 t=30955
+fei xun 	裴迅	c=9 d=0.000308638 t=30955
+fei yong 	費用	c=11 d=4.14608e-10 t=30955
+fei yong tiao zheng 	費用調整	c=1 d=2.88186e-11 t=30955
+fen 	分	c=5 d=5.65933e-09 t=30955
+fen bian lv 	分辨率	c=1 d=0.000114493 t=30955
+fen bie 	分別	c=6 d=3.16389e-12 t=30955
+fen bu shi 	分佈式	c=5 d=4.80216e-14 t=30955
+fen ceng 	分層	c=1 d=9.47613e-15 t=30955
+fen dou 	奮鬥	c=1 d=0.00711891 t=30955
+fen ge 	分割	c=2 d=1.85967e-13 t=30955
+fen ge fu 	分隔符	c=1 d=9.37386e-05 t=30955
+fen ge hou 	分割後	c=1 d=9.26451e-14 t=30955
+fen gong si 	分公司	c=4 d=6.40824e-09 t=30955
+fen hao 	分號	c=3 d=2.18598 t=30955
+fen lei 	分類	c=3 d=2.64064e-12 t=30955
+fen miao 	分秒	c=0 d=1.79713e-15 t=30955
+fen mo deng chang 	粉墨登場	c=1 d=5.48046e-14 t=30955
+fen pei 	分配	c=2 d=5.33379e-13 t=30955
+fen ping 	分屏	c=1 d=2.42084e-19 t=30955
+fen qu 	分區	c=1 d=1.6881e-13 t=30955
+fen si 	粉絲	c=1 d=4.99671e-15 t=30955
+fen tan 	分攤	c=2 d=3.75694e-13 t=30955
+fen wei 	分爲	c=1 d=1.92711e-12 t=30955
+fen xi 	分析	c=2 d=2.9262e-13 t=30955
+fen xiang 	分享	c=1 d=1.15145e-12 t=30955
+fen ye 	分頁	c=12 d=3.19206e-12 t=30955
+fen zhi 	分支	c=9 d=1.69218e-12 t=30955
+fen zhong 	分鐘	c=2 d=1.41343e-12 t=30955
+fen zu 	分組	c=21 d=1.24441 t=30955
+fen zu tiao jian 	分組條件	c=1 d=7.26767e-11 t=30955
+feng 	封	c=1 d=1.72103e-05 t=30955
+feng chao 	蜂巢	c=3 d=7.91719e-14 t=30955
+feng chao 	風潮	c=1 d=8.29945e-14 t=30955
+feng ge 	風格	c=1 d=6.19521e-15 t=30955
+feng xi 	縫隙	c=1 d=3.93937e-12 t=30955
+feng zhuang 	封裝	c=2 d=2.97013e-13 t=30955
+fou 	否	c=7 d=8.17794e-09 t=30955
+fou ze 	否則	c=3 d=1.61751e-10 t=30955
+fu 	富	c=2 d=6.32448e-15 t=30955
+fu 	父	c=5 d=4.01895e-12 t=30955
+fu 	福	c=6 d=1.27574e-12 t=30955
+fu 	符	c=1 d=7.40292e-22 t=30955
+fu 	負	c=4 d=0.511709 t=30955
+fu dan 	復旦	c=1 d=3.72855e-12 t=30955
+fu dian shu 	浮點數	c=1 d=1.22012e-17 t=30955
+fu fu 	夫婦	c=1 d=1.69715e-17 t=30955
+fu gai 	覆蓋	c=5 d=3.6909e-13 t=30955
+fu gei 	賦給	c=1 d=6.95024e-15 t=30955
+fu hao 	符號	c=5 d=3.17727e-12 t=30955
+fu he 	符合	c=9 d=1.48393e-12 t=30955
+fu jian 	附件	c=9 d=3.48027e-12 t=30955
+fu jie dian 	父節點	c=62 d=0.00143909 t=30955
+fu kuan 	付款	c=6 d=0.000938358 t=30955
+fu kuan fang 	付款方	c=7 d=0.00212522 t=30955
+fu lei 	父類	c=4 d=3.08289e-12 t=30955
+fu pin fan 	父品番	c=1 d=1.04981e-13 t=30955
+fu qu 	拂去	c=1 d=1.04439e-11 t=30955
+fu shang pin 	父商品	c=1 d=8.82469e-30 t=30955
+fu shi 	複試	c=1 d=0.00532682 t=30955
+fu shi tong 	富士通	c=27 d=9.80699e-07 t=30955
+fu wen jian jia 	父文件夾	c=3 d=4.81536e-12 t=30955
+fu wu 	服務	c=18 d=5.89913e-09 t=30955
+fu wu le 	服務了	c=1 d=1.21069e-14 t=30955
+fu wu lei 	服務類	c=1 d=1.23515e-14 t=30955
+fu wu qi 	服務器	c=47 d=0.0103469 t=30955
+fu xi 	付息	c=2 d=5.80954e-26 t=30955
+fu xuan kuang 	複選框	c=2 d=1.3306e-17 t=30955
+fu yin 	福音	c=1 d=1.39263e-14 t=30955
+fu yin jian 	複印件	c=2 d=1.18959e-13 t=30955
+fu za 	複雜	c=2 d=4.7285e-13 t=30955
+fu ze 	負責	c=6 d=3.20717e-14 t=30955
+fu zhai 	負債	c=1 d=0.00559994 t=30955
+fu zhi 	複製	c=20 d=0.918512 t=30955
+fu zhi 	賦值	c=21 d=0.00113061 t=30955
+fu zhi dao 	複製到	c=1 d=1.07379e-14 t=30955
+fu zhi xin zeng 	賦值新增	c=1 d=1.99575e-12 t=30955
+fu zhu 	輔助	c=2 d=3.92294e-14 t=30955
+gai 	改	c=11 d=0.000169747 t=30955
+gai 	該	c=41 d=0.00217676 t=30955
+gai bian 	改變	c=3 d=2.17281e-13 t=30955
+gai bian qian 	改變前	c=1 d=2.1837e-12 t=30955
+gai cheng 	改成	c=13 d=0.000157068 t=30955
+gai de 	改的	c=0 d=4.31931e-08 t=30955
+gai fang shi 	該方式	c=1 d=4.80077e-15 t=30955
+gai ge 	改個	c=3 d=1.00257e-11 t=30955
+gai ge 	改革	c=1 d=1.51592e-12 t=30955
+gai guo 	改過	c=1 d=3.30008e-17 t=30955
+gai hang 	改行	c=1 d=3.9536e-25 t=30955
+gai hang 	該行	c=2 d=1.10592e-08 t=30955
+gai hao 	改好	c=3 d=1.23845e-06 t=30955
+gai hua 	鈣化	c=1 d=1.15223e-20 t=30955
+gai hui 	改回	c=1 d=1.73113e-15 t=30955
+gai jie dian 	該節點	c=2 d=7.64213e-09 t=30955
+gai le 	改了	c=2 d=0.000130387 t=30955
+gai lie 	該列	c=1 d=6.05892e-18 t=30955
+gai lv 	概率	c=3 d=0.301639 t=30955
+gai lv lun 	概率論	c=1 d=3.99891e-12 t=30955
+gai ming 	改名	c=3 d=0.000633025 t=30955
+gai pin fan 	該品番	c=1 d=1.42715e-08 t=30955
+gai shang pin 	該商品	c=1 d=1.07415e-18 t=30955
+gai tai ma fan 	該態麻煩	c=1 d=0.000139144 t=30955
+gai tiao 	該條	c=2 d=3.70188e-08 t=30955
+gai wan 	改完	c=1 d=5.04691e-15 t=30955
+gai wei 	改爲	c=6 d=3.35701e-12 t=30955
+gai wen jian jia 	改文件夾	c=1 d=0.000288735 t=30955
+gai yao 	概要	c=2 d=6.13804e-13 t=30955
+gai ye mian 	該頁面	c=1 d=5.09677e-13 t=30955
+gai yi xia 	該一下	c=2 d=1.7649e-07 t=30955
+gai yong 	改用	c=1 d=1.01422e-19 t=30955
+gan ga 	尷尬	c=3 d=3.14128e-13 t=30955
+gan jue 	感覺	c=8 d=7.21369e-10 t=30955
+gan ma 	幹嘛	c=1 d=2.41961e-13 t=30955
+gan shen me 	幹什麼	c=1 d=0.000149233 t=30955
+gang 	剛	c=1 d=1.68403e-14 t=30955
+gang 	岡	c=1 d=1.57778e-12 t=30955
+gang ao 	港澳	c=1 d=5.87485e-08 t=30955
+gang gang 	剛剛	c=6 d=0.006007 t=30955
+gao 	搞	c=1 d=1.80706e-20 t=30955
+gao di 	高低	c=1 d=1.79249e-13 t=30955
+gao du 	高度	c=3 d=3.91267e-12 t=30955
+gao du zi dong 	高度自動	c=1 d=6.8633e-14 t=30955
+gao ge meng jin 	高歌猛進	c=1 d=1.73951e-13 t=30955
+gao ji 	高級	c=1 d=5.10282e-27 t=30955
+gao liang 	高亮	c=2 d=3.42472e-12 t=30955
+gao shen 	高深	c=1 d=1.07102e-13 t=30955
+gao shou 	高手	c=0 d=4.06003e-15 t=30955
+gao su 	告訴	c=1 d=2.93908e-08 t=30955
+gao xing neng 	高性能	c=2 d=1.04652e-26 t=30955
+gao yao 	高腰	c=1 d=4.16211e-12 t=30955
+gao zhong 	高中	c=1 d=2.62113e-13 t=30955
+ge 	個	c=32 d=1.09531 t=30955
+ge 	各	c=1 d=2.47185e-29 t=30955
+ge 	哥	c=1 d=1.39937e-12 t=30955
+ge 	格	c=8 d=4.23483e-12 t=30955
+ge 	歌	c=1 d=7.85774e-14 t=30955
+ge 	隔	c=1 d=1.82398e-12 t=30955
+ge de er 	歌德爾	c=4 d=1.21294e-13 t=30955
+ge deng 	咯噔	c=1 d=1.55055e-13 t=30955
+ge ming 	革命	c=1 d=0.937067 t=30955
+ge ren 	個人	c=2 d=5.73661e-14 t=30955
+ge shi 	格式	c=16 d=1.44157 t=30955
+ge shi hua 	格式化	c=48 d=6.46771e-12 t=30955
+ge shi shi 	格式是	c=1 d=1.82429e-14 t=30955
+ge shu 	個數	c=1 d=2.98502e-13 t=30955
+ge si qi zhi 	各司其職	c=1 d=5.4937e-13 t=30955
+ge wei 	各位	c=1 d=5.99965e-20 t=30955
+ge xiang 	各項	c=1 d=2.12791e-31 t=30955
+ge xiao shi 	個小時	c=1 d=3.02282e-14 t=30955
+ge yuan 	各院	c=1 d=1.26336e-15 t=30955
+ge zhong 	各種	c=5 d=5.79164e-16 t=30955
+gei 	給	c=13 d=6.85149e-13 t=30955
+gei ding 	給定	c=1 d=1.2197e-13 t=30955
+gei ni 	給你	c=3 d=0.008396 t=30955
+gei wo 	給我	c=3 d=0.000186207 t=30955
+gen 	根	c=2 d=0.00241755 t=30955
+gen 	跟	c=5 d=5.95441e-13 t=30955
+gen jie dian 	根節點	c=39 d=0.00123983 t=30955
+gen jie duan 	跟階段	c=1 d=3.32351e-12 t=30955
+gen ju 	根據	c=133 d=0.0634882 t=30955
+gen lu jing 	根路徑	c=2 d=1.18938e-11 t=30955
+gen ni 	跟你	c=2 d=5.27562e-07 t=30955
+gen wo 	跟我	c=1 d=2.58835e-12 t=30955
+geng 	更	c=2 d=2.50449e-12 t=30955
+geng duo 	更多	c=1 d=4.60142e-16 t=30955
+geng fang bian 	更方便	c=1 d=1.78695e-06 t=30955
+geng gai 	更改	c=74 d=2.3533e-05 t=30955
+geng gai xing bie 	更改性別	c=1 d=1.40008e-18 t=30955
+geng huan 	更換	c=5 d=3.57361e-09 t=30955
+geng jia 	更加	c=1 d=9.42728e-13 t=30955
+geng jian dan 	更簡單	c=1 d=1.12865e-12 t=30955
+geng kuai 	更快	c=1 d=1.12302e-12 t=30955
+geng xin 	更新	c=246 d=0.658284 t=30955
+geng xin biao 	更新表	c=2 d=3.74977e-12 t=30955
+geng xin cheng gong 	更新成功	c=1 d=4.55484e-14 t=30955
+geng xin hou 	更新後	c=1 d=3.00724e-12 t=30955
+geng xin ru 	更新入	c=1 d=1.3871e-26 t=30955
+geng xin yi hou 	更新以後	c=1 d=3.8827e-18 t=30955
+geng xin yi xia 	更新一下	c=1 d=1.10649e-14 t=30955
+geng you 	更有	c=1 d=1.25989e-12 t=30955
+geng yuan 	更遠	c=1 d=5.19972e-13 t=30955
+geng zai 	更在	c=1 d=1.08983e-12 t=30955
+gong 	供	c=1 d=6.02769e-16 t=30955
+gong 	公	c=0 d=0.000568457 t=30955
+gong chang 	工廠	c=9 d=3.11846e-12 t=30955
+gong chang mo shi 	工廠模式	c=1 d=6.14838e-14 t=30955
+gong cheng 	工程	c=1 d=3.75171e-26 t=30955
+gong cheng lve di 	攻城略地	c=1 d=1.84708e-13 t=30955
+gong cheng shi 	工程師	c=5 d=2.81397e-13 t=30955
+gong cun 	共存	c=1 d=3.24984e-13 t=30955
+gong gao 	公告	c=1 d=1.1806e-12 t=30955
+gong ji 	攻擊	c=2 d=3.02436e-11 t=30955
+gong ji jin 	公積金	c=1 d=3.54671e-12 t=30955
+gong ju 	工具	c=80 d=0.0317565 t=30955
+gong ju lan 	工具欄	c=1 d=6.21018e-14 t=30955
+gong ju lei 	工具類	c=3 d=3.14565e-12 t=30955
+gong ju xiang 	工具箱	c=2 d=5.92259e-15 t=30955
+gong kai ke 	公開課	c=2 d=0.000587285 t=30955
+gong lve 	攻略	c=4 d=1.30792e-11 t=30955
+gong neng 	功能	c=27 d=2.30347e-11 t=30955
+gong neng dian 	功能點	c=9 d=6.56945e-12 t=30955
+gong shang 	工商	c=1 d=3.35691e-12 t=30955
+gong si 	公司	c=47 d=0.644075 t=30955
+gong si hao 	公司號	c=1 d=7.67992e-13 t=30955
+gong tong 	共通	c=22 d=5.32042e-11 t=30955
+gong xi 	恭喜	c=4 d=2.54851e-06 t=30955
+gong xi ni 	恭喜你	c=1 d=5.6894e-13 t=30955
+gong xiang 	共享	c=2 d=0.000117979 t=30955
+gong yao 	公鑰	c=4 d=0.00536159 t=30955
+gong ye 	工業	c=1 d=1.5468e-14 t=30955
+gong ying 	供應	c=8 d=1.28985e-12 t=30955
+gong ying shang 	供應商	c=203 d=0.0831179 t=30955
+gong you 	共有	c=3 d=0.347187 t=30955
+gong zi 	工資	c=1 d=8.44529e-14 t=30955
+gong zu fang 	公租房	c=1 d=0.00571306 t=30955
+gong zuo 	工作	c=22 d=4.60861e-05 t=30955
+gong zuo ri 	工作日	c=12 d=3.8192e-13 t=30955
+gong zuo ri li 	工作日歷	c=2 d=3.12712e-12 t=30955
+gong zuo ri li 	工作日裏	c=3 d=9.46764e-14 t=30955
+gong zuo ri qi 	工作日期	c=1 d=2.13015e-14 t=30955
+gou 	勾	c=3 d=5.64156e-13 t=30955
+gou 	夠	c=2 d=1.93578e-07 t=30955
+gou 	狗	c=4 d=1.48899e-07 t=30955
+gou cheng 	構成	c=0 d=1.41709e-14 t=30955
+gou cheng shu 	構成數	c=3 d=3.41551e-12 t=30955
+gou jian 	構建	c=3 d=1.69109e-12 t=30955
+gou mai 	購買	c=1 d=1.27048e-13 t=30955
+gou mai ding dan jie tu 	購買訂單截圖	c=1 d=1.04981e-13 t=30955
+gou ni yong 	夠你用	c=1 d=1.94548e-06 t=30955
+gou tong 	溝通	c=5 d=1.20916e-12 t=30955
+gou wu 	購物	c=1 d=1.03151e-12 t=30955
+gou xuan 	勾選	c=6 d=0.0752014 t=30955
+gou xuan hang 	勾選行	c=1 d=0.755784 t=30955
+gou yong 	夠用	c=1 d=1.7928e-15 t=30955
+gou zao 	構造	c=2 d=3.84941e-12 t=30955
+gou zao han shu 	構造函數	c=1 d=2.29566e-12 t=30955
+gou zhu 	構築	c=2 d=3.15655e-12 t=30955
+gou zi 	鉤子	c=2 d=0.00404873 t=30955
+gu 	股	c=0 d=4.16281e-15 t=30955
+gu an xi 	股安息	c=1 d=4.18368e-14 t=30955
+gu ding 	固定	c=0 d=6.74484e-16 t=30955
+gu dong 	股東	c=1 d=1.21049e-12 t=30955
+gu ge 	僱個	c=0 d=1.91287e-14 t=30955
+gu ge 	谷歌	c=7 d=6.5727e-05 t=30955
+gu ge ren 	僱個人	c=1 d=1.92246e-13 t=30955
+gu ji 	估計	c=1 d=1.44125e-06 t=30955
+gu jia 	估價	c=10 d=1.08224e-08 t=30955
+gu jian 	固件	c=3 d=0.000164069 t=30955
+gu ming si yi 	顧名思義	c=1 d=1.12593e-13 t=30955
+gu shi 	故事	c=1 d=3.29044e-12 t=30955
+gua zai 	掛載	c=2 d=2.59863e-06 t=30955
+guai bao bao 	乖寶寶	c=1 d=3.75758e-15 t=30955
+guan 	關	c=3 d=2.31874e-12 t=30955
+guan bi 	關閉	c=34 d=0.00100756 t=30955
+guan fang 	官方	c=4 d=4.93e-14 t=30955
+guan fang wang zhan 	官方網站	c=1 d=1.50836e-12 t=30955
+guan ji 	關機	c=3 d=2.49203e-07 t=30955
+guan jian zi 	關鍵字	c=11 d=0.000299026 t=30955
+guan li 	管理	c=86 d=0.000658124 t=30955
+guan li fei 	管理費	c=4 d=7.56976e-14 t=30955
+guan li qi 	管理器	c=3 d=2.04191e-16 t=30955
+guan li yuan 	管理員	c=1 d=1.27077e-25 t=30955
+guan lian 	關聯	c=19 d=5.99927e-12 t=30955
+guan lian tiao jian 	關聯條件	c=1 d=4.65809e-13 t=30955
+guan shui 	關稅	c=9 d=1.53139e-08 t=30955
+guan shui lv 	關稅率	c=4 d=3.68953e-28 t=30955
+guan wang 	官網	c=4 d=2.51186e-12 t=30955
+guan xi 	關係	c=11 d=0.00229965 t=30955
+guan xi 	關西	c=1 d=4.4236e-14 t=30955
+guan yu 	關於	c=11 d=4.66842e-08 t=30955
+guan zhi 	管制	c=1 d=0.00663763 t=30955
+guang biao 	光標	c=1 d=5.74657e-13 t=30955
+gui 	櫃	c=2 d=2.27754e-07 t=30955
+gui 	鬼	c=2 d=2.30043e-07 t=30955
+gui dao 	軌道	c=0 d=3.11435e-13 t=30955
+gui dao pian li 	軌道偏離	c=1 d=3.12996e-12 t=30955
+gui fan 	規範	c=5 d=0.00154923 t=30955
+gui lai 	歸來	c=1 d=6.6777e-15 t=30955
+gui lei 	歸類	c=1 d=1.06916e-22 t=30955
+gui shu di 	歸屬地	c=2 d=3.06165e-27 t=30955
+gui ze 	規則	c=7 d=8.23255e-07 t=30955
+gun dong tiao 	滾動條	c=2 d=2.59186e-20 t=30955
+guo 	國	c=1 d=3.6365e-12 t=30955
+guo 	果	c=3 d=6.91438e-13 t=30955
+guo 	過	c=15 d=0.0066709 t=30955
+guo bu xia qu 	過不下去	c=1 d=8.83398e-13 t=30955
+guo chang 	過長	c=1 d=6.71347e-19 t=30955
+guo cheng 	過程	c=15 d=9.8397e-08 t=30955
+guo dao 	國道	c=1 d=3.44189e-12 t=30955
+guo duan 	過段	c=1 d=1.78568e-27 t=30955
+guo ji 	國際	c=2 d=2.18786e-05 t=30955
+guo ji hua 	國際化	c=63 d=2.13443 t=30955
+guo jia 	國家	c=11 d=1.24779e-11 t=30955
+guo lai 	過來	c=3 d=1.44223e-14 t=30955
+guo le 	過了	c=2 d=1.55831e-13 t=30955
+guo lv qi 	過濾器	c=3 d=2.57668e-12 t=30955
+guo qu 	過去	c=4 d=0.000131698 t=30955
+guo wan piao pen 	鍋碗瓢盆	c=1 d=3.54913e-20 t=30955
+guo wen gui 	郭文貴	c=1 d=3.0585e-05 t=30955
+ha 	哈	c=3 d=0.000122182 t=30955
+ha ha 	哈哈	c=6 d=1.74372e-12 t=30955
+ha xi 	哈嘻	c=1 d=5.80534e-15 t=30955
+ha xi 	哈希	c=1 d=5.86369e-15 t=30955
+ha xi biao 	哈希表	c=8 d=1.20424e-10 t=30955
+hai 	還	c=11 d=0.000689358 t=30955
+hai bu 	還不	c=0 d=2.7281e-14 t=30955
+hai bu zhi yu 	還不至於	c=1 d=2.74178e-13 t=30955
+hai cha 	還差	c=1 d=1.79249e-13 t=30955
+hai cong 	還從	c=1 d=3.22189e-29 t=30955
+hai guan 	海關	c=5 d=7.08959e-11 t=30955
+hai hao 	還好	c=1 d=3.83349e-15 t=30955
+hai hao ba 	還好吧	c=1 d=0.00690852 t=30955
+hai hen 	還很	c=0 d=2.68794e-16 t=30955
+hai hen cai 	還很菜	c=1 d=2.70142e-15 t=30955
+hai hui bu hui 	還會不會	c=1 d=9.86958e-23 t=30955
+hai mai le 	還買了	c=1 d=3.19319e-12 t=30955
+hai mei 	還沒	c=1 d=3.6365e-12 t=30955
+hai mei da dian hua 	還沒打電話	c=1 d=3.98167e-20 t=30955
+hai mei you 	還沒有	c=3 d=6.57559e-13 t=30955
+hai neng 	還能	c=2 d=7.10672e-10 t=30955
+hai shi 	還是	c=23 d=9.39265e-07 t=30955
+hai shi bu xing 	還是不行	c=1 d=3.19982e-07 t=30955
+hai shuo 	還說	c=1 d=1.13666e-07 t=30955
+hai wai 	海外	c=1 d=1.57291e-05 t=30955
+hai you 	還有	c=10 d=8.23518e-09 t=30955
+hai you ge 	還有個	c=1 d=5.84852e-14 t=30955
+hai zei wang 	海賊王	c=3 d=1.09696e-13 t=30955
+hai zhen shi 	還真是	c=1 d=4.09095e-15 t=30955
+hai zi 	孩子	c=1 d=2.23358e-13 t=30955
+han 	函	c=1 d=4.22213e-05 t=30955
+han 	含	c=1 d=2.68794e-15 t=30955
+han 	涵	c=1 d=1.38544e-12 t=30955
+han bao 	漢堡	c=1 d=1.07379e-14 t=30955
+han shu 	函數	c=48 d=0.460828 t=30955
+han shu shi 	函數式	c=3 d=9.39982e-08 t=30955
+han shui 	含稅	c=4 d=1.37853e-12 t=30955
+han you 	含有	c=3 d=0.711563 t=30955
+han zi 	漢字	c=1 d=1.06825e-12 t=30955
+hang 	行	c=126 d=0.103702 t=30955
+hang bian ji 	行編輯	c=16 d=7.28276e-06 t=30955
+hang dian ji 	行點擊	c=9 d=4.60939e-07 t=30955
+hang hao 	行號	c=8 d=2.35386e-12 t=30955
+hang nei 	行內	c=1 d=2.12133e-24 t=30955
+hang shan chu 	行刪除	c=2 d=9.67027e-21 t=30955
+hang shu 	行數	c=2 d=8.30908e-13 t=30955
+hang tian jia 	行添加	c=3 d=2.54367e-13 t=30955
+hang xiang su 	行像素	c=1 d=0.215456 t=30955
+hang xin xi 	行信息	c=1 d=3.17997e-22 t=30955
+hang ye 	行業	c=2 d=1.29408e-12 t=30955
+hang zeng jia 	行增加	c=1 d=1.42764e-12 t=30955
+hang zhou 	杭州	c=7 d=1.30506e-14 t=30955
+hao 	好	c=53 d=0.312069 t=30955
+hao 	號	c=40 d=0.00176966 t=30955
+hao ba 	好吧	c=6 d=0.000687406 t=30955
+hao chu fa 	好觸發	c=1 d=2.33917e-27 t=30955
+hao da 	好大	c=1 d=3.14619e-14 t=30955
+hao de 	好的	c=12 d=3.26391e-05 t=30955
+hao di 	好滴	c=1 d=3.29896e-13 t=30955
+hao jia 	好價	c=1 d=3.45915e-12 t=30955
+hao jian 	好劍	c=1 d=9.31096e-14 t=30955
+hao jiu 	好久	c=1 d=7.34322e-15 t=30955
+hao le 	好了	c=5 d=3.95004e-13 t=30955
+hao ma 	號碼	c=10 d=2.72125e-12 t=30955
+hao mang 	好忙	c=1 d=8.4249e-14 t=30955
+hao miao 	毫秒	c=2 d=4.03563e-10 t=30955
+hao ping 	好評	c=1 d=2.76265e-14 t=30955
+hao shi 	耗時	c=1 d=2.20033e-13 t=30955
+hao xiang 	好像	c=3 d=4.87997e-13 t=30955
+hao zhao 	好找	c=1 d=9.40614e-16 t=30955
+hao zou 	好走	c=1 d=2.45025e-14 t=30955
+he 	何	c=2 d=3.87136e-13 t=30955
+he 	和	c=141 d=0.353864 t=30955
+he 	盒	c=6 d=2.13117e-12 t=30955
+he bing 	合併	c=96 d=0.457748 t=30955
+he chu 	何處	c=2 d=7.74268e-12 t=30955
+he dui 	覈對	c=0 d=0.000207043 t=30955
+he dui ju zhen 	覈對矩陣	c=1 d=0.00208081 t=30955
+he fa 	合法	c=1 d=3.47648e-12 t=30955
+he fa xing 	合法性	c=2 d=1.18836e-12 t=30955
+he gui 	合規	c=4 d=0.00470291 t=30955
+he he 	呵呵	c=1 d=2.65939e-07 t=30955
+he ji 	合計	c=11 d=2.58004e-09 t=30955
+he tong 	合同	c=6 d=2.04647e-12 t=30955
+he tong hao 	合同號	c=1 d=1.39239e-12 t=30955
+he zuo 	合作	c=1 d=9.96198e-15 t=30955
+hei 	嘿	c=1 d=1.53512e-13 t=30955
+hei 	黑	c=0 d=2.43762e-13 t=30955
+hei bai 	黑白	c=1 d=4.72527e-05 t=30955
+hei hei 	嘿嘿	c=0 d=1.51984e-14 t=30955
+hei hei hei 	黑嘿嘿	c=1 d=1.52746e-13 t=30955
+hei mei 	黑莓	c=1 d=5.74657e-13 t=30955
+hei se 	黑色	c=3 d=2.71866e-14 t=30955
+hei ti 	黑體	c=1 d=8.54013e-28 t=30955
+hen 	很	c=2 d=3.36913e-12 t=30955
+hen bang 	很棒	c=1 d=2.19353e-06 t=30955
+hen bu 	很不	c=0 d=7.73574e-11 t=30955
+hen bu cuo 	很不錯	c=1 d=6.36741e-14 t=30955
+hen bu xi huan 	很不喜歡	c=1 d=7.77451e-10 t=30955
+hen duo 	很多	c=0 d=0.000606634 t=30955
+hen hao 	很好	c=2 d=5.63285e-13 t=30955
+hen jin 	很近	c=1 d=3.40764e-12 t=30955
+hen xiang 	很想	c=1 d=5.19972e-13 t=30955
+hen xiao 	很小	c=1 d=9.47613e-15 t=30955
+hen you 	很有	c=1 d=5.89207e-13 t=30955
+heng 	橫	c=1 d=2.33035e-12 t=30955
+heng kong 	橫空	c=1 d=2.08258e-13 t=30955
+hong 	宏	c=4 d=1.61947e-26 t=30955
+hong 	紅	c=1 d=4.01895e-12 t=30955
+hong bao 	紅包	c=3 d=1.67771e-13 t=30955
+hong chong 	紅衝	c=1 d=0.481909 t=30955
+hong dian 	紅點	c=1 d=1.29826e-12 t=30955
+hong huang lan 	紅黃藍	c=1 d=0.486752 t=30955
+hong mei su 	紅黴素	c=1 d=1.61772e-12 t=30955
+hong qiao 	虹橋	c=2 d=3.39065e-12 t=30955
+hong qiao zhen 	虹橋鎮	c=1 d=4.89775e-15 t=30955
+hong xing er ke 	鴻興爾克	c=1 d=2.87491e-12 t=30955
+hou 	吼	c=4 d=7.9567e-13 t=30955
+hou 	後	c=75 d=0.215004 t=30955
+hou duan 	後端	c=2 d=2.34204e-12 t=30955
+hou hou 	吼吼	c=1 d=3.98926e-13 t=30955
+hou lian pi 	厚臉皮	c=1 d=1.42052e-12 t=30955
+hou liang wei 	後兩位	c=1 d=2.59593e-17 t=30955
+hou long 	喉嚨	c=1 d=2.3717e-13 t=30955
+hou men 	後門	c=1 d=1.55726e-05 t=30955
+hou mian 	後面	c=4 d=3.30022e-08 t=30955
+hou po 	吼破	c=1 d=2.35987e-13 t=30955
+hou tai 	後臺	c=10 d=1.7497e-08 t=30955
+hou xu 	後續	c=1 d=2.88235e-13 t=30955
+hou xuan 	候選	c=1 d=4.09477e-17 t=30955
+hou xuan shu 	候選數	c=1 d=3.75823e-17 t=30955
+hu 	戶	c=2 d=3.27403e-12 t=30955
+hu 	胡	c=0 d=5.37196e-15 t=30955
+hu dai su 	胡怠速	c=1 d=5.39886e-14 t=30955
+hu die 	蝴蝶	c=1 d=7.35846e-10 t=30955
+hu dong 	互動	c=1 d=5.42594e-14 t=30955
+hu huan 	互換	c=1 d=8.15618e-15 t=30955
+hu kou 	戶口	c=1 d=0.0085294 t=30955
+hu lian wang 	互聯網	c=17 d=0.000111109 t=30955
+hu lve 	忽略	c=18 d=0.0011571 t=30955
+hu yan 	護眼	c=1 d=0.000262568 t=30955
+hua 	化	c=13 d=0.835504 t=30955
+hua 	畫	c=1 d=4.9342e-14 t=30955
+hua 	華	c=1 d=0.548812 t=30955
+hua 	話	c=11 d=0.000212056 t=30955
+hua feng 	畫風	c=1 d=6.33563e-14 t=30955
+hua jun 	華軍	c=1 d=1.40032e-20 t=30955
+hua kai 	花開	c=0 d=5.18719e-15 t=30955
+hua kuo hao 	花括號	c=1 d=1.50186e-20 t=30955
+hua le 	花了	c=1 d=3.94966e-12 t=30955
+hua mian 	畫面	c=133 d=1.66033e-11 t=30955
+hua mian shang 	畫面上	c=1 d=3.89143e-15 t=30955
+hua ren 	華人	c=1 d=5.27922e-15 t=30955
+hua sheng ke 	花生殼	c=4 d=0.000324546 t=30955
+hua shuo 	華碩	c=1 d=1.56506e-05 t=30955
+hua shuo 	話說	c=1 d=3.35748e-14 t=30955
+hua xian 	劃線	c=1 d=4.20394e-12 t=30955
+huan 	換	c=6 d=3.61075e-09 t=30955
+huan 	歡	c=1 d=3.89077e-13 t=30955
+huan 	還	c=2 d=2.57704e-13 t=30955
+huan cheng 	換成	c=2 d=4.87249e-13 t=30955
+huan chong 	緩衝	c=1 d=1.87015e-12 t=30955
+huan cun 	緩存	c=22 d=1.2104 t=30955
+huan de 	換的	c=1 d=1.25207e-27 t=30955
+huan gei 	還給	c=1 d=2.76933e-13 t=30955
+huan hang 	換行	c=3 d=2.05653e-12 t=30955
+huan jing 	環境	c=8 d=1.35241e-11 t=30955
+huan kuan 	還款	c=0 d=1.24434e-14 t=30955
+huan kuan ri 	還款日	c=1 d=1.25058e-13 t=30955
+huan le 	換了	c=1 d=7.69976e-14 t=30955
+huan ping 	換屏	c=1 d=1.65811e-08 t=30955
+huan wan le 	還完了	c=1 d=1.44572e-13 t=30955
+huan ying 	歡迎	c=2 d=1.17376e-13 t=30955
+huan ying ni 	歡迎你	c=1 d=1.73084e-13 t=30955
+huan yong 	換用	c=1 d=8.28932e-29 t=30955
+huan yuan 	還原	c=1 d=3.71122e-16 t=30955
+huang 	晃	c=1 d=6.38062e-09 t=30955
+huang 	黃	c=1 d=2.89729e-15 t=30955
+huang lao shi 	黃老師	c=4 d=1.59674e-14 t=30955
+hui 	回	c=1 d=1.39239e-12 t=30955
+hui 	惠	c=2 d=7.74209e-12 t=30955
+hui 	會	c=41 d=0.000157485 t=30955
+hui ba 	會把	c=1 d=4.3327e-14 t=30955
+hui bei 	會被	c=1 d=2.10859e-12 t=30955
+hui bu hui 	會不會	c=3 d=7.50711e-10 t=30955
+hui che 	回車	c=3 d=1.44572e-13 t=30955
+hui chu 	繪出	c=1 d=0.138761 t=30955
+hui dao 	回到	c=1 d=5.98111e-13 t=30955
+hui diao 	回調	c=16 d=2.02744e-12 t=30955
+hui diao han shu 	回調函數	c=3 d=2.79698e-14 t=30955
+hui dui 	會對	c=1 d=3.15379e-13 t=30955
+hui fu 	回覆	c=16 d=3.32372e-05 t=30955
+hui fu 	恢復	c=39 d=0.895834 t=30955
+hui fu zhuang tai 	回覆狀態	c=1 d=2.60132e-12 t=30955
+hui gao su 	會告訴	c=1 d=2.95381e-07 t=30955
+hui gui 	回歸	c=1 d=2.75552e-13 t=30955
+hui gun 	回滾	c=2 d=1.9569e-16 t=30955
+hui kuai 	會快	c=1 d=2.00473e-06 t=30955
+hui lai 	回來	c=1 d=1.22602e-15 t=30955
+hui lai 	會來	c=1 d=6.24453e-20 t=30955
+hui lao jia 	回老家	c=1 d=0.00869506 t=30955
+hui lv 	匯率	c=60 d=5.26801e-10 t=30955
+hui qu 	回去	c=3 d=1.82504e-13 t=30955
+hui se 	灰色	c=2 d=3.09134e-13 t=30955
+hui tong 	匯通	c=1 d=0.375364 t=30955
+hui wei 	回味	c=1 d=4.87333e-15 t=30955
+hui yi 	會議	c=1 d=4.22357e-08 t=30955
+hui yong 	會用	c=1 d=1.87889e-08 t=30955
+hui you 	會有	c=1 d=1.54281e-13 t=30955
+hui yuan 	會員	c=1 d=8.9907e-14 t=30955
+hui zai 	會在	c=2 d=3.91758e-16 t=30955
+hui zong 	彙總	c=1 d=2.62926e-20 t=30955
+hun luan 	混亂	c=3 d=3.46591e-12 t=30955
+huo 	或	c=40 d=0.147419 t=30955
+huo 	火	c=1 d=1.69218e-12 t=30955
+huo 	貨	c=5 d=0.463013 t=30955
+huo ban 	夥伴	c=12 d=0.35337 t=30955
+huo bi 	貨幣	c=9 d=2.9188e-12 t=30955
+huo de 	火的	c=2 d=3.45292e-12 t=30955
+huo de 	獲得	c=2 d=1.18651e-12 t=30955
+huo de li wu 	獲得禮物	c=1 d=1.68375e-12 t=30955
+huo hu 	火狐	c=4 d=4.65492e-06 t=30955
+huo hu liu lan 	火狐瀏覽	c=1 d=4.67826e-05 t=30955
+huo hua 	火花	c=1 d=1.31787e-12 t=30955
+huo ju 	火炬	c=1 d=6.22519e-13 t=30955
+huo men 	或門	c=1 d=3.68255e-13 t=30955
+huo miao 	火苗	c=1 d=5.86268e-13 t=30955
+huo qu 	獲取	c=355 d=0.0241027 t=30955
+huo qu dao 	獲取到	c=1 d=7.66398e-18 t=30955
+huo rong 	火絨	c=2 d=2.08761e-12 t=30955
+huo zhe 	或者	c=9 d=0.000170926 t=30955
+ji 	及	c=75 d=0.00562101 t=30955
+ji 	季	c=1 d=3.07593e-13 t=30955
+ji 	幾	c=1 d=3.0532e-14 t=30955
+ji 	急	c=1 d=1.24735e-12 t=30955
+ji 	極	c=1 d=2.45025e-14 t=30955
+ji 	機	c=4 d=0.00252883 t=30955
+ji 	級	c=2 d=2.49975e-14 t=30955
+ji 	計	c=1 d=6.35097e-13 t=30955
+ji 	記	c=0 d=6.62725e-15 t=30955
+ji 	集	c=0 d=2.27282e-13 t=30955
+ji ben 	基本	c=23 d=0.00737576 t=30955
+ji bie 	級別	c=2 d=0.00159632 t=30955
+ji bu qing 	記不清	c=1 d=8.59507e-14 t=30955
+ji chang 	機場	c=3 d=1.20016e-13 t=30955
+ji cheng 	繼承	c=7 d=2.08774e-12 t=30955
+ji chu 	基礎	c=9 d=0.000655848 t=30955
+ji cun qi 	寄存器	c=1 d=1 t=30955
+ji dao 	寄到	c=1 d=1.53695e-27 t=30955
+ji dian 	幾點	c=1 d=4.50722e-08 t=30955
+ji dian qi 	繼電器	c=4 d=1.23195e-12 t=30955
+ji feng 	機鋒	c=1 d=2.06221e-15 t=30955
+ji ge 	幾個	c=3 d=1.80147e-13 t=30955
+ji ge yue 	幾個月	c=1 d=5.46353e-07 t=30955
+ji guang 	極光	c=3 d=8.00249e-12 t=30955
+ji guo lai 	寄過來	c=0 d=1.568e-28 t=30955
+ji hang 	幾行	c=1 d=3.8594e-06 t=30955
+ji he 	集合	c=11 d=2.29861e-10 t=30955
+ji he zhong 	集合中	c=1 d=8.44383e-11 t=30955
+ji hua 	計劃	c=5 d=5.55996e-13 t=30955
+ji huo 	激活	c=26 d=0.318398 t=30955
+ji huo han shu 	激活函數	c=3 d=0.152375 t=30955
+ji huo zhi 	激活值	c=1 d=0.0303487 t=30955
+ji ke 	即刻	c=1 d=7.07232e-14 t=30955
+ji ke 	即可	c=2 d=1.00625e-14 t=30955
+ji ke 	極客	c=15 d=5.26719e-12 t=30955
+ji ke sou suo 	極客搜索	c=1 d=7.34196e-13 t=30955
+ji ke xue yuan 	極客學院	c=1 d=4.53214e-14 t=30955
+ji lei 	基類	c=2 d=7.13072e-13 t=30955
+ji li 	吉利	c=1 d=9.44684e-08 t=30955
+ji lie 	幾列	c=1 d=9.40454e-14 t=30955
+ji lu 	記錄	c=148 d=2.52911 t=30955
+ji lu bu tong 	記錄不同	c=1 d=1.91685e-08 t=30955
+ji lu shu 	記錄書	c=1 d=2.17318e-14 t=30955
+ji lu xia 	記錄下	c=1 d=5.03217e-10 t=30955
+ji lu yi 	記錄儀	c=1 d=3.11435e-12 t=30955
+ji neng 	技能	c=1 d=6.7437e-13 t=30955
+ji neng 	既能	c=1 d=1.01108e-12 t=30955
+ji neng 	機能	c=2 d=2.80393e-12 t=30955
+ji qi 	及其	c=1 d=2.97731e-12 t=30955
+ji qi 	機器	c=3 d=0.000221885 t=30955
+ji qi ren 	機器人	c=1 d=6.45923e-06 t=30955
+ji qi xue xi 	機器學習	c=2 d=7.39876e-31 t=30955
+ji qiao 	技巧	c=1 d=1.90794e-12 t=30955
+ji qun 	集羣	c=1 d=7.25137e-14 t=30955
+ji ran 	既然	c=2 d=7.12521e-13 t=30955
+ji shi 	即時	c=5 d=2.22481e-12 t=30955
+ji shi 	計時	c=1 d=3.22474e-10 t=30955
+ji shou 	棘手	c=1 d=2.50579e-13 t=30955
+ji shu 	技術	c=8 d=0.0129155 t=30955
+ji shu 	計數	c=1 d=3.51142e-12 t=30955
+ji song 	寄送	c=1 d=1.48408e-27 t=30955
+ji suan 	計算	c=139 d=0.469689 t=30955
+ji suan ji 	計算機	c=17 d=3.28876e-06 t=30955
+ji suan qi 	計算器	c=1 d=1.46757e-13 t=30955
+ji suan tu 	計算圖	c=1 d=0.99005 t=30955
+ji tian 	幾天	c=1 d=7.89201e-10 t=30955
+ji tuan 	集團	c=1 d=1.79249e-13 t=30955
+ji wei 	幾位	c=1 d=2.30717e-12 t=30955
+ji xiao 	績效	c=3 d=1.29905e-29 t=30955
+ji xu 	繼續	c=7 d=1.61052e-12 t=30955
+ji yi ci 	記一次	c=1 d=6.66046e-14 t=30955
+ji yu 	基於	c=2 d=0.0014018 t=30955
+ji zhang 	幾張	c=1 d=5.1515e-21 t=30955
+ji zhang 	記賬	c=4 d=0.0162504 t=30955
+ji zhi 	集智	c=2 d=2.29624e-17 t=30955
+ji zhun 	基準	c=12 d=0.000685126 t=30955
+ji zhun kuang 	基準框	c=1 d=6.31499e-05 t=30955
+ji zhun lv 	基準率	c=31 d=0.00465716 t=30955
+jia 	假	c=1 d=4.32152e-13 t=30955
+jia 	價	c=14 d=1.84829e-12 t=30955
+jia 	加	c=11 d=8.47659e-09 t=30955
+jia 	夾	c=16 d=0.00138544 t=30955
+jia 	甲	c=4 d=8.55978e-09 t=30955
+jia ban 	加班	c=2 d=1.45573e-06 t=30955
+jia cu 	加粗	c=2 d=3.34233e-12 t=30955
+jia fa 	加法	c=0 d=6.1792e-15 t=30955
+jia fa qi 	加法器	c=1 d=6.21018e-14 t=30955
+jia ge 	價格	c=40 d=2.22779e-05 t=30955
+jia ge tiao kuan 	價格條款	c=4 d=0.00390706 t=30955
+jia gou 	架構	c=3 d=1.25778e-14 t=30955
+jia kong 	架空	c=1 d=1.64245e-14 t=30955
+jia kuai 	加快	c=1 d=1.85186e-14 t=30955
+jia li 	佳麗	c=1 d=3.51381e-20 t=30955
+jia li 	家裏	c=1 d=1.54465e-27 t=30955
+jia li ren 	家裏人	c=1 d=1.568e-27 t=30955
+jia mi 	加密	c=2 d=0.909373 t=30955
+jia ru 	假如	c=1 d=4.02935e-13 t=30955
+jia ru 	加入	c=11 d=1.88777e-10 t=30955
+jia shang 	加上	c=2 d=2.04632e-12 t=30955
+jia shang qu 	加上去	c=1 d=4.55484e-14 t=30955
+jia ting 	家庭	c=2 d=1.13261e-16 t=30955
+jia xiang 	家鄉	c=1 d=0.00878245 t=30955
+jia zai 	加載	c=42 d=1.41218e-11 t=30955
+jia zai lei 	加載類	c=1 d=3.74725e-12 t=30955
+jia zai wan 	加載完	c=1 d=1.00102e-12 t=30955
+jia zi 	架子	c=1 d=3.864e-20 t=30955
+jian 	件	c=4 d=3.74725e-12 t=30955
+jian 	健	c=3 d=2.06622e-08 t=30955
+jian 	劍	c=1 d=9.40454e-14 t=30955
+jian 	減	c=4 d=3.3363e-11 t=30955
+jian 	見	c=9 d=6.74563e-13 t=30955
+jian 	鍵	c=8 d=1.62626e-07 t=30955
+jian 	間	c=5 d=0.0724398 t=30955
+jian bang 	肩膀	c=0 d=5.07133e-14 t=30955
+jian bang shang 	肩膀上	c=1 d=5.09677e-13 t=30955
+jian ce 	檢測	c=1 d=0.0737123 t=30955
+jian cha 	檢查	c=23 d=0.481989 t=30955
+jian dan 	簡單	c=2 d=5.96871e-13 t=30955
+jian fa 	減法	c=3 d=5.081e-27 t=30955
+jian guan 	監管	c=1 d=6.72742e-14 t=30955
+jian guo 	堅果	c=3 d=9.05763e-13 t=30955
+jian guo yun 	堅果雲	c=1 d=3.36617e-15 t=30955
+jian kong 	監控	c=3 d=2.51505e-13 t=30955
+jian li 	建立	c=1 d=3.73821e-13 t=30955
+jian li 	簡歷	c=8 d=3.73411e-12 t=30955
+jian nan 	艱難	c=1 d=1.45296e-13 t=30955
+jian pan 	鍵盤	c=2 d=7.43249e-10 t=30955
+jian qie 	剪切	c=7 d=0.0985112 t=30955
+jian qie ban 	剪切板	c=1 d=0.99005 t=30955
+jian qu 	減去	c=2 d=2.23898e-12 t=30955
+jian rong 	兼容	c=2 d=4.16211e-12 t=30955
+jian shao 	減少	c=2 d=4.40156e-14 t=30955
+jian she 	建設	c=2 d=0.00873865 t=30955
+jian she yin hang 	建設銀行	c=1 d=1.09265e-13 t=30955
+jian shi 	簡史	c=2 d=3.86878e-14 t=30955
+jian shu 	簡書	c=5 d=1.17632e-12 t=30955
+jian shu 	簡述	c=1 d=2.9038e-12 t=30955
+jian suo 	檢索	c=12 d=4.93085e-06 t=30955
+jian ting 	監聽	c=3 d=4.07761e-06 t=30955
+jian wei 	鍵位	c=1 d=0.000626727 t=30955
+jian yan 	檢驗	c=10 d=9.07659e-13 t=30955
+jian yi 	建議	c=2 d=3.19076e-12 t=30955
+jiang 	將	c=61 d=1.50347 t=30955
+jiang 	講	c=3 d=1.2326e-07 t=30955
+jiang dong 	江東	c=2 d=7.41574e-13 t=30955
+jiang hui 	將會	c=5 d=1.63649e-07 t=30955
+jiang hui shu chu 	將會輸出	c=1 d=3.80388e-12 t=30955
+jiang ji 	降級	c=1 d=8.74013e-05 t=30955
+jiang xu 	降序	c=3 d=1.536e-12 t=30955
+jiang xue jin 	獎學金	c=1 d=1.02389e-13 t=30955
+jiao 	交	c=1 d=9.19451e-13 t=30955
+jiao 	叫	c=2 d=0.00822975 t=30955
+jiao ben 	腳本	c=31 d=6.43271e-05 t=30955
+jiao cheng 	教程	c=6 d=0.384045 t=30955
+jiao dian 	焦點	c=2 d=2.49442e-15 t=30955
+jiao hu 	交互	c=3 d=4.87972e-12 t=30955
+jiao huan 	交換	c=1 d=9.58962e-08 t=30955
+jiao huan sheng 	交換生	c=2 d=1.02989e-14 t=30955
+jiao ji 	交集	c=1 d=1.11799e-18 t=30955
+jiao le 	交了	c=1 d=1.25706e-15 t=30955
+jiao liu 	交流	c=4 d=2.92008e-12 t=30955
+jiao shi 	教師	c=2 d=1.66114e-12 t=30955
+jiao xue 	教學	c=1 d=1.2536e-12 t=30955
+jiao yan 	校驗	c=4 d=7.50456e-06 t=30955
+jiao yi 	交易	c=24 d=6.54387e-05 t=30955
+jiao yu 	教育	c=15 d=6.67194e-12 t=30955
+jiao yu bu 	教育部	c=1 d=2.55642e-13 t=30955
+jie 	接	c=1 d=2.26071e-08 t=30955
+jie 	藉	c=1 d=1.19266e-14 t=30955
+jie 	解	c=1 d=1.46757e-13 t=30955
+jie bang 	解綁	c=6 d=0.000652494 t=30955
+jie cheng 	階乘	c=1 d=1.25058e-13 t=30955
+jie da 	解答	c=1 d=1.77556e-19 t=30955
+jie dao 	接到	c=2 d=2.48641e-13 t=30955
+jie dian 	節點	c=118 d=1.55666 t=30955
+jie dian lian 	節點鏈	c=3 d=1.06995e-09 t=30955
+jie dian shu 	節點樹	c=1 d=5.5633e-14 t=30955
+jie duan 	截斷	c=1 d=5.48235e-18 t=30955
+jie duan 	階段	c=2 d=3.30693e-13 t=30955
+jie gou 	結構	c=6 d=3.54554e-08 t=30955
+jie guan 	接管	c=1 d=4.75625e-23 t=30955
+jie guo 	結果	c=95 d=0.16163 t=30955
+jie guo ji 	結果集	c=1 d=2.28421e-12 t=30955
+jie he 	結合	c=1 d=5.41194e-13 t=30955
+jie jia ri 	節假日	c=9 d=1.32345e-13 t=30955
+jie jue 	解決	c=4 d=1.05769e-12 t=30955
+jie kai 	解開	c=7 d=4.38681e-13 t=30955
+jie kou 	接口	c=106 d=0.000148549 t=30955
+jie mi 	解密	c=2 d=8.6868e-14 t=30955
+jie mian 	界面	c=1 d=3.09882e-12 t=30955
+jie qu 	截取	c=2 d=5.94723e-05 t=30955
+jie ri 	節日	c=1 d=9.89682e-26 t=30955
+jie ru dian 	接入點	c=1 d=2.25059e-14 t=30955
+jie shi 	解釋	c=0 d=3.84211e-13 t=30955
+jie shou 	接受	c=20 d=1.19322e-05 t=30955
+jie shou 	接收	c=5 d=2.74841e-12 t=30955
+jie shou zhe 	接受者	c=1 d=1.40638e-12 t=30955
+jie shou zhe 	接收者	c=0 d=1.87953e-13 t=30955
+jie shu 	結束	c=25 d=7.43427e-06 t=30955
+jie shu bian ji 	結束編輯	c=2 d=1.52446e-14 t=30955
+jie shu shi jian 	結束時間	c=1 d=3.25714e-10 t=30955
+jie tu 	截圖	c=3 d=0.00019258 t=30955
+jie wei 	結尾	c=1 d=1.63454e-16 t=30955
+jie xi 	解析	c=19 d=1.79758e-12 t=30955
+jie xi qi 	解析器	c=2 d=6.57357e-14 t=30955
+jie xia lai 	接下來	c=1 d=2.9043e-14 t=30955
+jie ya 	解壓	c=2 d=8.16181e-23 t=30955
+jie yi 	解疑	c=4 d=2.84975e-13 t=30955
+jie yong 	借用	c=1 d=3.60093e-14 t=30955
+jie yu 	介於	c=1 d=0.0113902 t=30955
+jie zhuan 	結轉	c=1 d=4.77601e-13 t=30955
+jin 	僅	c=2 d=4.07534e-13 t=30955
+jin 	近	c=3 d=1.88388e-13 t=30955
+jin 	進	c=3 d=7.64288e-15 t=30955
+jin cheng 	進程	c=4 d=4.03412e-12 t=30955
+jin du 	進度	c=3 d=1.73205e-13 t=30955
+jin e 	金額	c=21 d=0.637628 t=30955
+jin guo 	金國	c=7 d=1.18404e-07 t=30955
+jin jia 	進價	c=1 d=2.9835e-07 t=30955
+jin jing 	進境	c=1 d=2.15082e-10 t=30955
+jin mei su 	金黴素	c=1 d=1.62583e-12 t=30955
+jin qu 	進去	c=2 d=1.06825e-12 t=30955
+jin que 	緊缺	c=1 d=3.04584e-15 t=30955
+jin rong 	金融	c=1 d=9.17231e-14 t=30955
+jin ru 	進入	c=6 d=1.24079e-08 t=30955
+jin sheng 	今生	c=1 d=4.68806e-13 t=30955
+jin si 	金絲	c=1 d=1.01895e-15 t=30955
+jin tian 	今天	c=13 d=6.3549e-07 t=30955
+jin xiao cun 	進銷存	c=1 d=1.14019e-14 t=30955
+jin xing 	進行	c=20 d=3.74187e-08 t=30955
+jin yong 	禁用	c=7 d=1.23596e-05 t=30955
+jin zhang 	緊張	c=1 d=4.38756e-15 t=30955
+jin zhi 	禁止	c=2 d=3.74725e-12 t=30955
+jin zhi 	進制	c=1 d=8.27944e-15 t=30955
+jing 	京	c=1 d=1.1808e-14 t=30955
+jing chang 	經常	c=2 d=7.55224e-13 t=30955
+jing chang hui 	經常會	c=1 d=1.23515e-14 t=30955
+jing dong 	京東	c=7 d=7.45291e-13 t=30955
+jing du 	精度	c=5 d=1.98206e-09 t=30955
+jing gao 	警告	c=4 d=5.97283e-13 t=30955
+jing guo 	經過	c=1 d=2.71311e-07 t=30955
+jing ji 	經濟	c=1 d=2.28421e-12 t=30955
+jing li 	經歷	c=2 d=9.26155e-10 t=30955
+jing ling 	精靈	c=6 d=0.440612 t=30955
+jing que 	精確	c=1 d=5.33769e-27 t=30955
+jing que du 	精確度	c=3 d=7.63422e-13 t=30955
+jing shen 	精神	c=0 d=1.439e-18 t=30955
+jing tai 	靜態	c=3 d=9.29595e-15 t=30955
+jing wai 	境外	c=1 d=3.60779e-07 t=30955
+jing xiang 	鏡像	c=3 d=0.000109558 t=30955
+jing xiao shang 	經銷商	c=1 d=2.33035e-12 t=30955
+jing yan 	經驗	c=1 d=4.00994e-15 t=30955
+jing zhong 	淨重	c=1 d=5.63281e-13 t=30955
+jiong 	囧	c=0 d=4.7301e-18 t=30955
+jiong huo qu 	囧獲取	c=1 d=4.75381e-17 t=30955
+jiu 	久	c=1 d=6.07254e-15 t=30955
+jiu 	九	c=1 d=2.60806e-13 t=30955
+jiu 	就	c=35 d=0.00647796 t=30955
+jiu 	舊	c=1 d=8.6367e-12 t=30955
+jiu cheng 	就成	c=1 d=1.67969e-13 t=30955
+jiu de 	舊的	c=2 d=6.25057e-11 t=30955
+jiu fen 	九分	c=1 d=4.34022e-05 t=30955
+jiu fen 	糾紛	c=0 d=4.29704e-06 t=30955
+jiu fen ku 	糾紛褲	c=1 d=4.31857e-05 t=30955
+jiu ge 	九個	c=1 d=3.06059e-13 t=30955
+jiu hao 	就好	c=2 d=0.000141955 t=30955
+jiu hui 	就會	c=2 d=1.81268e-14 t=30955
+jiu hui zai 	就會在	c=1 d=1.95657e-14 t=30955
+jiu ke yi 	就可以	c=3 d=3.53635e-07 t=30955
+jiu mei 	就沒	c=0 d=1.52746e-14 t=30955
+jiu mei huan 	就沒還	c=1 d=1.53512e-13 t=30955
+jiu shi 	就是	c=19 d=5.41869e-07 t=30955
+jiu xiang 	就像	c=1 d=1.82901e-15 t=30955
+jiu xing 	就行	c=1 d=7.25507e-20 t=30955
+jiu yao 	就要	c=3 d=1.73532e-14 t=30955
+jiu yong 	就用	c=1 d=3.61393e-27 t=30955
+jiu zai 	就在	c=1 d=3.42472e-12 t=30955
+jiu zhe you 	就這又	c=1 d=3.08389e-14 t=30955
+ju 	據	c=1 d=6.16326e-13 t=30955
+ju bao 	舉報	c=1 d=2.56923e-13 t=30955
+ju bu 	局部	c=4 d=0.000867409 t=30955
+ju ji 	聚集	c=0 d=1.86083e-13 t=30955
+ju ji dao 	聚集到	c=1 d=1.87015e-12 t=30955
+ju li 	舉例	c=1 d=3.11329e-08 t=30955
+ju li 	距離	c=1 d=1.79249e-13 t=30955
+ju lu 	鉅鹿	c=1 d=1.71893e-20 t=30955
+ju ren 	巨人	c=1 d=5.04607e-13 t=30955
+ju shou 	拒收	c=1 d=0.479505 t=30955
+ju ti 	具體	c=3 d=8.29636e-07 t=30955
+ju zhen 	矩陣	c=10 d=1.85534 t=30955
+ju zhong 	居中	c=2 d=2.83233e-12 t=30955
+jue cai 	決裁	c=3 d=3.21006e-05 t=30955
+jue de 	覺得	c=2 d=1.8301e-12 t=30955
+jue ding 	決定	c=3 d=0.000816895 t=30955
+jue jin 	掘金	c=8 d=9.30639e-08 t=30955
+jue se 	角色	c=41 d=1.37833e-11 t=30955
+jue shi 	絕世	c=1 d=9.26451e-14 t=30955
+jue wang 	絕望	c=1 d=0.00729913 t=30955
+jun 	均	c=1 d=3.15379e-13 t=30955
+ka 	卡	c=12 d=1.12226e-05 t=30955
+ka dun 	卡頓	c=1 d=8.05007e-08 t=30955
+ka hao 	卡號	c=0 d=1.09813e-14 t=30955
+ka li 	卡里	c=1 d=7.97541e-16 t=30955
+ka shua 	卡刷	c=1 d=4.01895e-12 t=30955
+kai 	開	c=2 d=2.36678e-18 t=30955
+kai fa 	開發	c=48 d=1.50926e-11 t=30955
+kai fa gong ju 	開發工具	c=2 d=2.73642e-12 t=30955
+kai fang 	開放	c=3 d=9.49258e-06 t=30955
+kai hu 	開戶	c=2 d=1.27412e-12 t=30955
+kai hu yin hang 	開戶銀行	c=1 d=1.22878e-12 t=30955
+kai ji 	開機	c=5 d=2.49282e-08 t=30955
+kai qi 	開啓	c=3 d=6.72398e-08 t=30955
+kai shi 	開始	c=40 d=0.0249945 t=30955
+kai shi jie shu 	開始結束	c=1 d=8.68146e-14 t=30955
+kai shi shi jian 	開始時間	c=1 d=3.2409e-10 t=30955
+kai tou 	開頭	c=1 d=1.6102e-16 t=30955
+kai xin 	開心	c=1 d=2.11952e-14 t=30955
+kai yuan 	開源	c=2 d=1.24134e-14 t=30955
+kan 	看	c=12 d=0.00775579 t=30955
+kan ba 	看吧	c=1 d=4.74977e-07 t=30955
+kan bu dao 	看不到	c=1 d=2.28305e-06 t=30955
+kan chu 	看出	c=0 d=2.71496e-16 t=30955
+kan dao 	看到	c=2 d=1.48975e-13 t=30955
+kan de dao 	看得到	c=1 d=9.95351e-05 t=30955
+kan jia 	砍價	c=0 d=3.61025e-16 t=30955
+kan kan 	侃侃	c=1 d=0.000249763 t=30955
+kan kan 	看看	c=9 d=0.000378837 t=30955
+kan kan er tan 	侃侃而談	c=1 d=0.000242381 t=30955
+kan xia 	看下	c=1 d=1.35404e-07 t=30955
+kan yi xia 	看一下	c=3 d=0.000152248 t=30955
+kang qiao 	康橋	c=1 d=2.70096e-13 t=30955
+kao 	靠	c=0 d=1.77465e-14 t=30955
+kao bei 	拷貝	c=18 d=7.40481e-08 t=30955
+kao he 	考覈	c=2 d=1.2218e-29 t=30955
+kao he biao 	考覈表	c=1 d=9.30117e-31 t=30955
+kao hou 	靠吼	c=1 d=1.77465e-13 t=30955
+kao shi 	考試	c=1 d=1.43133e-13 t=30955
+ke 	可	c=35 d=0.00404139 t=30955
+ke 	課	c=3 d=0.00470396 t=30955
+ke ai 	可愛	c=1 d=1.40567e-06 t=30955
+ke an 	可按	c=2 d=8.30147e-16 t=30955
+ke ban 	科班	c=1 d=4.25791e-15 t=30955
+ke bian 	可變	c=1 d=2.88284e-15 t=30955
+ke bian ji 	可編輯	c=9 d=7.11915e-13 t=30955
+ke bie 	課別	c=1 d=2.06684e-12 t=30955
+ke cha kan 	可查看	c=1 d=4.30142e-17 t=30955
+ke cheng 	課程	c=1 d=0.000590229 t=30955
+ke fu 	客服	c=2 d=1.13099e-07 t=30955
+ke gen ju 	可根據	c=1 d=2.41336e-12 t=30955
+ke hu 	客戶	c=123 d=0.124525 t=30955
+ke hu bao jia 	客戶報價	c=10 d=0.535963 t=30955
+ke hu ding dan 	客戶訂單	c=1 d=0.00402593 t=30955
+ke hu duan 	客戶端	c=4 d=4.81498e-13 t=30955
+ke hu hao 	客戶號	c=2 d=1.47841e-12 t=30955
+ke hu pin fan 	客戶品番	c=1 d=1.46378e-12 t=30955
+ke hu xun jia 	客戶詢價	c=3 d=1.31863e-25 t=30955
+ke ji 	科技	c=3 d=1.13431e-12 t=30955
+ke jian 	課件	c=1 d=1.15722e-12 t=30955
+ke ke 	可可	c=0 d=0.000115923 t=30955
+ke li 	柯里	c=0 d=1.09529e-13 t=30955
+ke li hua 	柯里化	c=1 d=1.10078e-12 t=30955
+ke neng 	可能	c=4 d=6.91594e-13 t=30955
+ke sheng cheng 	可生成	c=1 d=5.73564e-20 t=30955
+ke shi hua 	可視化	c=1 d=0.557106 t=30955
+ke shi yong 	可使用	c=1 d=3.14887e-24 t=30955
+ke tang 	課堂	c=5 d=3.96699e-12 t=30955
+ke tong 	可通	c=0 d=2.79042e-15 t=30955
+ke wei 	可爲	c=1 d=1.6687e-24 t=30955
+ke xi 	可惜	c=2 d=3.47652e-12 t=30955
+ke xiu gai 	可修改	c=2 d=8.85685e-14 t=30955
+ke xu lie hua 	可序列化	c=1 d=3.37431e-14 t=30955
+ke xuan 	可選	c=1 d=3.55589e-13 t=30955
+ke xuan ze 	可選擇	c=1 d=3.02334e-16 t=30955
+ke xue 	科學	c=4 d=1.46484e-13 t=30955
+ke yi 	可以	c=46 d=0.141784 t=30955
+ke yi bu 	可以不	c=1 d=1.3445e-12 t=30955
+ke yi qu 	可以去	c=1 d=0.00900478 t=30955
+ke yi yong 	可以用	c=1 d=3.91972e-12 t=30955
+ke yong yu 	可用於	c=2 d=1.57838e-24 t=30955
+ken ding 	肯定	c=4 d=0.00759701 t=30955
+keng 	坑	c=3 d=4.18337e-14 t=30955
+kong 	空	c=23 d=1.26126e-05 t=30955
+kong bai 	空白	c=3 d=2.42853e-12 t=30955
+kong chuan 	空串	c=1 d=2.82528e-13 t=30955
+kong ge 	空格	c=6 d=1.37159e-12 t=30955
+kong jian 	控件	c=3 d=5.74384e-13 t=30955
+kong jian 	空間	c=1 d=4.38681e-13 t=30955
+kong tiao 	空調	c=1 d=6.22097e-05 t=30955
+kong zhi 	控制	c=16 d=2.58827e-10 t=30955
+kong zhi ceng 	控制層	c=2 d=1.32448e-12 t=30955
+kong zhi lun 	控制論	c=3 d=1.17775e-13 t=30955
+kong zhi tai 	控制檯	c=2 d=2.58835e-12 t=30955
+kong zhi zhen 	空指針	c=2 d=3.59163e-13 t=30955
+kou 	釦	c=1 d=8.65906e-13 t=30955
+kou tou 	口頭	c=1 d=7.27016e-15 t=30955
+kou zhu bi fa 	口誅筆伐	c=1 d=2.62113e-13 t=30955
+ku 	哭	c=2 d=8.21557e-10 t=30955
+ku 	庫	c=17 d=0.000115346 t=30955
+ku 	褲	c=1 d=4.72674e-05 t=30955
+ku 	酷	c=1 d=2.62247e-19 t=30955
+ku cun 	庫存	c=81 d=2.21446 t=30955
+ku cun kuai zhao 	庫存快照	c=1 d=3.11435e-12 t=30955
+ku nan 	苦難	c=1 d=3.94957e-13 t=30955
+ku wei 	庫位	c=9 d=1.39751e-08 t=30955
+ku zhe 	哭着	c=1 d=2.05122e-11 t=30955
+ku zi 	褲子	c=1 d=8.68293e-16 t=30955
+kua yue 	跨月	c=1 d=5.80335e-11 t=30955
+kuai 	塊	c=3 d=0.00220948 t=30955
+kuai 	快	c=5 d=0.904837 t=30955
+kuai di 	快遞	c=2 d=0.00012341 t=30955
+kuai ji 	會計	c=1 d=6.54439e-13 t=30955
+kuai jie 	快捷	c=6 d=3.97896e-12 t=30955
+kuai jie jian 	快捷鍵	c=18 d=8.25576e-08 t=30955
+kuai lai 	快來	c=1 d=6.7112e-15 t=30955
+kuai le 	快樂	c=2 d=0.758403 t=30955
+kuai qi dong 	快啓動	c=1 d=6.69045e-08 t=30955
+kuai su 	快速	c=18 d=6.80682e-05 t=30955
+kuai su zhi nan 	快速指南	c=1 d=3.65472e-12 t=30955
+kuai zhao 	快照	c=25 d=3.13576e-07 t=30955
+kuan dai 	寬帶	c=4 d=2.04771e-19 t=30955
+kuang 	框	c=8 d=6.28349e-06 t=30955
+kuang bi jiao 	框比較	c=1 d=7.45291e-13 t=30955
+kuang jia 	框架	c=7 d=3.98203e-12 t=30955
+kuang nan 	礦難	c=1 d=7.04928e-05 t=30955
+kun ming 	昆明	c=2 d=2.73481e-12 t=30955
+kun ming shi 	昆明市	c=1 d=4.63564e-15 t=30955
+kuo hao 	括號	c=2 d=6.40238e-12 t=30955
+kuo zhan 	擴展	c=1 d=1.81082e-15 t=30955
+kuo zhan ming 	擴展名	c=2 d=1.82777e-07 t=30955
+la 	啦	c=2 d=0.690734 t=30955
+la 	拉	c=2 d=5.73175e-12 t=30955
+la gou 	拉鉤	c=1 d=1.48109e-13 t=30955
+la gou wang 	拉鉤網	c=1 d=6.19521e-15 t=30955
+la ping 	拉平	c=1 d=1.94112e-09 t=30955
+la qu 	拉取	c=13 d=1.91046e-13 t=30955
+lai 	來	c=3 d=1.79783e-13 t=30955
+lai ba 	來吧	c=1 d=3.84276e-14 t=30955
+lai chao 	來潮	c=1 d=1.08439e-12 t=30955
+lai kan 	來看	c=1 d=1.75246e-12 t=30955
+lai yuan 	來源	c=1 d=3.10684e-13 t=30955
+lan 	欄	c=14 d=0.822835 t=30955
+lan deng 	藍燈	c=1 d=3.86137e-12 t=30955
+lan jie 	攔截	c=0 d=2.78322e-14 t=30955
+lan jie qi 	攔截其	c=1 d=2.79716e-13 t=30955
+lan ren 	懶人	c=2 d=3.25171e-12 t=30955
+lan se 	藍色	c=4 d=5.90922e-14 t=30955
+lang fei 	浪費	c=1 d=2.57588e-14 t=30955
+lao 	老	c=0 d=1.52351e-13 t=30955
+lao mao 	老毛	c=0 d=1.38639e-21 t=30955
+lao mao tao 	老毛桃	c=3 d=4.75822e-20 t=30955
+lao shi 	老師	c=3 d=1.91758e-12 t=30955
+lao si ji 	老司機	c=1 d=1.53115e-12 t=30955
+lao wu 	勞務	c=3 d=3.5051e-12 t=30955
+lao wu fei 	勞務費	c=5 d=3.74409e-12 t=30955
+lao xiao qu 	老校區	c=1 d=8.4249e-14 t=30955
+lao yong hu 	老用戶	c=1 d=1.22115e-27 t=30955
+lao zhao 	老趙	c=1 d=4.07969e-12 t=30955
+le 	了	c=155 d=0.175422 t=30955
+le ma 	了嗎	c=0 d=4.26821e-15 t=30955
+le xing 	了性	c=2 d=3.31794e-10 t=30955
+lei 	累	c=2 d=2.82801e-14 t=30955
+lei 	類	c=96 d=1.54781e-06 t=30955
+lei bie 	類別	c=7 d=0.170333 t=30955
+lei he 	類和	c=1 d=1.19246e-12 t=30955
+lei ke sa si 	雷克薩斯	c=1 d=1.09813e-13 t=30955
+lei ming 	類名	c=2 d=5.80463e-13 t=30955
+lei si 	類似	c=1 d=6.69729e-20 t=30955
+lei si yu 	類似於	c=1 d=3.82295e-12 t=30955
+lei tu 	類圖	c=1 d=3.84276e-14 t=30955
+lei xing 	類型	c=109 d=1.1717 t=30955
+lei zhong 	類中	c=6 d=1.41343e-12 t=30955
+li 	李	c=3 d=6.72848e-12 t=30955
+li 	歷	c=2 d=8.57292e-14 t=30955
+li 	理	c=2 d=3.18387e-17 t=30955
+li 	立	c=1 d=5.92158e-13 t=30955
+li 	裏	c=52 d=0.000190335 t=30955
+li 	離	c=1 d=3.37374e-12 t=30955
+li bao 	禮包	c=1 d=0.00348252 t=30955
+li cai 	理財	c=4 d=0.00702684 t=30955
+li cheng 	歷程	c=1 d=0.000567086 t=30955
+li de 	立德	c=1 d=6.4736e-15 t=30955
+li gong xue yuan 	理工學院	c=0 d=6.61014e-14 t=30955
+li jian 	利劍	c=1 d=2.09843e-14 t=30955
+li jie 	理解	c=6 d=7.46421e-12 t=30955
+li kai 	離開	c=2 d=4.84903e-15 t=30955
+li li 	麗麗	c=2 d=1.28399e-12 t=30955
+li lun 	理論	c=1 d=4.75221e-13 t=30955
+li mian 	裏面	c=6 d=8.48182e-05 t=30955
+li mu 	李沐	c=7 d=0.994707 t=30955
+li ru 	例如	c=13 d=0.04573 t=30955
+li run 	利潤	c=4 d=1.95019e-05 t=30955
+li shi 	歷史	c=2 d=1.62991e-11 t=30955
+li wu 	禮物	c=2 d=3.63776e-12 t=30955
+li xi 	利息	c=15 d=2.5384e-18 t=30955
+li xiang 	理想	c=2 d=6.16326e-13 t=30955
+li yong 	利用	c=2 d=4.82402e-13 t=30955
+lian 	聯	c=1 d=2.33035e-12 t=30955
+lian 	臉	c=2 d=7.74281e-13 t=30955
+lian 	鏈	c=8 d=1.16032e-08 t=30955
+lian biao 	鏈表	c=1 d=4.08955e-11 t=30955
+lian bu shang 	連不上	c=3 d=1.3814e-07 t=30955
+lian de 	連得	c=1 d=3.81178e-07 t=30955
+lian dong 	聯動	c=5 d=2.5441e-15 t=30955
+lian jie 	聯結	c=2 d=4.49122e-15 t=30955
+lian jie 	連接	c=17 d=0.827 t=30955
+lian jie 	鏈接	c=7 d=5.38128e-05 t=30955
+lian jie chi 	連接池	c=4 d=5.27548e-12 t=30955
+lian qi lai 	連起來	c=1 d=1.15404e-09 t=30955
+lian shang 	臉上	c=1 d=2.48171e-17 t=30955
+lian shang 	連上	c=1 d=2.49414e-17 t=30955
+lian tong 	聯通	c=3 d=0.000231521 t=30955
+lian xi 	練習	c=1 d=0.000593188 t=30955
+lian xi 	聯繫	c=8 d=2.60132e-12 t=30955
+lian xi ren 	聯繫人	c=2 d=3.43125e-05 t=30955
+lian xiang 	聯想	c=2 d=6.85472e-08 t=30955
+liang 	兩	c=2 d=1.46025e-13 t=30955
+liang 	量	c=3 d=1.62245e-09 t=30955
+liang bian 	兩邊	c=1 d=2.46254e-14 t=30955
+liang biao 	兩表	c=1 d=0.00467746 t=30955
+liang ge 	兩個	c=16 d=8.29936e-11 t=30955
+liang ge bao 	兩個包	c=1 d=3.12996e-12 t=30955
+liang ge ren 	兩個人	c=1 d=5.12233e-13 t=30955
+liang hang 	兩行	c=2 d=1.75246e-12 t=30955
+liang kuan 	兩款	c=1 d=8.68293e-16 t=30955
+liang lie 	兩列	c=1 d=2.02103e-13 t=30955
+liang nian 	兩年	c=1 d=7.17678e-10 t=30955
+liang nian lai 	兩年來	c=1 d=1.19266e-14 t=30955
+liang nian qian 	兩年前	c=1 d=9.71601e-15 t=30955
+liang qian duo 	兩千多	c=1 d=3.60031e-12 t=30955
+liang tiao 	兩條	c=2 d=2.94769e-12 t=30955
+liang wei 	兩位	c=6 d=7.89499e-14 t=30955
+liang wei xiao shu 	兩位小數	c=1 d=4.42023e-14 t=30955
+liang zhang 	兩張	c=2 d=4.32152e-13 t=30955
+liang zhang biao 	兩張表	c=1 d=4.23954e-23 t=30955
+liao 	廖	c=1 d=3.22528e-12 t=30955
+liao de 	聊得	c=1 d=3.90084e-14 t=30955
+liao jie 	瞭解	c=1 d=4.56585e-13 t=30955
+liao jie dao 	瞭解到	c=1 d=1.02142e-14 t=30955
+liao tian 	聊天	c=2 d=6.69341e-05 t=30955
+liao xue feng 	廖雪峯	c=2 d=3.56267e-06 t=30955
+lie 	列	c=36 d=0.00145904 t=30955
+lie bian ji 	列編輯	c=2 d=3.44248e-14 t=30955
+lie biao 	列表	c=24 d=0.616843 t=30955
+lie biao qi 	列表器	c=1 d=1.1063e-12 t=30955
+lie ming 	列名	c=10 d=1.8682e-14 t=30955
+lie tou 	列頭	c=1 d=8.23815e-15 t=30955
+lin shi 	臨時	c=10 d=3.45556e-13 t=30955
+lin shi biao 	臨時表	c=8 d=7.13946e-13 t=30955
+lin ye 	林業	c=0 d=9.70239e-16 t=30955
+lin ye da xue 	林業大學	c=2 d=8.38807e-14 t=30955
+ling 	令	c=1 d=0.106992 t=30955
+ling 	凌	c=1 d=2.62747e-12 t=30955
+ling 	零	c=2 d=1.22582e-13 t=30955
+ling dao 	領導	c=1 d=2.69444e-14 t=30955
+ling jian 	零件	c=1 d=1.4859e-12 t=30955
+ling wai 	另外	c=2 d=1.03668e-12 t=30955
+ling xian 	領先	c=1 d=1.00102e-12 t=30955
+ling yu 	凌宇	c=5 d=3.77961e-05 t=30955
+ling yu 	領域	c=1 d=2.66718e-12 t=30955
+ling zhi 	零值	c=1 d=0.00105946 t=30955
+liu 	流	c=2 d=2.8095e-06 t=30955
+liu 	留	c=1 d=3.95912e-12 t=30955
+liu cheng 	流程	c=14 d=3.99628e-08 t=30955
+liu cheng tu 	流程圖	c=5 d=4.19258e-09 t=30955
+liu da 	六大	c=1 d=1.48845e-15 t=30955
+liu da yuan ze 	六大原則	c=2 d=2.71693e-15 t=30955
+liu lan 	瀏覽	c=2 d=4.65492e-06 t=30955
+liu lan qi 	瀏覽器	c=4 d=5.26942e-12 t=30955
+lo 	咯	c=1 d=1.16905e-14 t=30955
+long 	龍	c=0 d=4.06003e-15 t=30955
+long ge 	龍哥	c=7 d=3.08619e-12 t=30955
+lou 	嘍	c=2 d=1.18959e-13 t=30955
+lou 	樓	c=1 d=3.14565e-12 t=30955
+lou 	漏	c=1 d=5.02774e-29 t=30955
+lou shang 	樓上	c=1 d=3.61025e-15 t=30955
+lou xi 	陋習	c=1 d=7.93426e-14 t=30955
+lou zhu 	樓主	c=1 d=3.5565e-15 t=30955
+lu 	擼	c=1 d=2.53753e-14 t=30955
+lu 	路	c=6 d=2.69261e-06 t=30955
+lu 	錄	c=5 d=5.8449e-17 t=30955
+lu fei 	路費	c=1 d=3.65535e-14 t=30955
+lu jing 	路徑	c=59 d=0.423548 t=30955
+lu jing ming 	路徑名	c=1 d=2.37743e-12 t=30955
+lu ru 	錄入	c=9 d=1.74729e-12 t=30955
+lu you 	路由	c=3 d=0.923116 t=30955
+lu you qi 	路由器	c=6 d=1.23112e-05 t=30955
+luan 	亂	c=0 d=3.61025e-16 t=30955
+luan kan jia 	亂砍價	c=1 d=3.62835e-15 t=30955
+luan ma 	亂碼	c=5 d=1.07102e-13 t=30955
+lun 	論	c=1 d=6.32251e-19 t=30955
+lun tan 	論壇	c=5 d=2.06019e-13 t=30955
+lun zi 	輪子	c=1 d=2.88981e-14 t=30955
+luo di 	落地	c=0 d=2.26772e-16 t=30955
+luo di biao 	落地表	c=1 d=2.27909e-15 t=30955
+luo gang 	蘿崗	c=1 d=4.20394e-12 t=30955
+luo ji 	邏輯	c=26 d=5.54736e-11 t=30955
+luo ji men 	邏輯門	c=4 d=1.07041e-12 t=30955
+luo ji yun suan 	邏輯運算	c=1 d=4.68146e-13 t=30955
+luo ma 	羅馬	c=1 d=0.0057417 t=30955
+luo si 	螺絲	c=1 d=4.01895e-12 t=30955
+luo yang 	洛陽	c=0 d=6.61014e-14 t=30955
+luo yang li gong xue yuan 	洛陽理工學院	c=1 d=6.64327e-13 t=30955
+lv 	率	c=42 d=0.0404747 t=30955
+lv se 	綠色	c=1 d=3.45973e-14 t=30955
+ma 	嗎	c=42 d=1.36365e-05 t=30955
+ma 	嘛	c=6 d=0.00852289 t=30955
+ma 	碼	c=11 d=0.000105074 t=30955
+ma 	馬	c=1 d=2.08329e-17 t=30955
+ma en 	馬恩	c=1 d=1.14294e-13 t=30955
+ma fan 	麻煩	c=3 d=1.3845e-05 t=30955
+ma ke si 	馬克思	c=1 d=1.13724e-13 t=30955
+ma nong 	碼農	c=1 d=2.60806e-13 t=30955
+ma pi 	馬屁	c=1 d=7.64029e-11 t=30955
+ma shang 	馬上	c=2 d=1.40299e-13 t=30955
+ma tong 	馬桶	c=0 d=2.76265e-15 t=30955
+ma tong xi 	馬桶吸	c=1 d=2.7765e-14 t=30955
+ma yi 	螞蟻	c=1 d=1.18506e-27 t=30955
+mai 	買	c=6 d=1.24974e-06 t=30955
+mai 	賣	c=1 d=3.12082e-07 t=30955
+mai ba 	買吧	c=2 d=1.56991e-12 t=30955
+mai ba 	麥霸	c=1 d=1.56209e-12 t=30955
+mai fang 	買房	c=1 d=1.09473e-06 t=30955
+mai fang 	買方	c=2 d=5.78192e-26 t=30955
+mai fang fu xi 	買方付息	c=1 d=2.76547e-26 t=30955
+mai ge 	買個	c=1 d=9.36242e-20 t=30955
+mai guo 	買過	c=1 d=3.51142e-12 t=30955
+mai hao 	買好	c=1 d=3.03746e-12 t=30955
+mai le 	買了	c=2 d=3.14983e-12 t=30955
+mai na tiao 	買那條	c=1 d=3.74725e-12 t=30955
+mai yi ge 	買一個	c=1 d=1.70067e-12 t=30955
+man man 	滿滿	c=1 d=0.00612731 t=30955
+man man lai 	慢慢來	c=1 d=9.24689e-21 t=30955
+mang 	忙	c=2 d=7.94537e-10 t=30955
+mang shen me 	忙什麼	c=1 d=2.99998e-13 t=30955
+mang zhe 	忙着	c=1 d=1.72221e-13 t=30955
+mao 	貓	c=5 d=0.0464212 t=30955
+mao hao 	冒號	c=1 d=4.36495e-13 t=30955
+mao li 	毛利	c=6 d=0.000104658 t=30955
+mao mao 	毛毛	c=0 d=4.43166e-16 t=30955
+mao yi 	貿易	c=24 d=0.354116 t=30955
+mao yi huo ban 	貿易伙伴	c=16 d=0.0105737 t=30955
+mao ze dong 	毛澤東	c=5 d=5.63029e-13 t=30955
+me 	麼	c=5 d=9.63286e-13 t=30955
+mei 	每	c=4 d=0.36923 t=30955
+mei 	沒	c=15 d=0.00123854 t=30955
+mei 	美	c=1 d=1.43851e-13 t=30955
+mei bao cun 	沒保存	c=1 d=2.21211e-17 t=30955
+mei bi yao 	沒必要	c=1 d=1.17491e-14 t=30955
+mei ce shi 	沒測試	c=1 d=4.17288e-13 t=30955
+mei ceng 	每層	c=2 d=0.494505 t=30955
+mei cha 	沒查	c=1 d=7.67992e-13 t=30955
+mei ci 	每次	c=3 d=1.03011e-09 t=30955
+mei cuo 	沒錯	c=2 d=0.00038052 t=30955
+mei dong guo 	沒動過	c=1 d=3.75503e-07 t=30955
+mei fan yi 	沒翻譯	c=1 d=2.60132e-12 t=30955
+mei fan ying 	沒反映	c=1 d=0.00451658 t=30955
+mei ge 	每個	c=2 d=0.0434998 t=30955
+mei guan xi 	沒關係	c=3 d=3.74788e-14 t=30955
+mei guo 	美國	c=2 d=3.31052e-17 t=30955
+mei hang 	每行	c=3 d=2.59505e-13 t=30955
+mei hu kou 	沒戶口	c=1 d=0.00782838 t=30955
+mei hua 	美化	c=3 d=0.856415 t=30955
+mei jian 	每件	c=1 d=1.24392e-09 t=30955
+mei jing shen 	沒精神	c=1 d=1.44621e-17 t=30955
+mei ju 	枚舉	c=2 d=2.47354e-13 t=30955
+mei kan 	沒看	c=1 d=1.46682e-07 t=30955
+mei kong 	沒空	c=2 d=2.02143e-13 t=30955
+mei lan 	魅藍	c=2 d=1.42881e-14 t=30955
+mei lie 	每列	c=1 d=0.0109436 t=30955
+mei qian 	沒錢	c=2 d=9.10303e-13 t=30955
+mei ri 	每日	c=3 d=9.89342e-13 t=30955
+mei sha 	沒啥	c=1 d=5.00878e-14 t=30955
+mei shan chu 	沒刪除	c=1 d=3.31775e-21 t=30955
+mei shang 	沒上	c=1 d=7.97133e-10 t=30955
+mei shen me 	沒什麼	c=1 d=9.10303e-13 t=30955
+mei shi 	沒事	c=1 d=4.68701e-27 t=30955
+mei shou dao 	沒收到	c=1 d=4.46466e-14 t=30955
+mei shuo 	沒說	c=1 d=1.9321e-13 t=30955
+mei tian 	每天	c=5 d=1.27317e-12 t=30955
+mei tu 	美圖	c=1 d=2.87491e-12 t=30955
+mei tuan 	美團	c=1 d=4.82402e-13 t=30955
+mei wang 	美網	c=1 d=3.54671e-12 t=30955
+mei wen ti 	沒問題	c=3 d=4.85269e-14 t=30955
+mei xin hao 	沒信號	c=1 d=5.33227e-15 t=30955
+mei ye 	每頁	c=1 d=3.70227e-17 t=30955
+mei yi 	每一	c=0 d=7.73835e-15 t=30955
+mei yi bu 	每一步	c=1 d=2.575e-10 t=30955
+mei yi ci 	每一次	c=1 d=1.07602e-09 t=30955
+mei yi ge 	每一個	c=5 d=0.481061 t=30955
+mei yi hang 	每一行	c=3 d=2.06356e-12 t=30955
+mei yong 	沒用	c=1 d=2.7765e-14 t=30955
+mei you 	沒有	c=44 d=0.00221362 t=30955
+mei yu 	美語	c=3 d=1.04842e-11 t=30955
+mei yuan 	美元	c=2 d=1.88311e-05 t=30955
+mei yue 	每月	c=1 d=3.04532e-13 t=30955
+mei zen me 	沒怎麼	c=1 d=1.48514e-06 t=30955
+mei zhang 	每張	c=1 d=0.0175975 t=30955
+mei zhou 	每週	c=1 d=2.99998e-13 t=30955
+mei zuo 	沒做	c=1 d=5.29196e-14 t=30955
+men 	們	c=7 d=0.0500366 t=30955
+men 	門	c=2 d=9.59443e-13 t=30955
+meng cheng xian 	蒙城縣	c=1 d=4.07969e-12 t=30955
+meng yan 	孟煙	c=1 d=5.0933e-05 t=30955
+mi 	米	c=1 d=3.87202e-15 t=30955
+mi ma 	密碼	c=14 d=8.38887e-12 t=30955
+mi si 	迷思	c=1 d=3.3656e-13 t=30955
+mi su 	靡愬	c=4 d=3.70017e-16 t=30955
+mi suo 	覓索	c=1 d=2.71449e-13 t=30955
+mi yao 	密鑰	c=2 d=7.93526e-29 t=30955
+mian 	麪	c=3 d=7.78161e-13 t=30955
+mian dui 	面對	c=1 d=2.93349e-14 t=30955
+mian fei 	免費	c=3 d=2.4431e-09 t=30955
+mian shi 	面試	c=3 d=2.63929e-06 t=30955
+mian shi ti 	麪實體	c=1 d=7.79596e-13 t=30955
+mian ti 	免提	c=1 d=2.2846e-14 t=30955
+mian xiang 	面向	c=1 d=4.70652e-17 t=30955
+mian xiang dui xiang 	面向對象	c=1 d=4.89859e-17 t=30955
+miao shu 	描述	c=4 d=3.32082e-09 t=30955
+mie huo qi 	滅火器	c=1 d=3.24145e-12 t=30955
+min yong 	民用	c=0 d=2.53098e-14 t=30955
+min yong dian 	民用電	c=1 d=2.54367e-13 t=30955
+ming 	名	c=67 d=0.0014495 t=30955
+ming 	銘	c=2 d=7.72486e-19 t=30955
+ming bai 	明白	c=1 d=4.98381e-14 t=30955
+ming cheng 	名稱	c=42 d=0.00417954 t=30955
+ming dan 	名單	c=1 d=4.03486e-07 t=30955
+ming e 	名額	c=1 d=8.05144e-10 t=30955
+ming ji 	明基	c=1 d=0.000261259 t=30955
+ming ling 	命令	c=15 d=0.000221408 t=30955
+ming ling hang 	命令行	c=2 d=1.65783e-06 t=30955
+ming ming 	命名	c=1 d=2.09587e-29 t=30955
+ming ming 	明明	c=1 d=4.7285e-13 t=30955
+ming tian 	明天	c=7 d=3.82168e-08 t=30955
+ming xi 	明細	c=122 d=0.00176737 t=30955
+ming xi hang 	明細行	c=1 d=6.38279e-13 t=30955
+ming xian 	明顯	c=1 d=2.09843e-14 t=30955
+ming zi 	名字	c=5 d=1.0076e-11 t=30955
+mo ban 	模板	c=98 d=0.00580933 t=30955
+mo ban zhong 	模板中	c=1 d=1.21382e-15 t=30955
+mo dao bu wu kan chai gong 	磨刀不誤砍柴工	c=1 d=6.61128e-15 t=30955
+mo er 	摩爾	c=0 d=5.39886e-15 t=30955
+mo er si 	摩爾斯	c=1 d=5.42594e-14 t=30955
+mo er si 	莫爾斯	c=1 d=5.37196e-14 t=30955
+mo hu 	模糊	c=2 d=2.35418e-14 t=30955
+mo hu pi pei 	模糊匹配	c=1 d=2.3481e-13 t=30955
+mo hua 	磨花	c=1 d=1.68375e-12 t=30955
+mo kuai 	模塊	c=41 d=3.81353e-11 t=30955
+mo li 	磨礪	c=1 d=2.05688e-14 t=30955
+mo li hua 	茉莉花	c=2 d=1.86013 t=30955
+mo ni 	模擬	c=3 d=1.59417e-12 t=30955
+mo ren 	默認	c=28 d=0.000203472 t=30955
+mo shi 	模式	c=5 d=0.000106861 t=30955
+mo tuo 	摩托	c=1 d=1.76155e-14 t=30955
+mo wei 	末尾	c=1 d=2.50622e-15 t=30955
+mo xing 	模型	c=8 d=0.297437 t=30955
+mou 	某	c=1 d=3.36789e-21 t=30955
+mou tian 	謀天	c=1 d=1.93677e-12 t=30955
+mou xie 	某些	c=1 d=0.000115067 t=30955
+mou yi 	某一	c=1 d=2.23936e-14 t=30955
+mu 	沐	c=1 d=6.81147e-13 t=30955
+mu ban 	模板	c=4 d=1.77125e-12 t=30955
+mu ban 	母板	c=1 d=3.59041e-09 t=30955
+mu biao 	目標	c=50 d=0.000328432 t=30955
+mu biao ji zhun lv 	目標基準率	c=1 d=1.20798e-17 t=30955
+mu di di 	目的地	c=1 d=0.00392653 t=30955
+mu ke 	幕客	c=2 d=8.3243e-12 t=30955
+mu ke wang 	慕課網	c=5 d=1.97263e-13 t=30955
+mu lu 	目錄	c=22 d=0.00228397 t=30955
+mu lu shu 	目錄樹	c=1 d=3.41646e-13 t=30955
+mu qian 	目前	c=1 d=9.35762e-14 t=30955
+na 	哪	c=2 d=3.16142e-12 t=30955
+na 	那	c=21 d=1.03858e-06 t=30955
+na bian 	那邊	c=2 d=5.95706e-15 t=30955
+na cai jiao 	那才叫	c=1 d=3.81373e-13 t=30955
+na de 	那得	c=1 d=8.92428e-15 t=30955
+na ge 	哪個	c=11 d=8.71996e-07 t=30955
+na ge 	那個	c=9 d=2.45985e-06 t=30955
+na ge lei 	那個類	c=1 d=9.49904e-14 t=30955
+na ge shi hou 	那個時候	c=1 d=2.21136e-13 t=30955
+na gong zi 	那工資	c=1 d=8.48762e-13 t=30955
+na hao 	那好	c=1 d=3.60963e-13 t=30955
+na jia 	那家	c=1 d=1.57125e-22 t=30955
+na jin tian 	那今天	c=1 d=2.47319e-06 t=30955
+na jiu 	那就	c=9 d=8.74503e-07 t=30955
+na ke yi 	那可以	c=1 d=4.25791e-15 t=30955
+na li 	哪裏	c=11 d=3.57542e-12 t=30955
+na li 	那裏	c=3 d=4.26875e-07 t=30955
+na me 	那麼	c=8 d=7.4902e-09 t=30955
+na me da 	那麼大	c=1 d=2.08258e-13 t=30955
+na mi 	納米	c=2 d=7.48826e-31 t=30955
+na miao 	納秒	c=1 d=1.74372e-12 t=30955
+na ni 	哪你	c=1 d=7.12496e-13 t=30955
+na ni 	那你	c=3 d=1.96435e-06 t=30955
+na qi 	納期	c=1 d=7.30535e-13 t=30955
+na shi 	那是	c=2 d=2.20602e-14 t=30955
+na shi hou 	那時候	c=1 d=1.66297e-13 t=30955
+na tian 	哪天	c=1 d=5.12317e-15 t=30955
+na tian 	那天	c=1 d=4.52041e-13 t=30955
+na tiao 	那條	c=1 d=3.72855e-13 t=30955
+na wo 	那我	c=10 d=1.88156e-06 t=30955
+na wo men 	那我們	c=1 d=4.78837e-14 t=30955
+na xie 	哪些	c=8 d=7.30162e-07 t=30955
+na xie 	那些	c=3 d=0.00704808 t=30955
+na yao 	那要	c=1 d=1.78908e-20 t=30955
+na ye shi 	那也是	c=1 d=0.00960953 t=30955
+na yi ge 	哪一個	c=1 d=5.41379e-17 t=30955
+na yi lan 	那一欄	c=1 d=5.09765e-15 t=30955
+na yi lie 	那一列	c=2 d=2.61691e-14 t=30955
+na ying gai 	那應該	c=1 d=4.40657e-07 t=30955
+na zhang 	那張	c=0 d=5.73274e-15 t=30955
+na zhang biao 	那張表	c=1 d=5.76145e-14 t=30955
+na zhong 	那種	c=1 d=1.80614e-14 t=30955
+na zhong gan jue 	那種感覺	c=1 d=1.96637e-14 t=30955
+nai ba 	奶爸	c=1 d=2.24784e-29 t=30955
+nai lao 	奶酪	c=2 d=2.17207e-08 t=30955
+nai xin 	耐心	c=1 d=6.8633e-14 t=30955
+nan 	南	c=1 d=3.26724e-17 t=30955
+nan 	男	c=1 d=6.39931e-14 t=30955
+nan hai 	男孩	c=0 d=6.49605e-15 t=30955
+nan hai nv hai 	男孩女孩	c=1 d=6.52859e-14 t=30955
+nan jing 	南京	c=2 d=1.14001e-12 t=30955
+nan ren 	男人	c=1 d=1.89071e-13 t=30955
+nan ren tuan 	男人團	c=1 d=1.51592e-12 t=30955
+nan shi 	男士	c=1 d=1.72637e-12 t=30955
+nan xing 	男性	c=2 d=1.32679e-13 t=30955
+nang zhong xiu se 	囊中羞澀	c=1 d=1.89416e-15 t=30955
+nao dai 	腦袋	c=0 d=3.62773e-14 t=30955
+nao dai li 	腦袋裏	c=1 d=3.64591e-13 t=30955
+ne 	呢	c=20 d=0.000189796 t=30955
+ne bu 	呢不	c=1 d=5.12405e-18 t=30955
+ne bu bao jia 	呢不報價	c=3 d=1.80583e-12 t=30955
+ne re 	呢熱	c=1 d=4.03278e-23 t=30955
+nei 	內	c=3 d=4.43246e-10 t=30955
+nei bu 	內部	c=185 d=0.0812158 t=30955
+nei bu bao jia 	內部報價	c=90 d=0.53324 t=30955
+nei bu lei 	內部類	c=1 d=1.89024e-20 t=30955
+nei bu que ren 	內部確認	c=1 d=0.0536647 t=30955
+nei cun 	內存	c=4 d=1.85522e-12 t=30955
+nei cun tiao 	內存條	c=1 d=3.00049e-15 t=30955
+nei mu 	內幕	c=1 d=5.80534e-15 t=30955
+nei rong 	內容	c=99 d=0.000350846 t=30955
+neng 	能	c=9 d=0.00637749 t=30955
+neng bei 	能被	c=1 d=1.81519e-14 t=30955
+neng de dao 	能得到	c=1 d=1.78786e-12 t=30955
+neng gou 	能夠	c=2 d=7.91378e-13 t=30955
+neng li 	能力	c=1 d=2.85416e-15 t=30955
+neng nai 	能耐	c=1 d=2.09302e-13 t=30955
+neng yong 	能用	c=1 d=3.38362e-17 t=30955
+neng zhao dao 	能找到	c=1 d=2.19465e-12 t=30955
+ni 	你	c=42 d=0.00902718 t=30955
+ni 	尼	c=2 d=3.58355e-13 t=30955
+ni bu 	你不	c=0 d=1.05235e-13 t=30955
+ni bu shi shuo 	你不是說	c=1 d=5.37469e-20 t=30955
+ni bu shi yong 	你不使用	c=1 d=1.05762e-12 t=30955
+ni bu zhi dao 	你不知道	c=2 d=1.07415e-18 t=30955
+ni cai 	你才	c=1 d=4.76449e-14 t=30955
+ni cheng 	昵稱	c=1 d=1.03418e-13 t=30955
+ni chi 	你吃	c=1 d=1.53246e-22 t=30955
+ni chong qi xia 	你重啓下	c=1 d=2.92591e-13 t=30955
+ni chong xin 	你重新	c=1 d=1.58106e-07 t=30955
+ni de 	你的	c=7 d=0.00875335 t=30955
+ni de shi hou 	你的時候	c=1 d=0.00810722 t=30955
+ni gai de 	你改的	c=1 d=4.34096e-07 t=30955
+ni gen 	你跟	c=2 d=6.60678e-07 t=30955
+ni geng xin 	你更新	c=2 d=1.3445e-12 t=30955
+ni hao 	你好	c=7 d=0.000683448 t=30955
+ni hao xiang 	你好像	c=1 d=7.417e-15 t=30955
+ni jian cha 	你檢查	c=1 d=6.43139e-14 t=30955
+ni jin tian 	尼今天	c=1 d=2.95532e-13 t=30955
+ni jiu 	你就	c=0 d=0.000798652 t=30955
+ni jiu shi 	你就是	c=2 d=0.0161744 t=30955
+ni kan 	你看	c=2 d=3.82298e-12 t=30955
+ni kan kan 	你看看	c=4 d=2.32512e-06 t=30955
+ni kan xia 	你看下	c=1 d=1.757e-13 t=30955
+ni ke yi 	你可以	c=1 d=6.8456e-13 t=30955
+ni lian 	你連	c=1 d=1.65383e-07 t=30955
+ni men 	你們	c=10 d=0.00013524 t=30955
+ni ming 	匿名	c=1 d=1.16302e-12 t=30955
+ni qu 	你去	c=1 d=7.70371e-20 t=30955
+ni shi 	你是	c=3 d=1.86564e-13 t=30955
+ni shi bu shi 	你是不是	c=1 d=2.07897e-22 t=30955
+ni shi shi 	你試試	c=2 d=9.01244e-13 t=30955
+ni shi yao 	你是要	c=1 d=1.07434e-20 t=30955
+ni shuo 	你說	c=8 d=8.29672e-12 t=30955
+ni shuo de 	你說的	c=1 d=1.40638e-12 t=30955
+ni shuo ne 	你說呢	c=3 d=3.28027e-05 t=30955
+ni ti dao 	你提到	c=1 d=3.2092e-12 t=30955
+ni wei shen me 	你爲什麼	c=1 d=1.1459e-14 t=30955
+ni wen 	你問	c=0 d=1.46682e-08 t=30955
+ni wen wen 	你問問	c=2 d=4.97094e-13 t=30955
+ni wen xia 	你問下	c=1 d=1.47417e-07 t=30955
+ni xian 	你先	c=1 d=1.04187e-12 t=30955
+ni xian zai 	你現在	c=1 d=0.000147011 t=30955
+ni xu yao 	你需要	c=1 d=1.78355e-13 t=30955
+ni yao 	你要	c=3 d=3.72889e-12 t=30955
+ni ye 	你也	c=1 d=7.7397e-16 t=30955
+ni yi jing 	你已經	c=1 d=5.71794e-13 t=30955
+ni yong 	你用	c=2 d=1.93578e-07 t=30955
+ni zai 	你在	c=1 d=1.23431e-06 t=30955
+ni zen me 	你怎麼	c=1 d=2.25059e-14 t=30955
+ni zi ji 	你自己	c=2 d=4.36198e-05 t=30955
+nian 	年	c=11 d=0.00625109 t=30955
+nian fen 	年份	c=3 d=2.31138e-13 t=30955
+nian yue 	年月	c=3 d=6.55333e-12 t=30955
+nian yue ri 	年月日	c=5 d=2.31517e-11 t=30955
+nin 	您	c=0 d=1.31787e-13 t=30955
+nin hao 	您好	c=1 d=1.20154e-13 t=30955
+nin men 	您們	c=1 d=6.41479e-13 t=30955
+nin shuo ne 	您說呢	c=1 d=1.32448e-12 t=30955
+niu zai ku 	牛仔褲	c=2 d=6.72848e-12 t=30955
+nong 	弄	c=3 d=2.4001e-06 t=30955
+nong 	農	c=1 d=2.30756e-14 t=30955
+nong hang 	農行	c=5 d=5.61658e-13 t=30955
+nong hang ka 	農行卡	c=1 d=1.05507e-13 t=30955
+nong li 	農曆	c=7 d=2.97352e-13 t=30955
+nong ye yin hang 	農業銀行	c=1 d=3.13593e-05 t=30955
+nu li 	努力	c=1 d=7.34196e-13 t=30955
+nu li 	奴隸	c=2 d=0.0117755 t=30955
+nuo nuo 	諾諾	c=1 d=4.9223e-15 t=30955
+nv 	女	c=2 d=1.33984e-13 t=30955
+nv hai 	女孩	c=0 d=6.49605e-15 t=30955
+nv peng you 	女朋友	c=1 d=6.35206e-15 t=30955
+nv shi 	女士	c=1 d=1.70067e-13 t=30955
+nv shi de 	女士的	c=1 d=1.70919e-12 t=30955
+nv wu 	女巫	c=1 d=0.000448321 t=30955
+nv xing 	女性	c=1 d=6.36741e-14 t=30955
+o 	噢	c=13 d=3.72882e-06 t=30955
+pa 	怕	c=2 d=5.5003e-15 t=30955
+pa 	爬	c=1 d=1.57398e-13 t=30955
+pai 	派	c=1 d=2.06684e-12 t=30955
+pai 	牌	c=1 d=3.52051e-13 t=30955
+pai ban 	排版	c=3 d=3.45915e-12 t=30955
+pai cheng 	排成	c=1 d=1.73951e-13 t=30955
+pai ta 	排他	c=1 d=8.89036e-29 t=30955
+pai xu 	排序	c=17 d=4.12985e-12 t=30955
+pan 	盤	c=12 d=1.77034 t=30955
+pan ding 	判定	c=11 d=3.54071e-12 t=30955
+pan duan 	判斷	c=27 d=0.00494919 t=30955
+pan duo la 	潘多拉	c=1 d=8.78394e-05 t=30955
+pan long qu 	盤龍區	c=2 d=8.26288e-14 t=30955
+pao bu 	跑步	c=0 d=4.80649e-30 t=30955
+pao bu qi lai 	跑步起來	c=1 d=4.83057e-29 t=30955
+pao chu 	拋出	c=1 d=1.8155e-16 t=30955
+pao guo qu 	跑過去	c=1 d=1.9321e-13 t=30955
+pao tui 	跑腿	c=1 d=2.17843e-13 t=30955
+pei 	配	c=0 d=9.86117e-14 t=30955
+pei hao 	陪好	c=1 d=9.86117e-13 t=30955
+pei hao le 	配好了	c=1 d=9.91061e-13 t=30955
+pei he 	配合	c=2 d=2.23784e-06 t=30955
+pei se 	配色	c=4 d=5.9125e-12 t=30955
+pei zhi 	配置	c=58 d=0.951229 t=30955
+pei zhi gong ju 	配置工具	c=1 d=0.318224 t=30955
+pei zhi wen jian 	配置文件	c=18 d=0.927743 t=30955
+peng you 	朋友	c=1 d=3.80452e-14 t=30955
+pi 	屁	c=1 d=0.442639 t=30955
+pi 	批	c=1 d=4.57534e-08 t=30955
+pi chu li 	批處理	c=4 d=3.23418e-15 t=30955
+pi liang 	批量	c=6 d=2.01495 t=30955
+pi pei 	匹配	c=26 d=0.42286 t=30955
+pi zhi 	皮脂	c=1 d=3.92987e-13 t=30955
+pian 	偏	c=1 d=0.028297 t=30955
+pian li 	偏離	c=0 d=3.11435e-13 t=30955
+pian zhi 	偏置	c=3 d=0.198055 t=30955
+piao 	票	c=2 d=5.99658e-14 t=30955
+piao 	飄	c=3 d=2.64425e-12 t=30955
+pin 	品	c=2 d=2.07167e-09 t=30955
+pin fan 	品番	c=33 d=0.00197406 t=30955
+pin fan hao 	品番號	c=2 d=1.96604e-12 t=30955
+pin hao 	品號	c=6 d=1.95623e-12 t=30955
+pin jie 	拼接	c=1 d=7.73835e-14 t=30955
+pin ming 	品名	c=2 d=7.40956e-22 t=30955
+pin pai 	品牌	c=4 d=2.96731e-12 t=30955
+pin pai hao 	品牌號	c=2 d=1.50083e-12 t=30955
+pin xie 	拼寫	c=1 d=2.55025e-14 t=30955
+pin yin 	拼音	c=1 d=2.60132e-12 t=30955
+ping 	萍	c=1 d=3.19428e-16 t=30955
+ping bi 	屏蔽	c=1 d=2.01581e-12 t=30955
+ping fang 	平方	c=2 d=2.86846e-15 t=30955
+ping guo 	蘋果	c=3 d=9.42728e-13 t=30955
+ping jun 	平均	c=1 d=1.70478e-11 t=30955
+ping mu 	屏幕	c=1 d=6.49605e-14 t=30955
+ping tai 	平臺	c=1 d=2.28343e-08 t=30955
+ping zi 	瓶子	c=1 d=2.05977e-13 t=30955
+po jie 	破解	c=3 d=8.45403e-13 t=30955
+po mo 	潑墨	c=1 d=2.51186e-12 t=30955
+pu 	浦	c=1 d=1.06567e-13 t=30955
+pu dong 	浦東	c=1 d=3.82295e-12 t=30955
+pu shi 	樸實	c=1 d=1.66756e-16 t=30955
+pu tong 	普通	c=3 d=2.77527e-12 t=30955
+qi 	七	c=1 d=2.97782e-14 t=30955
+qi 	企	c=0 d=2.89375e-31 t=30955
+qi 	其	c=4 d=6.60947e-13 t=30955
+qi 	器	c=14 d=4.70171e-05 t=30955
+qi 	期	c=11 d=6.47688e-12 t=30955
+qi 	騎	c=1 d=1.70096e-14 t=30955
+qi cha cha 	企查查	c=1 d=2.90825e-30 t=30955
+qi dong 	啓動	c=25 d=0.000108922 t=30955
+qi dong pan 	啓動盤	c=3 d=0.891366 t=30955
+qi dong qi 	起動器	c=1 d=1.72637e-12 t=30955
+qi dong xiang 	啓動項	c=1 d=9.66758e-15 t=30955
+qi lai 	起來	c=2 d=1.06036e-13 t=30955
+qi miao 	奇妙	c=2 d=4.11075e-13 t=30955
+qi nian 	七年	c=1 d=3.11488e-14 t=30955
+qi niu 	七牛	c=1 d=4.19451e-15 t=30955
+qi ri 	七日	c=1 d=2.87932e-30 t=30955
+qi shang 	騎上	c=1 d=1.75276e-14 t=30955
+qi shi 	其實	c=2 d=1.07638e-13 t=30955
+qi shi 	氣勢	c=1 d=1.8105e-13 t=30955
+qi shi 	起始	c=2 d=3.69763e-11 t=30955
+qi ta 	其他	c=31 d=0.0013337 t=30955
+qi ta hang 	其他行	c=1 d=4.66128e-21 t=30955
+qi ta le xing 	其他了性	c=1 d=1.73473e-10 t=30955
+qi ta ren 	其他人	c=1 d=6.38279e-13 t=30955
+qi tian 	七天	c=3 d=1.19482e-11 t=30955
+qi wang 	期望	c=3 d=0.0502874 t=30955
+qi wen 	氣溫	c=1 d=0.000225994 t=30955
+qi ye 	企業	c=4 d=3.10789e-12 t=30955
+qi yong 	啓用	c=6 d=9.59452e-14 t=30955
+qi yong 	棄用	c=2 d=5.50795e-14 t=30955
+qi zhong 	其中	c=5 d=8.74793e-13 t=30955
+qian 	前	c=21 d=0.000220948 t=30955
+qian 	千	c=1 d=1.59364e-12 t=30955
+qian 	欠	c=1 d=5.49092e-07 t=30955
+qian 	錢	c=2 d=0.00546167 t=30955
+qian bao 	錢包	c=1 d=9.26451e-14 t=30955
+qian duan 	前端	c=5 d=4.88497e-12 t=30955
+qian hou 	前後	c=1 d=1.45841e-12 t=30955
+qian hou duan 	前後端	c=2 d=4.45651e-12 t=30955
+qian hui 	前回	c=2 d=4.93516e-05 t=30955
+qian ji tian 	前幾天	c=2 d=7.12496e-13 t=30955
+qian san 	前三	c=0 d=2.05262e-20 t=30955
+qian san wei 	前三位	c=2 d=2.25641e-15 t=30955
+qian shi 	前世	c=1 d=4.66469e-13 t=30955
+qian shi jin sheng 	前世今生	c=1 d=6.6444e-15 t=30955
+qian tai 	前臺	c=1 d=6.87991e-13 t=30955
+qian tao 	嵌套	c=2 d=2.57468e-12 t=30955
+qian xiang he fan xiang chuan bo 	前向和反向傳播	c=1 d=0.00222055 t=30955
+qian yi 	遷移	c=2 d=1.67131e-13 t=30955
+qiang 	強	c=1 d=2.05583e-08 t=30955
+qiang 	牆	c=2 d=6.76216e-14 t=30955
+qiang hua 	強化	c=1 d=0.551563 t=30955
+qiang zhi 	強制	c=1 d=2.4796e-07 t=30955
+qiao 	敲	c=0 d=1.24134e-15 t=30955
+qiao dai ma 	敲代碼	c=1 d=1.24756e-14 t=30955
+qie 	且	c=9 d=0.000131776 t=30955
+qie ge 	切割	c=1 d=1.11472e-13 t=30955
+qie huan 	切換	c=6 d=3.28388e-13 t=30955
+qie pian 	切片	c=1 d=4.84983e-17 t=30955
+qing 	清	c=1 d=2.08293e-15 t=30955
+qing 	請	c=29 d=0.0805581 t=30955
+qing chu 	清楚	c=1 d=1.15742e-14 t=30955
+qing dan 	清單	c=3 d=2.64589e-12 t=30955
+qing hua 	清華	c=3 d=1.69295e-12 t=30955
+qing huan cun 	清緩存	c=1 d=2.09986e-22 t=30955
+qing jia 	請假	c=5 d=3.29622e-13 t=30955
+qing jia dan 	請假單	c=1 d=3.39942e-13 t=30955
+qing jian cha 	請檢查	c=1 d=0.737123 t=30955
+qing jiang 	請將	c=1 d=4.83898e-20 t=30955
+qing jiao 	請教	c=1 d=5.27922e-15 t=30955
+qing kong 	清空	c=8 d=7.0633e-06 t=30955
+qing kuang 	情況	c=7 d=1.90539e-12 t=30955
+qing li 	清理	c=7 d=1.6097e-12 t=30955
+qing liang ji 	輕量級	c=1 d=9.35285e-08 t=30955
+qing qing 	輕輕	c=1 d=4.34317e-13 t=30955
+qing qiu 	請求	c=47 d=0.000116832 t=30955
+qing shi yong 	請使用	c=1 d=1.12321e-14 t=30955
+qing shu ru 	請輸入	c=1 d=7.54733e-14 t=30955
+qing shuang 	清爽	c=1 d=1.90794e-12 t=30955
+qing song 	輕鬆	c=2 d=1.34085e-12 t=30955
+qing wen 	請問	c=2 d=2.70251e-12 t=30955
+qing xian 	請先	c=3 d=2.04134e-13 t=30955
+qing xie 	傾斜	c=1 d=2.46211e-12 t=30955
+qing xuan ze 	請選擇	c=5 d=4.41722e-06 t=30955
+qing yi xia 	清一下	c=1 d=2.11039e-22 t=30955
+qiong 	瓊	c=1 d=3.52902e-12 t=30955
+qiu 	求	c=1 d=5.6894e-13 t=30955
+qiu 	秋	c=2 d=2.7347e-12 t=30955
+qiu chu 	求出	c=1 d=1.8981e-10 t=30955
+qiu dao 	求導	c=4 d=2.00873 t=30955
+qiu he 	求和	c=1 d=8.78992e-13 t=30955
+qiu zhi bu de 	求之不得	c=1 d=2.78369e-15 t=30955
+qu 	區	c=1 d=4.38908e-19 t=30955
+qu 	去	c=25 d=0.00976715 t=30955
+qu 	取	c=24 d=0.509207 t=30955
+qu bie 	區別	c=3 d=2.0463e-12 t=30955
+qu chong 	去重	c=1 d=5.47674e-06 t=30955
+qu chu 	去除	c=9 d=1.50608e-10 t=30955
+qu chu 	取出	c=21 d=0.00607327 t=30955
+qu diao 	去掉	c=2 d=2.6247e-13 t=30955
+qu dong 	驅動	c=5 d=3.56373e-12 t=30955
+qu fen 	區分	c=11 d=0.000912904 t=30955
+qu na 	去哪	c=0 d=3.29896e-14 t=30955
+qu na chi 	去哪吃	c=1 d=3.31549e-13 t=30955
+qu na er 	去哪兒	c=1 d=5.87786e-14 t=30955
+qu se qi 	取色器	c=1 d=3.55468e-09 t=30955
+qu shu ju 	取數據	c=1 d=3.53816e-13 t=30955
+qu xian 	曲線	c=1 d=0.140156 t=30955
+qu xiao 	取消	c=24 d=1.50225 t=30955
+qu yi yuan 	去醫院	c=2 d=6.01726e-13 t=30955
+qu zheng 	取整	c=2 d=2.58764e-09 t=30955
+qu zhi 	取值	c=3 d=1.55055e-13 t=30955
+qu zhi xing 	取執行	c=1 d=1.20695e-07 t=30955
+qu zi 	取自	c=1 d=3.07855e-23 t=30955
+quan 	全	c=2 d=4.32303e-13 t=30955
+quan 	圈	c=1 d=3.8236e-14 t=30955
+quan 	權	c=3 d=2.29843e-13 t=30955
+quan bu 	全部	c=18 d=0.000177921 t=30955
+quan bu nei rong 	全部內容	c=1 d=1.10078e-12 t=30955
+quan ji 	全集	c=1 d=1.14867e-13 t=30955
+quan jiao 	全角	c=1 d=7.91378e-13 t=30955
+quan ju 	全局	c=3 d=9.28059e-05 t=30955
+quan lu jing 	全路徑	c=9 d=0.00197932 t=30955
+quan qiu 	全球	c=1 d=9.6659e-13 t=30955
+quan shi 	全是	c=1 d=9.9603e-13 t=30955
+quan shu 	全書	c=1 d=3.4681e-13 t=30955
+quan xian 	權限	c=37 d=1.30509e-11 t=30955
+quan xie 	全寫	c=1 d=9.86286e-15 t=30955
+quan xin 	全新	c=1 d=2.82528e-13 t=30955
+quan xuan 	全選	c=4 d=5.92389e-12 t=30955
+quan zhong 	權重	c=4 d=0.216073 t=30955
+quan zi dong 	全自動	c=1 d=5.92259e-15 t=30955
+que 	卻	c=1 d=5.57673e-13 t=30955
+que bao 	確保	c=2 d=0.0485578 t=30955
+que ding 	確定	c=8 d=1.43389e-05 t=30955
+que qian 	缺錢	c=1 d=1.14887e-15 t=30955
+que ren 	確認	c=46 d=1.26273 t=30955
+que ren 	缺人	c=1 d=0.00923273 t=30955
+que shao 	缺少	c=2 d=4.07701e-13 t=30955
+que shi 	缺失	c=2 d=4.03991e-12 t=30955
+ran 	然	c=1 d=2.51143e-10 t=30955
+ran hou 	然後	c=14 d=1.06268e-08 t=30955
+rang 	讓	c=7 d=1.51153e-07 t=30955
+rang wo 	讓我	c=1 d=1.71805e-14 t=30955
+rang wo men 	讓我們	c=1 d=4.54307e-13 t=30955
+rao guo 	繞過	c=2 d=1.12107e-13 t=30955
+re 	熱	c=4 d=3.06059e-14 t=30955
+re ai 	熱愛	c=1 d=9.1502e-15 t=30955
+re ai er 	熱愛而	c=1 d=3.57859e-29 t=30955
+re bu shu 	熱部署	c=1 d=3.07593e-13 t=30955
+ren 	人	c=20 d=0.0155843 t=30955
+ren cai 	人才	c=2 d=0.0164597 t=30955
+ren gong 	人工	c=2 d=0.00059826 t=30955
+ren gong fei 	人工費	c=1 d=4.0154e-31 t=30955
+ren gong zhi neng 	人工智能	c=2 d=0.00110902 t=30955
+ren he 	仁和	c=1 d=2.65252e-06 t=30955
+ren ji 	仁濟	c=1 d=7.9974e-19 t=30955
+ren jian fei 	人件費	c=6 d=1.1473e-11 t=30955
+ren kou 	人口	c=2 d=0.454608 t=30955
+ren lei 	人類	c=2 d=1.72682e-12 t=30955
+ren li 	人力	c=0 d=9.80532e-06 t=30955
+ren li wo 	人力窩	c=1 d=9.85447e-05 t=30955
+ren men 	人們	c=1 d=2.10351e-13 t=30955
+ren min 	人民	c=1 d=1.34798e-13 t=30955
+ren ren 	人人	c=2 d=4.92121e-13 t=30955
+ren shi 	人事	c=3 d=8.56152e-13 t=30955
+ren shi dao 	認識到	c=1 d=1.72667e-14 t=30955
+ren wu 	任務	c=7 d=1.98494e-11 t=30955
+ren yi 	任意	c=2 d=5.46539e-11 t=30955
+ren yuan 	人員	c=2 d=8.25106e-20 t=30955
+ren zheng 	認證	c=3 d=1.70502e-05 t=30955
+reng 	扔	c=1 d=5.10997e-14 t=30955
+ri 	日	c=6 d=6.44564e-13 t=30955
+ri bao 	日報	c=5 d=1.33017 t=30955
+ri ben 	日本	c=4 d=4.17463e-05 t=30955
+ri ju 	日劇	c=1 d=5.87685e-12 t=30955
+ri li 	日曆	c=27 d=1.00375e-12 t=30955
+ri qi 	日期	c=56 d=6.69077e-12 t=30955
+ri zhi 	日誌	c=41 d=2.27869e-05 t=30955
+rong 	榮	c=1 d=3.44189e-12 t=30955
+rong hui guan tong 	融會貫通	c=1 d=3.59163e-13 t=30955
+rong liang 	容量	c=1 d=9.27556e-28 t=30955
+rong qi 	容器	c=1 d=2.02591e-12 t=30955
+rong ren 	容忍	c=2 d=1.18016 t=30955
+ru 	乳	c=1 d=0.918512 t=30955
+ru 	入	c=17 d=4.89524e-09 t=30955
+ru 	如	c=6 d=1.05064e-11 t=30955
+ru ci 	如此	c=2 d=2.16092e-13 t=30955
+ru guo 	如果	c=134 d=0.537607 t=30955
+ru he 	如何	c=16 d=6.97643e-08 t=30955
+ru keng 	如坑	c=1 d=7.0553e-15 t=30955
+ru kou 	入口	c=3 d=3.03746e-12 t=30955
+ru ku 	入庫	c=17 d=8.74955e-08 t=30955
+ru men 	入門	c=4 d=7.52782e-13 t=30955
+ru shu 	如數	c=1 d=8.91339e-30 t=30955
+ru tu 	如圖	c=6 d=2.66728e-12 t=30955
+ru xia 	如下	c=8 d=2.57941e-12 t=30955
+ruan 	阮	c=2 d=6.21503e-10 t=30955
+ruan jian 	軟件	c=17 d=0.00740653 t=30955
+ruan jian bao 	軟件包	c=1 d=6.36415e-08 t=30955
+ruan jian ming 	軟件名	c=1 d=2.47446e-12 t=30955
+ruan yi feng 	阮一峯	c=2 d=0.00433948 t=30955
+ruo 	若	c=2 d=3.48801e-13 t=30955
+sa 	撒	c=1 d=2.27321e-14 t=30955
+sa mo 	薩摩	c=1 d=1.46577e-28 t=30955
+san 	三	c=1 d=8.37264e-29 t=30955
+san bo 	散播	c=1 d=1.38568e-14 t=30955
+san ci 	三次	c=1 d=2.70795e-14 t=30955
+san ge 	三個	c=2 d=3.73445e-10 t=30955
+san ge yue 	三個月	c=1 d=1.43182e-17 t=30955
+san nian 	三年	c=1 d=3.97004e-15 t=30955
+san se 	三色	c=1 d=0.484325 t=30955
+san si 	三四	c=1 d=0.000705167 t=30955
+san si ge 	三四個	c=1 d=3.18386e-07 t=30955
+san si shi sui 	三四十歲	c=1 d=0.00708341 t=30955
+san xing 	三星	c=6 d=4.066e-12 t=30955
+sang zi 	嗓子	c=1 d=2.33639e-13 t=30955
+sao 	掃	c=1 d=5.12233e-13 t=30955
+sao miao 	掃描	c=3 d=5.32172e-13 t=30955
+se 	色	c=4 d=3.21984e-13 t=30955
+se diao 	色調	c=1 d=6.07254e-15 t=30955
+sen lin 	森林	c=3 d=2.32513e-07 t=30955
+sha fa 	沙發	c=2 d=3.26801e-12 t=30955
+sha qi 	殺器	c=1 d=8.29664e-10 t=30955
+sha shi hou 	啥時候	c=1 d=7.47603e-20 t=30955
+sha si 	殺死	c=2 d=1.35174e-12 t=30955
+shai 	曬	c=1 d=4.61176e-13 t=30955
+shai xuan 	篩選	c=2 d=2.42578e-12 t=30955
+shan 	刪	c=1 d=2.44984e-12 t=30955
+shan 	山	c=1 d=8.65317e-05 t=30955
+shan chu 	刪除	c=204 d=0.00347379 t=30955
+shan di 	閃迪	c=1 d=6.98033e-07 t=30955
+shan diao 	刪掉	c=4 d=2.81945e-12 t=30955
+shan gai 	刪改	c=0 d=3.2175e-14 t=30955
+shan le 	刪了	c=2 d=1.43592e-13 t=30955
+shang 	上	c=38 d=0.000162129 t=30955
+shang 	商	c=12 d=3.59198e-12 t=30955
+shang ban 	上班	c=3 d=1.07666e-13 t=30955
+shang bao 	上報	c=1 d=1.34126e-13 t=30955
+shang ceng 	上層	c=2 d=0.11539 t=30955
+shang chuan 	上傳	c=19 d=5.20481e-12 t=30955
+shang ci 	上次	c=7 d=1.11417e-07 t=30955
+shang de 	上的	c=2 d=6.24133e-14 t=30955
+shang ge yue 	上個月	c=2 d=3.18214e-13 t=30955
+shang hai 	上海	c=15 d=0.000490132 t=30955
+shang hui 	上回	c=2 d=4.39074e-05 t=30955
+shang ji 	上級	c=18 d=3.62773e-13 t=30955
+shang ji shang pin 	上級商品	c=1 d=5.28103e-19 t=30955
+shang lai 	上來	c=1 d=1.25685e-13 t=30955
+shang pin 	商品	c=135 d=0.000518277 t=30955
+shang qu 	上去	c=3 d=1.29112e-06 t=30955
+shang shu 	上述	c=1 d=4.00027e-16 t=30955
+shang wu 	上午	c=1 d=3.8408e-08 t=30955
+shang xia 	上下	c=2 d=2.77711e-16 t=30955
+shang ye 	商業	c=14 d=6.58972e-06 t=30955
+shang yi 	上一	c=1 d=1.41367e-14 t=30955
+shang yi ceng 	上一層	c=2 d=0.0607097 t=30955
+shang yi ci 	上一次	c=2 d=1.10345e-09 t=30955
+shang yi hang 	商一行	c=1 d=1.08757e-17 t=30955
+shang yue 	上月	c=3 d=4.37781e-14 t=30955
+shang zhong xia 	上中下	c=3 d=1.94779e-12 t=30955
+shang zhou 	上週	c=1 d=7.45291e-13 t=30955
+shao 	少	c=2 d=0.00349997 t=30955
+shao deng 	稍等	c=1 d=9.05763e-13 t=30955
+shao hou 	稍後	c=2 d=1.56991e-12 t=30955
+shao shu pai 	少數派	c=1 d=8.28087e-17 t=30955
+she 	設	c=2 d=2.55061e-14 t=30955
+she bao 	社保	c=1 d=3.56449e-12 t=30955
+she bei 	設備	c=1 d=3.18603e-16 t=30955
+she ji 	設計	c=31 d=3.67429e-06 t=30955
+she ji dao 	涉及到	c=1 d=2.51835e-13 t=30955
+she ji mo shi 	設計模式	c=2 d=2.71679e-15 t=30955
+she ji yu yan 	設計語言	c=1 d=8.59507e-14 t=30955
+she me 	什麼	c=1 d=5.66199e-15 t=30955
+she wei 	設爲	c=2 d=1.13226e-12 t=30955
+she you 	舍友	c=1 d=1.44572e-13 t=30955
+she zhi 	設置	c=112 d=0.97531 t=30955
+she zhi shi qu 	設置時區	c=1 d=4.01963e-14 t=30955
+she zhi zhi 	設置值	c=1 d=1.80583e-12 t=30955
+shen 	深	c=5 d=3.94008e-14 t=30955
+shen 	神	c=1 d=0.000596161 t=30955
+shen ceng 	深層	c=2 d=0.00454003 t=30955
+shen ceng shen jing wang luo 	深層神經網絡	c=1 d=0.00231117 t=30955
+shen du 	深度	c=3 d=7.05499e-06 t=30955
+shen du xue xi 	深度學習	c=3 d=1.53014 t=30955
+shen fen zheng 	身份證	c=2 d=1.06567e-13 t=30955
+shen he 	審覈	c=2 d=2.70474e-13 t=30955
+shen he zhong 	審覈中	c=2 d=1.23196e-13 t=30955
+shen jing 	神經	c=10 d=1.11424 t=30955
+shen jing wang luo 	神經網絡	c=1 d=0.136223 t=30955
+shen jing wang luo ceng shu 	神經網絡層數	c=1 d=0.0285814 t=30955
+shen jing wang luo de ceng shu 	神經網絡的層數	c=2 d=0.267731 t=30955
+shen kao bei 	神拷貝	c=2 d=1.25136e-19 t=30955
+shen long 	神龍	c=1 d=6.77864e-15 t=30955
+shen me 	什麼	c=41 d=0.000613916 t=30955
+shen me yi si 	什麼意思	c=1 d=1.61772e-12 t=30955
+shen pi 	審批	c=30 d=0.76778 t=30955
+shen pi liu 	審批流	c=2 d=5.83633e-05 t=30955
+shen pi shi bai 	審批失敗	c=1 d=1.87372e-05 t=30955
+shen pi zhong 	審批中	c=3 d=0.423162 t=30955
+shen qing 	申請	c=18 d=7.70954e-08 t=30955
+shen qing lv 	申請率	c=1 d=2.17015e-27 t=30955
+shen ru 	深入	c=5 d=7.43622e-12 t=30955
+shen ru fen xi 	深入分析	c=1 d=5.74758e-15 t=30955
+shen ru li jie 	深入理解	c=1 d=1.50083e-12 t=30955
+shen shou 	伸手	c=1 d=5.2656e-14 t=30955
+sheng 	生	c=3 d=5.63281e-13 t=30955
+sheng 	省	c=2 d=8.13512e-14 t=30955
+sheng chai 	生拆	c=1 d=2.59011e-20 t=30955
+sheng chan 	生產	c=2 d=1.38285e-12 t=30955
+sheng cheng 	生成	c=300 d=0.00903781 t=30955
+sheng cun 	生存	c=3 d=0.000694026 t=30955
+sheng gong 	聖功	c=0 d=1.16885e-13 t=30955
+sheng gong hou 	聖功後	c=1 d=1.17471e-12 t=30955
+sheng huo 	生活	c=5 d=5.88841e-12 t=30955
+sheng ji 	升級	c=5 d=5.14536e-07 t=30955
+sheng jing 	聖經	c=1 d=1.11184e-12 t=30955
+sheng lu 	生路	c=1 d=4.98633e-20 t=30955
+sheng lve 	省略	c=2 d=0.00155429 t=30955
+sheng ming 	生命	c=1 d=5.54987e-15 t=30955
+sheng ming 	聲明	c=14 d=0.00552026 t=30955
+sheng nei 	省內	c=2 d=3.12175e-27 t=30955
+sheng ri 	生日	c=2 d=3.25226e-14 t=30955
+sheng xia 	剩下	c=1 d=1.68839e-15 t=30955
+sheng xiao 	生效	c=1 d=6.72743e-14 t=30955
+sheng yu 	剩餘	c=21 d=8.27522e-09 t=30955
+shi 	事	c=4 d=2.26295e-12 t=30955
+shi 	使	c=4 d=3.77368e-12 t=30955
+shi 	士	c=1 d=8.9413e-08 t=30955
+shi 	始	c=14 d=0.522046 t=30955
+shi 	室	c=2 d=3.97896e-12 t=30955
+shi 	市	c=6 d=1.11472e-13 t=30955
+shi 	師	c=2 d=1.11742e-12 t=30955
+shi 	式	c=2 d=5.07133e-13 t=30955
+shi 	是	c=157 d=0.875564 t=30955
+shi 	時	c=152 d=0.624068 t=30955
+shi 	試	c=1 d=4.05093e-17 t=30955
+shi a 	是啊	c=1 d=0.000198445 t=30955
+shi an 	是按	c=2 d=0.000197455 t=30955
+shi ba 	是吧	c=5 d=2.30865e-12 t=30955
+shi ba 	是把	c=1 d=8.53159e-15 t=30955
+shi bai 	失敗	c=35 d=0.00404655 t=30955
+shi bie 	識別	c=2 d=2.13153e-14 t=30955
+shi bu shi 	是不是	c=6 d=2.99603e-12 t=30955
+shi chang 	市場	c=1 d=1.77465e-13 t=30955
+shi chang 	時長	c=2 d=6.17606e-08 t=30955
+shi cong 	是從	c=2 d=5.22667e-15 t=30955
+shi dai 	時代	c=5 d=3.11974 t=30955
+shi de 	是的	c=14 d=4.00248e-12 t=30955
+shi dian 	十點	c=1 d=2.11003e-20 t=30955
+shi er 	十二	c=2 d=1.16021e-13 t=30955
+shi fan zhen 	石帆鎮	c=1 d=3.45915e-12 t=30955
+shi fen miao 	是分秒	c=3 d=1.82389e-12 t=30955
+shi fou 	是否	c=108 d=0.0673517 t=30955
+shi fou cun zai 	是否存在	c=1 d=7.47094e-12 t=30955
+shi fou da yin 	是否打印	c=1 d=0.232236 t=30955
+shi fou gong zuo 	是否工作	c=1 d=5.00878e-14 t=30955
+shi fou you xiao 	是否有效	c=1 d=5.06082e-18 t=30955
+shi fou yu 	是否與	c=1 d=0.412714 t=30955
+shi fu 	師傅	c=1 d=7.18289e-20 t=30955
+shi ge 	是個	c=1 d=1.7365e-22 t=30955
+shi gen 	是跟	c=1 d=9.98607e-14 t=30955
+shi guang 	時光	c=3 d=4.06349e-12 t=30955
+shi he 	適合	c=2 d=8.2954e-08 t=30955
+shi hou 	時候	c=20 d=0.00894857 t=30955
+shi ji 	實際	c=3 d=1.1808e-14 t=30955
+shi ji nian 	十幾年	c=1 d=0.00719046 t=30955
+shi jian 	事件	c=38 d=8.90909e-06 t=30955
+shi jian 	實踐	c=1 d=1.03168e-14 t=30955
+shi jian 	時間	c=59 d=6.16296e-08 t=30955
+shi jian chuo 	時間戳	c=2 d=6.9972e-06 t=30955
+shi jie 	世界	c=12 d=4.77151e-12 t=30955
+shi jin zhi 	十進制	c=1 d=8.76874e-14 t=30955
+shi jiu 	十九	c=0 d=6.08411e-09 t=30955
+shi jiu da 	十九大	c=1 d=6.11461e-08 t=30955
+shi ke yi 	是可以	c=1 d=6.05686e-14 t=30955
+shi kong de 	是空的	c=0 d=1.213e-08 t=30955
+shi kong de ba 	是空的吧	c=1 d=1.21908e-07 t=30955
+shi li 	實例	c=2 d=2.76265e-14 t=30955
+shi ma 	是嗎	c=1 d=7.32801e-20 t=30955
+shi ni 	使你	c=2 d=1.11742e-12 t=30955
+shi nian 	十年	c=1 d=1.70507e-13 t=30955
+shi pin 	視頻	c=2 d=2.74887e-14 t=30955
+shi qing 	事情	c=2 d=4.28195e-13 t=30955
+shi qu 	失去	c=1 d=2.50622e-15 t=30955
+shi qu 	時區	c=33 d=3.30395e-11 t=30955
+shi shen me 	是什麼	c=8 d=9.71945e-07 t=30955
+shi shi 	實時	c=3 d=6.34861e-07 t=30955
+shi shi 	試試	c=1 d=2.51707e-07 t=30955
+shi shi ku cun 	實時庫存	c=1 d=1.79188e-09 t=30955
+shi shi kuai zhao 	實時快照	c=1 d=2.94618e-06 t=30955
+shi suan 	試算	c=256 d=0.0017669 t=30955
+shi sui 	十歲	c=0 d=0.000704808 t=30955
+shi ti 	實體	c=4 d=1.2667e-13 t=30955
+shi ti lei 	實體類	c=73 d=0.0122153 t=30955
+shi tu 	視圖	c=12 d=2.44566e-12 t=30955
+shi tu 	試圖	c=1 d=2.49975e-14 t=30955
+shi tu jie xi qi 	視圖解析器	c=2 d=7.43979e-14 t=30955
+shi tu lei 	視圖類	c=3 d=5.54894e-13 t=30955
+shi wo 	是我	c=2 d=1.24434e-13 t=30955
+shi wo men 	是我們	c=1 d=5.98111e-13 t=30955
+shi wu 	事務	c=36 d=1.53419e-11 t=30955
+shi wu 	事物	c=1 d=1.14867e-13 t=30955
+shi xian 	實現	c=45 d=0.621099 t=30955
+shi xian lei 	實現類	c=1 d=2.43928e-20 t=30955
+shi xiao 	失效	c=1 d=1.21655e-12 t=30955
+shi xiao fei 	石曉飛	c=10 d=1.02713e-11 t=30955
+shi xing 	實行	c=1 d=3.90827e-07 t=30955
+shi ya 	是呀	c=1 d=1.08739e-15 t=30955
+shi yan 	實驗	c=1 d=3.12996e-12 t=30955
+shi yan shi 	實驗室	c=1 d=1.7558e-05 t=30955
+shi yang 	式樣	c=1 d=8.7111e-13 t=30955
+shi yang shu 	式樣書	c=5 d=4.74877e-12 t=30955
+shi yao 	是要	c=3 d=7.18335e-13 t=30955
+shi yi 	是一	c=0 d=1.09001e-15 t=30955
+shi yi 	詩意	c=0 d=5.18719e-15 t=30955
+shi yi 	釋義	c=1 d=5.71891e-15 t=30955
+shi yi ge 	是一個	c=1 d=1.09548e-14 t=30955
+shi yi hua kai 	詩意花開	c=1 d=5.21317e-14 t=30955
+shi yi yang 	是一樣	c=1 d=2.47488e-14 t=30955
+shi ying 	適應	c=1 d=1.42764e-12 t=30955
+shi yong 	使用	c=131 d=0.995012 t=30955
+shi yong 	是用	c=1 d=2.01615e-14 t=30955
+shi yong 	試用	c=1 d=7.69716e-10 t=30955
+shi yong 	適用	c=3 d=1.27176e-28 t=30955
+shi zai 	實在	c=1 d=1.31787e-12 t=30955
+shi zai 	是在	c=2 d=1.36482e-12 t=30955
+shi zhan 	實戰	c=3 d=2.68435e-12 t=30955
+shi zhe yang 	是這樣	c=5 d=1.32681e-12 t=30955
+shi zhi 	是指	c=2 d=5.08449e-14 t=30955
+shi zi ji 	時自己	c=1 d=1.03774e-24 t=30955
+shou 	售	c=1 d=2.28538e-18 t=30955
+shou 	收	c=9 d=1.5152e-07 t=30955
+shou ce 	手冊	c=9 d=3.08991e-11 t=30955
+shou dan fang 	收單方	c=6 d=0.0539337 t=30955
+shou dao 	收到	c=6 d=1.01546e-05 t=30955
+shou dao le ma 	收到了嗎	c=1 d=4.28957e-14 t=30955
+shou dao mei 	收到沒	c=1 d=0.000102055 t=30955
+shou de dao 	收得到	c=1 d=1.30814e-13 t=30955
+shou dong 	手動	c=10 d=0.00182716 t=30955
+shou fa 	手法	c=0 d=5.70415e-15 t=30955
+shou fa 	收發	c=3 d=2.97562e-12 t=30955
+shou fa dian bao 	手法電報	c=1 d=5.73274e-14 t=30955
+shou fa huo 	收發貨	c=3 d=0.00027567 t=30955
+shou fu kuan 	首付款	c=1 d=2.8853e-25 t=30955
+shou gan 	手感	c=1 d=7.73574e-10 t=30955
+shou hou 	售後	c=1 d=6.30083e-08 t=30955
+shou huo 	收貨	c=9 d=0.474739 t=30955
+shou huo fang 	收貨方	c=12 d=0.414233 t=30955
+shou huo ren 	收貨人	c=8 d=0.00162866 t=30955
+shou ji 	手機	c=7 d=3.3656e-13 t=30955
+shou ji hao 	手機號	c=2 d=1.0137e-13 t=30955
+shou ji ka 	手機卡	c=2 d=1.14571e-12 t=30955
+shou jia 	售價	c=9 d=7.3951e-13 t=30955
+shou kuan 	收款	c=11 d=0.00544757 t=30955
+shou kuan fang 	收款方	c=7 d=0.182621 t=30955
+shou kuan xin xi 	收款信息	c=1 d=0.0547488 t=30955
+shou le 	受了	c=0 d=1.87047e-15 t=30955
+shou ni 	收你	c=1 d=4.54307e-13 t=30955
+shou qu 	收取	c=5 d=1.91495e-12 t=30955
+shou quan 	授權	c=7 d=4.94696e-06 t=30955
+shou shu 	手術	c=1 d=3.10684e-13 t=30955
+shou xu 	手續	c=0 d=1.4859e-13 t=30955
+shou xu hao 	手續號	c=1 d=1.49335e-12 t=30955
+shou ye 	首頁	c=2 d=3.83966e-14 t=30955
+shou yu 	授予	c=1 d=6.41588e-15 t=30955
+shou zhong 	手中	c=1 d=2.07756e-14 t=30955
+shou zhua bing 	手抓餅	c=1 d=1.53037e-06 t=30955
+shou zhua bing 	收抓兵	c=1 d=1.52274e-06 t=30955
+shou zi mu 	首字母	c=3 d=1.50836e-12 t=30955
+shu 	屬	c=1 d=9.98607e-14 t=30955
+shu 	數	c=14 d=0.00284388 t=30955
+shu 	書	c=7 d=6.44565e-09 t=30955
+shu 	樹	c=53 d=0.00279484 t=30955
+shu 	輸	c=1 d=1.43133e-13 t=30955
+shu ban 	書伴	c=1 d=1.05288e-18 t=30955
+shu biao 	鼠標	c=1 d=2.79763e-06 t=30955
+shu biao zhi zhen 	鼠標指針	c=1 d=6.72284e-06 t=30955
+shu chu 	輸出	c=21 d=0.494951 t=30955
+shu fu 	舒服	c=1 d=7.54474e-10 t=30955
+shu ju 	數據	c=160 d=0.757032 t=30955
+shu ju bian hua 	數據變化	c=1 d=3.40648e-08 t=30955
+shu ju biao 	數據表	c=24 d=0.00479587 t=30955
+shu ju gong si hao 	數據公司號	c=1 d=7.30535e-13 t=30955
+shu ju jie gou 	數據結構	c=3 d=7.15485e-13 t=30955
+shu ju ku 	數據庫	c=72 d=0.00235637 t=30955
+shu ju lei xing 	數據類型	c=2 d=1.99974e-14 t=30955
+shu ju mo xing 	數據模型	c=1 d=1.84677e-11 t=30955
+shu ju yuan 	數據源	c=1 d=1.33203e-20 t=30955
+shu lian 	熟練	c=0 d=1.57805e-15 t=30955
+shu liang 	數量	c=126 d=1.77415 t=30955
+shu liang shu 	數量樹	c=1 d=2.3473e-09 t=30955
+shu mei 	樹莓	c=1 d=2.05653e-12 t=30955
+shu mei pai 	樹莓派	c=4 d=6.60565e-05 t=30955
+shu mu 	樹木	c=1 d=6.51173e-13 t=30955
+shu qian 	書籤	c=9 d=1.62558 t=30955
+shu ru 	輸入	c=35 d=1.23076 t=30955
+shu ru fa 	輸入法	c=2 d=2.96622e-12 t=30955
+shu ru kuang 	輸入框	c=13 d=2.01057e-12 t=30955
+shu tu pian 	樹圖片	c=1 d=2.24982e-10 t=30955
+shu xing 	屬性	c=16 d=4.0145e-12 t=30955
+shu xue 	數學	c=4 d=0.384812 t=30955
+shu yu 	屬於	c=4 d=0.00458484 t=30955
+shu zhuang 	樹狀	c=1 d=1.85602e-11 t=30955
+shu zi 	數字	c=28 d=0.00022941 t=30955
+shu zi hua 	數字化	c=3 d=0.000696401 t=30955
+shu zu 	數組	c=22 d=1.06677e-10 t=30955
+shu zu wei ba 	數組尾巴	c=1 d=1.70919e-12 t=30955
+shua 	刷	c=1 d=6.18994e-05 t=30955
+shua ji 	刷機	c=1 d=6.06737e-05 t=30955
+shua xin 	刷新	c=36 d=4.23382e-07 t=30955
+shuai shuai 	甩甩	c=1 d=2.09736e-08 t=30955
+shuan zhi 	栓值	c=1 d=8.53016e-13 t=30955
+shuang ji 	雙擊	c=1 d=8.57435e-15 t=30955
+shuang pin 	雙拼	c=1 d=4.54387e-15 t=30955
+shui 	稅	c=3 d=1.42052e-12 t=30955
+shui 	誰	c=1 d=0.000927901 t=30955
+shui ba 	誰把	c=1 d=1.72133e-07 t=30955
+shui bei 	水杯	c=1 d=7.85532e-14 t=30955
+shui e 	稅額	c=1 d=1.42149e-20 t=30955
+shui hou 	稅後	c=1 d=8.57292e-13 t=30955
+shui lv 	稅率	c=8 d=1.47849e-12 t=30955
+shui ping 	水平	c=1 d=6.11879e-16 t=30955
+shui zhong 	稅種	c=1 d=1.43479e-12 t=30955
+shui zuo de 	誰做的	c=1 d=0.00932553 t=30955
+shun bian 	順便	c=1 d=1.57778e-12 t=30955
+shun xu 	順序	c=6 d=7.77724e-13 t=30955
+shuo 	說	c=6 d=6.63989e-07 t=30955
+shuo bu ding 	說不定	c=1 d=6.04122e-13 t=30955
+shuo de 	說的	c=0 d=1.20757e-14 t=30955
+shuo de dui 	說的對	c=1 d=1.21362e-13 t=30955
+shuo guo 	說過	c=2 d=5.30206e-07 t=30955
+shuo le 	說了	c=2 d=3.09134e-13 t=30955
+shuo ming 	說明	c=15 d=0.000107904 t=30955
+shuo ne 	說呢	c=0 d=1.31787e-13 t=30955
+shuo qi 	說起	c=1 d=1.01878e-13 t=30955
+shuo qi lai 	說起來	c=1 d=3.91093e-15 t=30955
+si 	四	c=3 d=4.14135e-12 t=30955
+si 	寺	c=0 d=8.25808e-15 t=30955
+si 	思	c=1 d=1.57778e-12 t=30955
+si 	斯	c=0 d=5.39886e-15 t=30955
+si 	死	c=1 d=8.80818e-08 t=30955
+si chong zou 	四重奏	c=1 d=5.84754e-12 t=30955
+si ge 	四個	c=2 d=3.42067e-12 t=30955
+si ge ren 	四個人	c=1 d=8.09594e-16 t=30955
+si ji 	司機	c=1 d=5.71794e-13 t=30955
+si kai qi 	斯凱奇	c=1 d=4.17004e-05 t=30955
+si kao 	思考	c=1 d=3.89077e-13 t=30955
+si qian 	四千	c=1 d=9.03733e-16 t=30955
+si she wu ru 	四捨五入	c=3 d=5.60469e-13 t=30955
+si tian 	四天	c=1 d=1.41709e-13 t=30955
+si xiang 	思想	c=2 d=1.14835e-12 t=30955
+si you 	私有	c=1 d=5.98619e-23 t=30955
+si yuan 	思源	c=1 d=8.4991e-28 t=30955
+si yuan hei ti 	思源黑體	c=1 d=3.14994e-28 t=30955
+song 	松	c=1 d=1.56991e-12 t=30955
+song du 	誦讀	c=1 d=1.35147e-14 t=30955
+song gang 	松岡	c=5 d=7.83525e-12 t=30955
+song song 	鬆鬆	c=1 d=4.36495e-13 t=30955
+song xia 	松下	c=11 d=0.000416464 t=30955
+sou 	搜	c=2 d=3.70996e-12 t=30955
+sou gou 	搜狗	c=2 d=5.21582e-12 t=30955
+sou ji 	蒐集	c=1 d=2.57544e-12 t=30955
+sou suo 	搜索	c=21 d=4.41034e-08 t=30955
+sou suo kuang 	搜索框	c=2 d=8.59507e-14 t=30955
+sou suo lan 	搜索欄	c=2 d=5.30478e-13 t=30955
+su du 	速度	c=5 d=2.89483e-05 t=30955
+su lv 	速率	c=1 d=0.227638 t=30955
+su yuan 	溯源	c=1 d=1.03418e-13 t=30955
+suan 	算	c=3 d=1.73414e-06 t=30955
+suan chu 	算出	c=2 d=0.00014018 t=30955
+suan fa 	算法	c=7 d=8.60714e-12 t=30955
+suan fa yi zhi xing 	算法一致性	c=1 d=2.88932e-12 t=30955
+suan suan 	酸酸	c=1 d=0.913931 t=30955
+sui bian 	隨便	c=1 d=5.08449e-14 t=30955
+sui ji 	隨機	c=4 d=0.00497015 t=30955
+sui pian 	碎片	c=3 d=2.06993e-12 t=30955
+sui ran 	雖然	c=1 d=9.42888e-15 t=30955
+sui shi 	隨時	c=2 d=3.55408e-07 t=30955
+sui xin suo yu 	隨心所欲	c=1 d=1.84263e-14 t=30955
+sui yi 	隨意	c=2 d=0.00244185 t=30955
+sui zhe 	隨着	c=1 d=1.73084e-13 t=30955
+sun 	孫	c=1 d=5.89207e-13 t=30955
+sun shi 	損失	c=1 d=0.0475963 t=30955
+sun zi jie dian 	孫子節點	c=1 d=1.1816e-22 t=30955
+suo 	所	c=2 d=9.2359e-10 t=30955
+suo 	鎖	c=3 d=0.00442715 t=30955
+suo jin 	縮進	c=1 d=3.50474e-19 t=30955
+suo jing 	縮頸	c=0 d=9.07797e-11 t=30955
+suo jing li 	縮頸裏	c=1 d=9.12348e-10 t=30955
+suo neng 	所能	c=2 d=2.28176e-13 t=30955
+suo ping 	鎖屏	c=1 d=4.14135e-12 t=30955
+suo qi 	所起	c=1 d=1.0137e-13 t=30955
+suo shu 	所屬	c=4 d=0.000662162 t=30955
+suo shu gong si 	所屬公司	c=5 d=3.11433e-13 t=30955
+suo xing 	索性	c=1 d=2.37784e-14 t=30955
+suo xu 	所需	c=2 d=9.7195e-13 t=30955
+suo xu yao 	所需要	c=1 d=1.76125e-12 t=30955
+suo xuan 	所選	c=1 d=1.05379e-12 t=30955
+suo xuan ze 	所選則	c=1 d=3.88072e-12 t=30955
+suo xue 	所學	c=1 d=4.58876e-13 t=30955
+suo yi 	所以	c=11 d=1.13211e-09 t=30955
+suo yin 	索引	c=18 d=0.36175 t=30955
+suo you 	所有	c=105 d=0.334149 t=30955
+suo zai 	所在	c=3 d=0.000675539 t=30955
+ta 	它	c=2 d=4.82155e-07 t=30955
+ta de 	它的	c=1 d=4.97094e-13 t=30955
+ta le 	踏了	c=1 d=3.75758e-15 t=30955
+ta men 	他們	c=5 d=5.07159e-13 t=30955
+ta men 	它們	c=1 d=3.18549e-13 t=30955
+ta ren 	他人	c=1 d=2.14046e-12 t=30955
+ta shi 	它是	c=1 d=2.94058e-13 t=30955
+ta ye 	它也	c=1 d=2.38359e-13 t=30955
+tai 	台	c=2 d=2.7347e-12 t=30955
+tai 	太	c=1 d=1.23578e-20 t=30955
+tai 	態	c=2 d=1.3845e-05 t=30955
+tai cha 	太差	c=0 d=9.70776e-06 t=30955
+tai chang 	太長	c=1 d=5.96669e-14 t=30955
+tai tou 	擡頭	c=0 d=3.2092e-13 t=30955
+tai tou xian shi 	擡頭顯示	c=1 d=3.22528e-12 t=30955
+tai yuan 	太遠	c=1 d=1.80147e-13 t=30955
+tan 	彈	c=1 d=4.92314e-17 t=30955
+tan 	談	c=2 d=0.000904576 t=30955
+tan 	貪	c=1 d=2.13566e-15 t=30955
+tan chu 	彈出	c=9 d=1.11722e-08 t=30955
+tan chu ceng 	彈出層	c=1 d=1.29848e-14 t=30955
+tan chuang 	彈窗	c=116 d=1.10841e-05 t=30955
+tan tan 	探探	c=1 d=1.63821e-13 t=30955
+tan xian 	探險	c=1 d=6.28884e-15 t=30955
+tang 	唐	c=1 d=5.93894e-18 t=30955
+tang 	趟	c=1 d=2.14637e-15 t=30955
+tang na de 	唐納德	c=1 d=5.48046e-14 t=30955
+tao 	套	c=7 d=1.61772e-12 t=30955
+tao 	桃	c=0 d=1.38639e-21 t=30955
+tao bao 	淘寶	c=5 d=4.2756e-05 t=30955
+tao can 	套餐	c=4 d=0.000111666 t=30955
+tao lun 	討論	c=1 d=1.19246e-12 t=30955
+tao yan 	討厭	c=1 d=1.10935e-15 t=30955
+te bie 	特別	c=4 d=1.67742e-12 t=30955
+te ding 	特定	c=2 d=1.02636e-12 t=30955
+te jia 	特價	c=1 d=4.36495e-13 t=30955
+te shu 	特殊	c=4 d=2.09846e-12 t=30955
+te zheng 	特徵	c=4 d=0.381096 t=30955
+te zheng zhi 	特徵值	c=1 d=0.0113334 t=30955
+teng xun 	騰訊	c=3 d=0.771183 t=30955
+ti 	題	c=1 d=7.91379e-13 t=30955
+ti 	體	c=5 d=2.81258e-05 t=30955
+ti chu 	提出	c=6 d=1.85155e-12 t=30955
+ti dao 	提到	c=2 d=3.68604e-12 t=30955
+ti du 	梯度	c=16 d=1.71219 t=30955
+ti du xia jiang 	梯度下降	c=1 d=0.225373 t=30955
+ti gao 	提高	c=2 d=2.97114e-17 t=30955
+ti gong 	提供	c=16 d=8.73812e-11 t=30955
+ti huan 	替換	c=18 d=1.45569e-12 t=30955
+ti ji 	題記	c=1 d=9.88669e-14 t=30955
+ti ji 	體積	c=1 d=2.01095e-13 t=30955
+ti jiao 	提交	c=50 d=0.406549 t=30955
+ti jiao hou 	提交後	c=1 d=4.7285e-13 t=30955
+ti qian 	提前	c=1 d=3.01502e-13 t=30955
+ti qu 	提取	c=15 d=5.32605e-13 t=30955
+ti sheng 	提升	c=1 d=2.08797e-14 t=30955
+ti shi 	提示	c=36 d=5.57471e-12 t=30955
+ti shi chuang 	提示窗	c=2 d=1.11791e-12 t=30955
+ti shi ni 	提示你	c=1 d=5.71794e-13 t=30955
+ti shi xiao xi 	提示消息	c=1 d=2.00576e-12 t=30955
+ti xi 	體系	c=2 d=3.30524e-06 t=30955
+ti xi hua 	體系化	c=1 d=4.04955e-13 t=30955
+ti xing 	提醒	c=3 d=0.00027603 t=30955
+ti yun 	提運	c=2 d=9.26804e-19 t=30955
+ti yun dan 	提運單	c=9 d=6.20623e-19 t=30955
+ti yun dang 	提運當	c=1 d=9.31411e-18 t=30955
+tian 	填	c=4 d=3.78498e-12 t=30955
+tian 	天	c=6 d=1.40291e-13 t=30955
+tian 	田	c=1 d=4.10796e-05 t=30955
+tian chong 	填充	c=1 d=8.15479e-13 t=30955
+tian fu 	天賦	c=1 d=2.29012e-13 t=30955
+tian guo 	填過	c=1 d=1.69012e-27 t=30955
+tian jia 	添加	c=202 d=3.13131 t=30955
+tian jia hang 	添加行	c=1 d=1.40662e-14 t=30955
+tian ma 	天馬	c=0 d=2.3481e-14 t=30955
+tian ma ying 	天馬營	c=1 d=2.35987e-13 t=30955
+tian mao 	天貓	c=5 d=0.438415 t=30955
+tian na 	天哪	c=1 d=8.78992e-13 t=30955
+tian ru 	填入	c=4 d=2.68055e-12 t=30955
+tian xie 	填寫	c=10 d=0.0066555 t=30955
+tian zhi 	天職	c=1 d=6.07149e-13 t=30955
+tiao 	條	c=11 d=3.79787e-12 t=30955
+tiao 	調	c=1 d=9.91906e-23 t=30955
+tiao chu 	跳出	c=1 d=1.05507e-13 t=30955
+tiao guo 	跳過	c=1 d=1.62556e-10 t=30955
+tiao jian 	條件	c=84 d=0.000996883 t=30955
+tiao kuan 	條款	c=10 d=1.40638e-13 t=30955
+tiao ru 	跳入	c=2 d=2.7347e-12 t=30955
+tiao shi 	調試	c=7 d=0.00031445 t=30955
+tiao shi yi xia 	調試一下	c=1 d=7.64158e-13 t=30955
+tiao shu 	條數	c=2 d=2.42436e-23 t=30955
+tiao xuan chu 	挑選出	c=1 d=2.35698e-28 t=30955
+tiao zhan 	挑戰	c=1 d=2.51186e-12 t=30955
+tiao zheng 	調整	c=43 d=5.13111e-08 t=30955
+tiao zhuan 	跳轉	c=8 d=3.83094e-12 t=30955
+tiao zhuan dao 	跳轉到	c=1 d=3.37546e-18 t=30955
+ting 	挺	c=1 d=3.92039e-14 t=30955
+ting 	聽	c=2 d=1.05507e-13 t=30955
+ting bu dao 	聽不到	c=1 d=1.8287e-13 t=30955
+ting hao 	挺好	c=0 d=0.000588705 t=30955
+ting hao de 	挺好的	c=1 d=0.00591656 t=30955
+ting hao yong 	挺好用	c=1 d=1.05106e-27 t=30955
+ting yong 	停用	c=1 d=2.11477e-17 t=30955
+ting zhi 	停止	c=6 d=1.55081e-15 t=30955
+tong 	同	c=6 d=0.00460782 t=30955
+tong 	童	c=1 d=2.35987e-13 t=30955
+tong 	通	c=1 d=2.95331e-05 t=30955
+tong bu 	同步	c=25 d=0.000131986 t=30955
+tong bu guo ji hua 	同步國際化	c=1 d=2.31196e-07 t=30955
+tong bu le 	同步了	c=1 d=1.73863e-07 t=30955
+tong chang 	通常	c=1 d=2.49933e-12 t=30955
+tong guan 	通關	c=17 d=0.00379148 t=30955
+tong guo 	通過	c=23 d=1.11079e-05 t=30955
+tong ji 	統計	c=4 d=2.01497e-11 t=30955
+tong lu 	通路	c=15 d=6.48684e-12 t=30955
+tong ming 	同名	c=4 d=3.57145e-12 t=30955
+tong shi 	同事	c=4 d=2.15119e-12 t=30955
+tong shi 	同時	c=3 d=3.60031e-12 t=30955
+tong wang 	通往	c=1 d=6.28778e-13 t=30955
+tong wen 	同文	c=1 d=3.45139e-15 t=30955
+tong xin 	通信	c=2 d=3.4451e-13 t=30955
+tong xing zheng 	通行證	c=2 d=2.20342e-07 t=30955
+tong xun 	通訊	c=2 d=1.31238e-12 t=30955
+tong xun lu 	通訊錄	c=2 d=2.12033e-27 t=30955
+tong yi 	同一	c=0 d=1.47287e-27 t=30955
+tong yi 	同意	c=1 d=8.63816e-14 t=30955
+tong yi ge 	同一個	c=7 d=9.68585e-11 t=30955
+tong yi hang 	同一行	c=1 d=1.48025e-26 t=30955
+tong yong 	通用	c=21 d=2.16232e-12 t=30955
+tong zhi 	通知	c=4 d=6.87523e-05 t=30955
+tou 	頭	c=15 d=2.20125e-05 t=30955
+tou bao 	頭孢	c=1 d=1.33112e-12 t=30955
+tou biao 	頭表	c=10 d=1.01503e-11 t=30955
+tou bu 	頭部	c=8 d=0.0081218 t=30955
+tou xiang 	頭像	c=2 d=0.000903395 t=30955
+tou xin xi 	頭信息	c=7 d=1.09265e-13 t=30955
+tou zi 	投資	c=1 d=0.00670434 t=30955
+tu 	圖	c=9 d=0.0985112 t=30955
+tu 	途	c=3 d=4.53713e-13 t=30955
+tu biao 	圖標	c=2 d=2.76467e-12 t=30955
+tu jing 	途徑	c=1 d=0.000515692 t=30955
+tu long 	屠龍	c=3 d=2.45221e-13 t=30955
+tu long ba 	屠龍吧	c=1 d=7.27016e-15 t=30955
+tu mu gong cheng 	土木工程	c=1 d=4.47622e-15 t=30955
+tu pian 	圖片	c=12 d=1.0462 t=30955
+tu ran 	突然	c=1 d=1.69657e-13 t=30955
+tu xing 	圖形	c=4 d=3.08364e-12 t=30955
+tuan 	團	c=0 d=1.50836e-13 t=30955
+tuan ai 	團愛	c=1 d=2.38359e-13 t=30955
+tuan dui 	團隊	c=2 d=1.02654e-14 t=30955
+tui 	推	c=13 d=0.562705 t=30955
+tui 	腿	c=1 d=1.36882e-17 t=30955
+tui chu 	退出	c=6 d=3.98994e-15 t=30955
+tui dao 	推到	c=4 d=3.46081e-12 t=30955
+tui fan 	推翻	c=1 d=2.11405e-13 t=30955
+tui hui 	退回	c=1 d=8.13512e-14 t=30955
+tui jian 	推薦	c=1 d=2.25059e-14 t=30955
+tui jin 	推進	c=9 d=1.37702e-11 t=30955
+tui shang qu 	推上去	c=6 d=2.62566e-06 t=30955
+tui song 	推送	c=2 d=2.60806e-13 t=30955
+tuo feng 	駝峯	c=6 d=5.1592e-12 t=30955
+tuo shui 	脫水	c=1 d=6.17501e-06 t=30955
+tuo ying er chu 	脫穎而出	c=1 d=8.78992e-13 t=30955
+tuo zhan 	拓展	c=2 d=6.44256e-05 t=30955
+wa 	挖	c=1 d=3.19373e-14 t=30955
+wa gong 	瓦工	c=0 d=1.83849e-18 t=30955
+wa kuang 	挖礦	c=1 d=7.85531e-14 t=30955
+wai 	外	c=2 d=4.29995e-13 t=30955
+wai bi 	外幣	c=1 d=2.95985e-31 t=30955
+wai er 	外耳	c=0 d=1.20154e-14 t=30955
+wai er yan 	外耳炎	c=2 d=2.49623e-13 t=30955
+wai guan 	外觀	c=1 d=4.07123e-17 t=30955
+wai lian 	外鏈	c=2 d=4.95888e-12 t=30955
+wai wang 	外網	c=1 d=8.95043e-20 t=30955
+wai yu 	外語	c=1 d=1.20154e-13 t=30955
+wan 	完	c=4 d=8.13333e-10 t=30955
+wan 	晚	c=1 d=2.86154e-16 t=30955
+wan 	灣	c=1 d=4.36717e-19 t=30955
+wan 	萬	c=1 d=5.35535e-07 t=30955
+wan bi 	完畢	c=3 d=4.98999e-12 t=30955
+wan cheng 	完成	c=24 d=2.59287e-08 t=30955
+wan le 	完了	c=2 d=1.35709e-05 t=30955
+wan quan 	完全	c=2 d=2.38976e-14 t=30955
+wan shan 	完善	c=5 d=1.95339e-12 t=30955
+wan shang 	晚上	c=2 d=9.14242e-05 t=30955
+wan shui 	完稅	c=2 d=2.10943e-09 t=30955
+wan wang 	萬網	c=3 d=1.0848e-11 t=30955
+wan zheng 	完整	c=1 d=4.93672e-20 t=30955
+wang 	望	c=1 d=1.7667e-19 t=30955
+wang 	汪	c=2 d=7.60862e-13 t=30955
+wang 	網	c=2 d=9.70776e-06 t=30955
+wang ji 	忘記	c=1 d=9.73951e-14 t=30955
+wang jian 	汪健	c=1 d=5.97806e-07 t=30955
+wang jian 	王建	c=1 d=3.81373e-13 t=30955
+wang jian 	網件	c=1 d=1.65069e-14 t=30955
+wang ka 	網卡	c=1 d=2.61481e-14 t=30955
+wang le 	忘了	c=1 d=1.85666e-15 t=30955
+wang luo 	網絡	c=13 d=1.38537 t=30955
+wang pan 	網盤	c=1 d=1.3461e-26 t=30955
+wang shi 	往事	c=1 d=4.82481e-15 t=30955
+wang su 	網速	c=1 d=1.28779e-05 t=30955
+wang tai cha 	網太差	c=1 d=9.75642e-05 t=30955
+wang xian 	網線	c=1 d=1.73951e-13 t=30955
+wang ye 	網頁	c=7 d=5.47232e-05 t=30955
+wang yi 	網易	c=10 d=0.00543443 t=30955
+wang yi yun ke tong 	網易雲可通	c=1 d=2.8044e-14 t=30955
+wang zhan 	網站	c=4 d=2.02591e-12 t=30955
+wang zhi 	網址	c=4 d=4.04955e-13 t=30955
+wei 	位	c=21 d=2.25336e-08 t=30955
+wei 	偉	c=2 d=1.40153e-17 t=30955
+wei 	圍	c=1 d=3.68757e-29 t=30955
+wei 	微	c=10 d=4.1917e-07 t=30955
+wei 	未	c=18 d=0.0766623 t=30955
+wei 	爲	c=134 d=0.0419477 t=30955
+wei 	維	c=5 d=1.39192 t=30955
+wei 	韋	c=1 d=7.01532e-07 t=30955
+wei ba 	尾巴	c=5 d=2.10815e-08 t=30955
+wei bo 	微博	c=1 d=0.941765 t=30955
+wei bo 	微波	c=1 d=1.07917e-14 t=30955
+wei da bao 	未打包	c=1 d=1.2577e-21 t=30955
+wei dao huo 	未到貨	c=1 d=5.17378e-13 t=30955
+wei deng lu 	未登錄	c=2 d=3.79259e-12 t=30955
+wei ding yi 	爲定義	c=1 d=7.66659e-22 t=30955
+wei du 	維度	c=5 d=0.812659 t=30955
+wei fa huo 	未發貨	c=1 d=3.92987e-13 t=30955
+wei fu wu 	爲服務	c=3 d=7.1295e-14 t=30955
+wei hu 	維護	c=16 d=0.00554491 t=30955
+wei ji fen 	微積分	c=3 d=0.760065 t=30955
+wei jian ce dao 	未檢測到	c=1 d=0.740818 t=30955
+wei jie shou 	爲接受	c=1 d=3.02077e-06 t=30955
+wei kong 	爲空	c=13 d=0.00530026 t=30955
+wei lai 	未來	c=3 d=4.18368e-14 t=30955
+wei lai jian shi 	未來簡史	c=2 d=3.72248e-14 t=30955
+wei le 	爲了	c=2 d=1.70507e-13 t=30955
+wei lu shi 	威露士	c=1 d=9.07643e-08 t=30955
+wei ming ming 	未命名	c=2 d=0.00213727 t=30955
+wei que ren 	爲確認	c=3 d=0.00292342 t=30955
+wei ruan 	微軟	c=3 d=2.43762e-12 t=30955
+wei shen he 	未審覈	c=1 d=1.12031e-13 t=30955
+wei shen me 	爲什麼	c=7 d=0.00211238 t=30955
+wei sheng chan 	未生產	c=1 d=4.47547e-13 t=30955
+wei shu 	位數	c=4 d=1.08513e-15 t=30955
+wei shu 	維數	c=1 d=0.00210172 t=30955
+wei tong guo 	未通過	c=2 d=2.21633e-05 t=30955
+wei xin 	微信	c=10 d=0.00020662 t=30955
+wei xing 	衛星	c=1 d=9.01244e-13 t=30955
+wei xiu 	維修	c=1 d=6.2694e-08 t=30955
+wei yi 	唯一	c=3 d=2.27282e-12 t=30955
+wei yi 	衛衣	c=1 d=4.21195e-05 t=30955
+wei yi biao shi 	唯一標識	c=2 d=4.24837e-18 t=30955
+wei yi xing 	唯一性	c=4 d=4.99701e-20 t=30955
+wei zhi 	位置	c=10 d=1.15294e-11 t=30955
+wei zhuan ye 	位專業	c=2 d=2.22732e-13 t=30955
+wen 	問	c=4 d=3.01348e-07 t=30955
+wen ben 	文本	c=10 d=8.27241e-05 t=30955
+wen ben yu 	文本域	c=1 d=1.01615e-12 t=30955
+wen da 	問答	c=1 d=1.47136e-14 t=30955
+wen dang 	文檔	c=14 d=5.6236e-12 t=30955
+wen fou shi 	問否是	c=1 d=2.46128e-08 t=30955
+wen gao 	文稿	c=1 d=1.16021e-13 t=30955
+wen hao 	問好	c=1 d=2.03745e-20 t=30955
+wen he 	吻合	c=1 d=4.07054e-15 t=30955
+wen ji 	文集	c=1 d=1.10916e-13 t=30955
+wen jian 	文件	c=311 d=0.328586 t=30955
+wen jian jia 	文件夾	c=14 d=0.0001473 t=30955
+wen jian ming 	文件名	c=8 d=0.000331212 t=30955
+wen jian tou 	文件頭	c=1 d=1.57805e-14 t=30955
+wen ming 	文明	c=3 d=0.604414 t=30955
+wen ti 	問題	c=40 d=0.000169367 t=30955
+wen wen 	問問	c=6 d=8.18754e-13 t=30955
+wen wo 	問我	c=1 d=1.77465e-13 t=30955
+wen yi xia 	問一下	c=2 d=1.11882e-19 t=30955
+wen zhou shi 	溫州市	c=1 d=4.84903e-15 t=30955
+wo 	我	c=95 d=0.0503029 t=30955
+wo 	窩	c=1 d=9.85278e-05 t=30955
+wo bu zhi dao 	我不知道	c=1 d=7.52782e-13 t=30955
+wo cao 	我艹	c=1 d=1.48232e-13 t=30955
+wo de 	我的	c=5 d=0.000124028 t=30955
+wo deng ni 	我等你	c=1 d=9.90387e-05 t=30955
+wo gan jue 	我感覺	c=1 d=1.51984e-13 t=30955
+wo hai 	我還	c=1 d=1.92744e-14 t=30955
+wo hai shi 	我還是	c=1 d=4.9342e-14 t=30955
+wo kan 	我看	c=2 d=7.17923e-14 t=30955
+wo kan kan 	我看看	c=4 d=3.96019e-14 t=30955
+wo kan ni 	我看你	c=1 d=7.07232e-14 t=30955
+wo kan xia 	我看下	c=6 d=1.0921e-07 t=30955
+wo mei 	我沒	c=1 d=6.67295e-14 t=30955
+wo mei ce 	我沒測	c=1 d=3.33211e-13 t=30955
+wo men 	我們	c=21 d=0.00687647 t=30955
+wo ren wei 	我認爲	c=1 d=5.25198e-13 t=30955
+wo shi 	我是	c=2 d=1.4791e-13 t=30955
+wo shi yao 	我是要	c=1 d=3.74788e-14 t=30955
+wo shou 	握手	c=1 d=2.72152e-14 t=30955
+wo shuo 	我說	c=0 d=1.66009e-23 t=30955
+wo shuo de 	我說的	c=1 d=1.66841e-22 t=30955
+wo wen jian 	我文件	c=1 d=4.31109e-14 t=30955
+wo xian 	我先	c=0 d=4.16281e-15 t=30955
+wo xian kan xia 	我先看下	c=1 d=4.18368e-14 t=30955
+wo xian zai 	我現在	c=1 d=7.39788e-14 t=30955
+wo ye 	我也	c=1 d=9.28691e-13 t=30955
+wo zai 	我在	c=1 d=9.51715e-07 t=30955
+wo zhe 	我這	c=1 d=2.0378e-22 t=30955
+wo zhe li 	我這裏	c=1 d=2.37784e-14 t=30955
+wo zhi dao 	我知道	c=1 d=1.49e-15 t=30955
+wu 	無	c=26 d=1.49333e-08 t=30955
+wu 	誤	c=2 d=2.43766e-12 t=30955
+wu bai 	五百	c=0 d=1.41343e-13 t=30955
+wu bai ding 	五百丁	c=1 d=1.42052e-12 t=30955
+wu can shu 	無參數	c=1 d=6.71007e-13 t=30955
+wu cha 	誤差	c=1 d=2.89779e-17 t=30955
+wu en da 	吳恩達	c=2 d=0.000459188 t=30955
+wu fa 	無法	c=14 d=2.41151e-05 t=30955
+wu fa an zhuang 	無法安裝	c=1 d=0.000119165 t=30955
+wu fa lian jie 	無法連接	c=1 d=2.96811e-05 t=30955
+wu fa xia 	無法下	c=1 d=7.00195e-14 t=30955
+wu gen 	無根	c=1 d=0.0023935 t=30955
+wu guan 	無關	c=1 d=0.000685748 t=30955
+wu jie 	誤解	c=1 d=5.93692e-14 t=30955
+wu li 	物理	c=4 d=4.30878e-13 t=30955
+wu liu 	物流	c=83 d=0.421436 t=30955
+wu liu lu jing 	物流路徑	c=3 d=1.47047e-05 t=30955
+wu nai 	無奈	c=1 d=1.87531e-15 t=30955
+wu pi pei 	無匹配	c=2 d=9.14865e-13 t=30955
+wu shan 	巫山	c=1 d=2.41336e-12 t=30955
+wu shu 	無數	c=1 d=3.77642e-15 t=30955
+wu xiao 	無效	c=16 d=3.61836e-12 t=30955
+wu xu 	無需	c=1 d=8.68739e-22 t=30955
+wu yong 	無用	c=2 d=4.95488e-12 t=30955
+wu yu 	無語	c=1 d=3.90017e-12 t=30955
+wu zi 	屋子	c=1 d=8.67704e-08 t=30955
+xi 	吸	c=0 d=2.76265e-15 t=30955
+xi 	嘻	c=1 d=4.30071e-15 t=30955
+xi 	西	c=1 d=8.17451e-12 t=30955
+xi hu qu 	西湖區	c=1 d=2.71164e-30 t=30955
+xi huan 	喜歡	c=0 d=7.73574e-11 t=30955
+xi nan 	西南	c=2 d=8.34675e-14 t=30955
+xi nan lin ye da xue 	西南林業大學	c=1 d=4.7293e-15 t=30955
+xi shou 	吸收	c=1 d=5.61137e-27 t=30955
+xi shu 	係數	c=1 d=1.36361e-31 t=30955
+xi tong 	系統	c=86 d=0.970446 t=30955
+xi tong lan 	系統欄	c=1 d=1.3357e-23 t=30955
+xi tong xin xi 	系統信息	c=3 d=3.04532e-13 t=30955
+xi tong zhong 	系統中	c=1 d=5.49466e-15 t=30955
+xi wang 	希望	c=2 d=1.46378e-12 t=30955
+xi yi ji 	洗衣機	c=1 d=5.95231e-15 t=30955
+xia 	下	c=42 d=0.000290296 t=30955
+xia ban 	下班	c=2 d=8.29945e-14 t=30955
+xia ban hou 	下班後	c=1 d=4.61252e-15 t=30955
+xia bu liao 	下不了	c=1 d=2.00092e-13 t=30955
+xia dan 	下單	c=1 d=4.50645e-06 t=30955
+xia dan fang 	下單方	c=3 d=4.6437e-06 t=30955
+xia hua xian 	下劃線	c=7 d=2.99968e-12 t=30955
+xia jiang 	下降	c=3 d=0.498862 t=30955
+xia la 	下拉	c=1 d=1.45648e-12 t=30955
+xia la kuang 	下拉框	c=49 d=7.96679e-12 t=30955
+xia la tiao 	下拉條	c=1 d=1.26706e-20 t=30955
+xia lai 	下來	c=3 d=2.1353e-13 t=30955
+xia mian 	下面	c=4 d=1.30099e-07 t=30955
+xia pu 	夏普	c=1 d=1.14571e-12 t=30955
+xia wu 	下午	c=3 d=3.17202e-12 t=30955
+xia yi 	下一	c=0 d=6.76115e-15 t=30955
+xia yi bu 	下一步	c=1 d=6.13253e-13 t=30955
+xia yi hang 	下一行	c=1 d=6.79503e-14 t=30955
+xia yue 	下月	c=2 d=2.95752e-14 t=30955
+xia zai 	下載	c=21 d=1.12326e-06 t=30955
+xia zhou 	下週	c=1 d=0.000133688 t=30955
+xian 	先	c=19 d=7.62627e-07 t=30955
+xian 	現	c=2 d=4.17288e-13 t=30955
+xian 	線	c=2 d=0.000887071 t=30955
+xian cheng 	線程	c=1 d=0.00440507 t=30955
+xian dai 	現代	c=1 d=3.32181e-06 t=30955
+xian hou 	先後	c=1 d=2.24013e-18 t=30955
+xian lai 	先來	c=1 d=2.16234e-14 t=30955
+xian shi 	現實	c=1 d=3.98926e-13 t=30955
+xian shi 	顯式	c=1 d=5.63281e-13 t=30955
+xian shi 	顯示	c=81 d=0.435537 t=30955
+xian shi lie 	顯示列	c=11 d=4.13584e-13 t=30955
+xian shi xiang 	顯示項	c=1 d=7.7851e-26 t=30955
+xian shi zhi 	顯示值	c=1 d=1.19864e-14 t=30955
+xian xiang 	現象	c=1 d=2.54367e-13 t=30955
+xian xing 	線性	c=9 d=0.227981 t=30955
+xian xing hui gui 	線性回歸	c=1 d=2.30239e-17 t=30955
+xian you 	現有	c=1 d=1.04205e-14 t=30955
+xian zai 	現在	c=35 d=0.0224475 t=30955
+xian zeng 	嫌憎	c=1 d=4.27036e-20 t=30955
+xian zhi 	限制	c=2 d=4.2019e-12 t=30955
+xiang 	像	c=1 d=5.22579e-13 t=30955
+xiang 	向	c=20 d=0.000220948 t=30955
+xiang 	想	c=3 d=1.84802e-16 t=30955
+xiang 	箱	c=1 d=2.29207e-23 t=30955
+xiang 	響	c=2 d=1.36742e-05 t=30955
+xiang 	項	c=9 d=1.84876e-12 t=30955
+xiang dang yu 	相當於	c=1 d=0.00096827 t=30955
+xiang dao 	想到	c=1 d=1.26976e-13 t=30955
+xiang dao zhe 	想到這	c=1 d=5.63281e-13 t=30955
+xiang deng 	相等	c=1 d=2.59505e-13 t=30955
+xiang dui 	相對	c=5 d=4.15482e-12 t=30955
+xiang fa 	想法	c=1 d=3.18549e-13 t=30955
+xiang gang 	香港	c=4 d=6.1324e-05 t=30955
+xiang guan 	相關	c=31 d=0.0104037 t=30955
+xiang jin 	詳盡	c=1 d=9.05763e-13 t=30955
+xiang lai 	向來	c=1 d=1.91287e-13 t=30955
+xiang liang 	向量	c=6 d=0.625449 t=30955
+xiang mu 	項目	c=55 d=0.00010736 t=30955
+xiang mu hao 	項目號	c=3 d=2.18984e-12 t=30955
+xiang qi lai 	想起來	c=2 d=2.99373e-13 t=30955
+xiang shang 	向上	c=1 d=7.27016e-15 t=30955
+xiang su 	像素	c=0 d=0.0214381 t=30955
+xiang tong 	相同	c=27 d=0.63429 t=30955
+xiang tou 	相投	c=1 d=1.67131e-13 t=30955
+xiang xi 	詳細	c=44 d=9.21116e-12 t=30955
+xiang xia 	向下	c=5 d=5.10819e-09 t=30955
+xiang yao 	想要	c=8 d=0.144424 t=30955
+xiang ying 	相應	c=22 d=0.00146527 t=30955
+xiang ying 	響應	c=7 d=1.48873e-05 t=30955
+xiang ying ma 	相應嗎	c=1 d=6.38279e-13 t=30955
+xiang ying ma 	響應碼	c=2 d=1.31923e-12 t=30955
+xiang ying ti 	響應體	c=2 d=6.85865e-06 t=30955
+xiang zhi chi 	想支持	c=1 d=1.85666e-15 t=30955
+xiao 	小	c=7 d=0.00701363 t=30955
+xiao 	笑	c=1 d=7.08582e-07 t=30955
+xiao 	蕭	c=1 d=0.000153011 t=30955
+xiao bai 	小白	c=1 d=9.03577e-14 t=30955
+xiao chu 	消除	c=1 d=1.63004e-13 t=30955
+xiao dao 	小到	c=1 d=6.36741e-14 t=30955
+xiao du 	消毒	c=2 d=1.84805e-07 t=30955
+xiao du ye 	消毒液	c=1 d=9.12192e-08 t=30955
+xiao fei 	消費	c=1 d=2.22244e-13 t=30955
+xiao fei zhe 	消費者	c=1 d=3.30806e-16 t=30955
+xiao gong ju 	小工具	c=1 d=2.30717e-12 t=30955
+xiao guo 	效果	c=2 d=1.64217e-12 t=30955
+xiao he 	小鶴	c=1 d=4.52121e-15 t=30955
+xiao hong 	小紅	c=0 d=2.66718e-13 t=30955
+xiao hong dian 	小紅點	c=5 d=1.47949e-11 t=30955
+xiao hong shu 	小紅書	c=1 d=2.82528e-13 t=30955
+xiao hui 	銷毀	c=1 d=1.16885e-12 t=30955
+xiao huo ban 	小夥伴	c=1 d=1.65468e-13 t=30955
+xiao jie 	小結	c=6 d=1.3042e-12 t=30955
+xiao jing mo 	蕭井默	c=1 d=2.2282e-14 t=30955
+xiao lang hao 	小狼毫	c=2 d=3.97948e-12 t=30955
+xiao lv 	效率	c=2 d=1.2662e-12 t=30955
+xiao mao 	小貓	c=1 d=6.14421e-06 t=30955
+xiao mi 	小米	c=5 d=8.50523e-08 t=30955
+xiao pin 	小品	c=1 d=2.70749e-12 t=30955
+xiao qu 	校區	c=0 d=8.38286e-15 t=30955
+xiao shi 	小時	c=4 d=7.53432e-12 t=30955
+xiao shi hou 	小時候	c=1 d=1.23813e-13 t=30955
+xiao shi lie 	小時列	c=1 d=3.11435e-12 t=30955
+xiao shou 	銷售	c=73 d=0.312002 t=30955
+xiao shou bi zhong 	銷售幣種	c=1 d=7.76896e-31 t=30955
+xiao shou duan 	銷售段	c=1 d=5.32576e-30 t=30955
+xiao shou e 	銷售額	c=1 d=1.43504e-14 t=30955
+xiao shou zhi jie fei 	銷售直接費	c=1 d=2.67727e-27 t=30955
+xiao shu 	小數	c=8 d=5.84701e-10 t=30955
+xiao shu dian 	小數點	c=7 d=7.01086e-14 t=30955
+xiao shu wei 	小數位	c=2 d=1.48555e-11 t=30955
+xiao si 	笑死	c=1 d=3.24984e-13 t=30955
+xiao wang 	消亡	c=1 d=5.83244e-11 t=30955
+xiao xi 	消息	c=49 d=1.89313e-11 t=30955
+xiao xie 	小寫	c=4 d=2.25621e-12 t=30955
+xiao xin dian 	小心點	c=1 d=3.88072e-12 t=30955
+xiao xue 	小學	c=0 d=5.57673e-14 t=30955
+xiao xue shang 	小學上	c=1 d=5.60469e-13 t=30955
+xiao yu 	小於	c=3 d=2.02103e-13 t=30955
+xiao yuan 	校園	c=1 d=9.10459e-15 t=30955
+xiao zhi 	小值	c=1 d=2.78511e-21 t=30955
+xie 	些	c=1 d=3.80452e-14 t=30955
+xie 	寫	c=26 d=7.8981e-12 t=30955
+xie 	斜	c=1 d=2.44984e-12 t=30955
+xie 	謝	c=9 d=1.17817e-07 t=30955
+xie de 	寫的	c=3 d=1.45222e-07 t=30955
+xie ge 	寫個	c=1 d=3.3471e-07 t=30955
+xie hao 	寫好	c=1 d=1.44921e-12 t=30955
+xie hong 	謝紅	c=1 d=1.16603e-13 t=30955
+xie hui 	寫回	c=1 d=8.81118e-12 t=30955
+xie jin guo 	謝金國	c=17 d=1.20485e-07 t=30955
+xie le 	寫了	c=2 d=4.67905e-07 t=30955
+xie le 	謝了	c=1 d=2.6888e-14 t=30955
+xie le yi ge 	謝了一個	c=1 d=8.85685e-14 t=30955
+xie mao mao 	謝毛毛	c=1 d=4.4539e-15 t=30955
+xie ru 	寫入	c=30 d=0.860708 t=30955
+xie shu ju ku 	寫數據庫	c=1 d=2.79812e-17 t=30955
+xie wen jian 	寫文件	c=1 d=2.29605e-14 t=30955
+xie wen zhang 	寫文章	c=1 d=1.75157e-06 t=30955
+xie xia 	寫下	c=1 d=1.41343e-12 t=30955
+xie xie 	謝謝	c=10 d=4.65976e-05 t=30955
+xie yi 	協議	c=23 d=0.000495606 t=30955
+xie zai 	卸載	c=4 d=2.00958e-05 t=30955
+xie zuo 	寫作	c=1 d=1.20486e-16 t=30955
+xin 	信	c=2 d=1.12865e-12 t=30955
+xin 	新	c=32 d=0.00861393 t=30955
+xin ban ben 	新版本	c=1 d=2.46849e-13 t=30955
+xin de 	新的	c=7 d=1.05593e-10 t=30955
+xin gui 	新規	c=17 d=9.47693e-05 t=30955
+xin gui bian geng 	新規變更	c=1 d=9.14554e-09 t=30955
+xin hang 	新行	c=3 d=6.31927e-13 t=30955
+xin hao 	信號	c=1 d=5.94344e-15 t=30955
+xin hua mian 	新畫面	c=2 d=2.28057e-12 t=30955
+xin ji lu 	新紀錄	c=1 d=8.76723e-12 t=30955
+xin jia po 	新加坡	c=1 d=1.27497e-05 t=30955
+xin jian 	新建	c=19 d=4.25627e-12 t=30955
+xin jie dian 	新節點	c=2 d=1.84603e-10 t=30955
+xin kuan 	新款	c=1 d=7.28524e-10 t=30955
+xin li 	心裏	c=2 d=1.67009e-13 t=30955
+xin li de 	新立德	c=3 d=1.801e-14 t=30955
+xin nian 	新年	c=2 d=6.43496e-12 t=30955
+xin ping zi 	新瓶子	c=2 d=1.42219e-12 t=30955
+xin ren 	新人	c=1 d=2.60806e-13 t=30955
+xin shi jian 	新事件	c=2 d=2.21297e-11 t=30955
+xin shi jie 	新世界	c=2 d=1.16842 t=30955
+xin shui 	心水	c=1 d=3.81437e-15 t=30955
+xin xi 	信息	c=295 d=0.0468809 t=30955
+xin xu 	心虛	c=1 d=1.73951e-13 t=30955
+xin xue 	心血	c=1 d=1.07899e-12 t=30955
+xin ye mian 	新頁面	c=4 d=0.00016178 t=30955
+xin yong 	信用	c=3 d=2.03228e-13 t=30955
+xin yong ka 	信用卡	c=6 d=3.15165e-05 t=30955
+xin zeng 	新增	c=148 d=3.42055 t=30955
+xin zhuang 	新裝	c=1 d=6.09033e-20 t=30955
+xin zi duan 	新字段	c=1 d=3.03271e-23 t=30955
+xing 	型	c=1 d=2.83944e-13 t=30955
+xing 	性	c=11 d=2.52972e-12 t=30955
+xing 	星	c=1 d=2.9038e-12 t=30955
+xing 	行	c=3 d=1.11742e-12 t=30955
+xing bie 	性別	c=5 d=1.58839e-13 t=30955
+xing bu xing 	行不行	c=1 d=2.60132e-12 t=30955
+xing che 	行車	c=1 d=3.09882e-12 t=30955
+xing cheng 	形成	c=1 d=3.75694e-13 t=30955
+xing fu 	幸福	c=0 d=4.89775e-16 t=30955
+xing fu dong lu 	幸福東路	c=1 d=4.9223e-15 t=30955
+xing hao 	型號	c=1 d=2.82528e-13 t=30955
+xing ming 	姓名	c=5 d=2.53098e-13 t=30955
+xing neng 	性能	c=1 d=3.85271e-15 t=30955
+xing ru 	形如	c=5 d=0.715338 t=30955
+xing shi 	形式	c=10 d=6.4864e-11 t=30955
+xing tao 	興桃	c=1 d=8.28226e-19 t=30955
+xing wei 	行爲	c=4 d=6.32079e-16 t=30955
+xing zheng 	行政	c=3 d=8.44835e-13 t=30955
+xing zhi 	性質	c=2 d=0.000549058 t=30955
+xing zhuang 	形狀	c=29 d=1.52303 t=30955
+xiu 	修	c=1 d=6.44804e-16 t=30955
+xiu 	秀	c=3 d=1.73336e-14 t=30955
+xiu fu 	修復	c=73 d=0.965605 t=30955
+xiu gai 	修改	c=367 d=0.00578035 t=30955
+xiu gai biao 	修改表	c=1 d=0.00444934 t=30955
+xiu gai hou 	修改後	c=3 d=4.05691e-12 t=30955
+xiu gai ren 	修改人	c=5 d=3.45915e-12 t=30955
+xiu gai ri qi 	修改日期	c=1 d=4.49787e-13 t=30955
+xiu gai shi 	修改時	c=1 d=3.37374e-12 t=30955
+xiu gai shi jian 	修改時間	c=1 d=1.08983e-12 t=30955
+xiu lian 	修煉	c=1 d=5.87786e-14 t=30955
+xiu xi 	休息	c=1 d=1.12302e-12 t=30955
+xiu xiu 	秀秀	c=1 d=2.88932e-12 t=30955
+xiu yan 	秀沿	c=1 d=8.66053e-15 t=30955
+xiu yi yuan 	修醫院	c=1 d=6.48037e-15 t=30955
+xiu zhen 	修真	c=1 d=6.88109e-15 t=30955
+xu 	需	c=4 d=3.53816e-13 t=30955
+xu hao 	序號	c=2 d=6.80953e-12 t=30955
+xu ke 	許可	c=1 d=4.16707e-26 t=30955
+xu lie 	序列	c=12 d=1.45648e-12 t=30955
+xu lie hua 	序列化	c=8 d=1.07489e-12 t=30955
+xu ni 	虛擬	c=1 d=6.72398e-09 t=30955
+xu ni hao 	虛擬號	c=1 d=6.75769e-08 t=30955
+xu ni ji 	虛擬機	c=2 d=1.6019e-14 t=30955
+xu qian 	續簽	c=1 d=9.67414e-23 t=30955
+xu qiu 	需求	c=2 d=1.79713e-14 t=30955
+xu shi xian 	需實現	c=1 d=2.44984e-12 t=30955
+xu yao 	需要	c=75 d=0.0166754 t=30955
+xuan 	選	c=2 d=3.85205e-13 t=30955
+xuan bu 	宣佈	c=1 d=1.92711e-12 t=30955
+xuan dan 	選單	c=1 d=3.81502e-17 t=30955
+xuan ran 	渲染	c=2 d=7.19659e-13 t=30955
+xuan xiang 	選項	c=2 d=7.08943e-13 t=30955
+xuan ze 	選擇	c=77 d=0.000954579 t=30955
+xuan ze qi 	選擇器	c=1 d=2.03116e-13 t=30955
+xuan ze ti 	選擇題	c=1 d=1.48975e-13 t=30955
+xuan zhong 	選中	c=17 d=0.00147572 t=30955
+xuan zhong hang 	選中行	c=2 d=2.3016e-13 t=30955
+xue 	學	c=3 d=4.10014e-12 t=30955
+xue 	薛	c=1 d=0.56836 t=30955
+xue fei 	學費	c=2 d=9.26451e-14 t=30955
+xue feng 	雪峯	c=0 d=5.19972e-14 t=30955
+xue guo 	學過	c=2 d=1.19555e-13 t=30955
+xue hui 	學會	c=3 d=3.48959e-14 t=30955
+xue lei shi 	血淚史	c=1 d=3.89143e-15 t=30955
+xue sheng 	學生	c=3 d=1.62276e-12 t=30955
+xue wei 	學位	c=2 d=7.5258e-31 t=30955
+xue xi 	學習	c=16 d=1.27751 t=30955
+xue xiao 	學校	c=1 d=4.1938e-13 t=30955
+xue xin wang 	學信網	c=2 d=6.86713e-12 t=30955
+xue yuan 	學院	c=5 d=9.13965e-13 t=30955
+xun 	訓	c=0 d=4.06003e-15 t=30955
+xun 	詢	c=7 d=4.22213e-05 t=30955
+xun 	迅	c=4 d=9.30966e-13 t=30955
+xun bao jia 	詢報價	c=10 d=0.0728029 t=30955
+xun han 	醺酣	c=0 d=4.20107e-05 t=30955
+xun han lei xing 	詢函類型	c=5 d=0.00227666 t=30955
+xun han lei xing 	醺酣類型	c=1 d=0.000422213 t=30955
+xun huan 	循環	c=19 d=0.636239 t=30955
+xun jia 	詢價	c=85 d=0.0159184 t=30955
+xun jia fang 	詢價方	c=3 d=1.06778e-11 t=30955
+xun lei 	迅雷	c=3 d=1.78786e-12 t=30955
+xun lian 	訓練	c=7 d=0.530078 t=30955
+xun long gao shou 	訓龍高手	c=1 d=4.08039e-14 t=30955
+xun wen 	詢問	c=1 d=4.22054e-29 t=30955
+ya 	亞	c=1 d=2.0729e-17 t=30955
+ya 	呀	c=5 d=2.43031e-06 t=30955
+ya 	雅	c=1 d=3.17781e-14 t=30955
+ya hei 	雅黑	c=8 d=1.77357e-11 t=30955
+ya ma 	亞馬	c=1 d=8.07778e-19 t=30955
+ya ma xun 	亞馬遜	c=6 d=0.583338 t=30955
+ya suo 	壓縮	c=2 d=4.77681e-15 t=30955
+yan 	岩	c=1 d=5.11883e-05 t=30955
+yan 	炎	c=1 d=3.87709e-13 t=30955
+yan 	言	c=1 d=3.42472e-12 t=30955
+yan 	豔	c=1 d=3.51142e-12 t=30955
+yan fa bu 	研發部	c=1 d=4.12069e-12 t=30955
+yan jin 	演進	c=1 d=4.92146e-13 t=30955
+yan jiu 	研究	c=1 d=6.57718e-13 t=30955
+yan ma 	掩碼	c=1 d=1.86564e-13 t=30955
+yan se 	顏色	c=6 d=4.10035e-12 t=30955
+yan xi 	沿襲	c=1 d=2.12465e-13 t=30955
+yan zheng 	炎症	c=1 d=3.77578e-13 t=30955
+yan zheng 	驗證	c=23 d=9.56323e-05 t=30955
+yan zheng ma 	驗證碼	c=2 d=0.00015861 t=30955
+yang 	樣	c=1 d=6.47927e-13 t=30955
+yang ben 	樣本	c=11 d=0.968407 t=30955
+yang chang bi duan 	揚長避短	c=1 d=5.46634e-13 t=30955
+yang pu 	楊浦	c=1 d=9.19451e-13 t=30955
+yang pu qu 	楊浦區	c=1 d=6.83257e-20 t=30955
+yang shi 	樣式	c=17 d=6.70019e-12 t=30955
+yang zi 	樣子	c=1 d=1.93243e-15 t=30955
+yao 	要	c=44 d=0.000308729 t=30955
+yao bu 	要不	c=2 d=8.68146e-14 t=30955
+yao cong 	要從	c=1 d=9.98607e-14 t=30955
+yao ding zhi 	要定製	c=1 d=3.45197e-17 t=30955
+yao he 	要和	c=1 d=1.55456e-14 t=30955
+yao jia 	要加	c=1 d=3.50295e-13 t=30955
+yao jiang 	要將	c=1 d=2.09551e-27 t=30955
+yao me 	要麼	c=1 d=1.94326e-13 t=30955
+yao me kao 	要麼靠	c=1 d=1.78355e-13 t=30955
+yao qiu 	要求	c=4 d=2.50241e-13 t=30955
+yao shi 	要是	c=2 d=4.1631e-13 t=30955
+yao shi 	鑰匙	c=2 d=3.43504e-12 t=30955
+yao wang 	要望	c=30 d=4.77816e-06 t=30955
+yao wang cai gou jia 	要望採購價	c=1 d=1.07102e-13 t=30955
+yao wang jia 	要望價	c=66 d=1.59094e-05 t=30955
+yao yao huang huang 	搖搖晃晃	c=1 d=1.71805e-14 t=30955
+yao yao wang 	要要望	c=1 d=1.32791e-13 t=30955
+ye 	也	c=17 d=0.000194994 t=30955
+ye 	液	c=1 d=9.89376e-08 t=30955
+ye 	頁	c=21 d=1.20441e-08 t=30955
+ye bu zhi dao 	也不知道	c=1 d=4.92146e-13 t=30955
+ye cheng 	也稱	c=0 d=0.00357931 t=30955
+ye cheng wei 	也稱爲	c=1 d=0.0359725 t=30955
+ye hui 	也會	c=1 d=2.79764e-15 t=30955
+ye jiu 	也就	c=1 d=6.11774e-14 t=30955
+ye jiu shi 	也就是	c=1 d=1.9613e-13 t=30955
+ye ke yi 	也可以	c=5 d=2.59436e-12 t=30955
+ye mei 	也沒	c=1 d=2.17318e-14 t=30955
+ye mian 	頁面	c=215 d=1.06126 t=30955
+ye mian shang 	頁面上	c=3 d=7.13715e-21 t=30955
+ye shi 	也是	c=5 d=1.67449e-06 t=30955
+ye shu 	頁數	c=1 d=2.03642e-14 t=30955
+ye wu 	業務	c=66 d=2.33536e-05 t=30955
+ye wu biao 	業務表	c=4 d=8.10641e-13 t=30955
+ye wu ming xi 	業務明細	c=2 d=0.000141247 t=30955
+ye ying 	夜鶯	c=1 d=3.20974e-14 t=30955
+yi 	一	c=9 d=0.0110536 t=30955
+yi 	乙	c=2 d=4.34452e-09 t=30955
+yi 	以	c=11 d=5.4626e-05 t=30955
+yi 	已	c=21 d=0.00014018 t=30955
+yi 	怡	c=1 d=8.74759e-15 t=30955
+yi 	易	c=1 d=7.05048e-07 t=30955
+yi 	義	c=2 d=5.17509e-20 t=30955
+yi an zhuang 	已安裝	c=1 d=3.04584e-15 t=30955
+yi ba 	一把	c=1 d=9.21831e-14 t=30955
+yi ban 	一般	c=5 d=6.51959e-14 t=30955
+yi bei 	已被	c=1 d=2.12979e-12 t=30955
+yi bu 	一部	c=1 d=5.4422e-15 t=30955
+yi bu 	異步	c=3 d=1.25512e-11 t=30955
+yi bu diao yong 	一部調用	c=1 d=1.57805e-14 t=30955
+yi bu yi bu 	一步一步	c=1 d=9.14865e-13 t=30955
+yi chang 	異常	c=6 d=2.56278e-12 t=30955
+yi chu 	溢出	c=1 d=2.49372e-15 t=30955
+yi chu 	移出	c=0 d=2.68657e-10 t=30955
+yi chu 	移除	c=3 d=3.38794e-08 t=30955
+yi ci 	一次	c=10 d=0.376689 t=30955
+yi ci xing 	一次性	c=8 d=2.26681e-05 t=30955
+yi cun zai 	已存在	c=6 d=1.08441e-12 t=30955
+yi da dui 	一大堆	c=1 d=3.09882e-12 t=30955
+yi dao 	移到	c=4 d=1.31425e-09 t=30955
+yi deng lu 	已登錄	c=2 d=3.92768e-12 t=30955
+yi di 	一滴	c=1 d=1.09265e-13 t=30955
+yi ding 	一定	c=2 d=2.21391e-13 t=30955
+yi dong 	移動	c=8 d=0.00153671 t=30955
+yi duan 	一段	c=1 d=1.09001e-14 t=30955
+yi dui 	一堆	c=1 d=9.63932e-10 t=30955
+yi dui duo 	一對多	c=1 d=5.35901e-15 t=30955
+yi fen 	一份	c=1 d=1.39766e-27 t=30955
+yi fu 	依附	c=2 d=4.31284e-11 t=30955
+yi fu yu 	依附於	c=1 d=2.33599e-11 t=30955
+yi ge 	一個	c=46 d=0.181638 t=30955
+yi ge ge 	一個個	c=1 d=1.16021e-13 t=30955
+yi ge jie dian 	一個節點	c=1 d=4.87084e-09 t=30955
+yi ge ren 	一個人	c=1 d=4.94614e-13 t=30955
+yi ge yue 	一個月	c=5 d=3.73292e-14 t=30955
+yi gong 	一共	c=2 d=3.93247e-12 t=30955
+yi gong hua le 	一共花了	c=1 d=3.69145e-12 t=30955
+yi hang 	一行	c=13 d=4.30816e-06 t=30955
+yi hou 	以後	c=10 d=0.0196437 t=30955
+yi huang 	一晃	c=1 d=7.49154e-15 t=30955
+yi ji 	以及	c=8 d=1.24e-09 t=30955
+yi jian 	一件	c=1 d=3.92987e-13 t=30955
+yi jiang 	已將	c=1 d=1.16302e-12 t=30955
+yi jiao 	一較	c=1 d=1.78355e-13 t=30955
+yi jie jue 	已解決	c=2 d=2.24128e-12 t=30955
+yi jing 	已經	c=16 d=6.67324e-07 t=30955
+yi ju 	依據	c=1 d=2.22781e-12 t=30955
+yi ju hua 	一句話	c=1 d=3.72919e-14 t=30955
+yi ke shu 	一棵樹	c=1 d=2.11369e-11 t=30955
+yi ku 	移庫	c=13 d=9.77129e-07 t=30955
+yi ku yi chu 	移庫移出	c=1 d=2.70004e-09 t=30955
+yi ku zai tu 	移庫在途	c=1 d=2.78227e-09 t=30955
+yi kuai qian 	一塊錢	c=1 d=1.07899e-12 t=30955
+yi lai 	依賴	c=38 d=0.0040521 t=30955
+yi lai bao 	依賴包	c=1 d=0.0100518 t=30955
+yi lai zhu ru 	依賴注入	c=1 d=1.1063e-12 t=30955
+yi lan 	一覽	c=63 d=2.22827e-11 t=30955
+yi lie 	一列	c=1 d=3.07608e-13 t=30955
+yi liu 	遺留	c=3 d=1.38202e-12 t=30955
+yi min 	移民	c=3 d=0.0197182 t=30955
+yi ming 	一名	c=1 d=1.00119e-14 t=30955
+yi nian 	一年	c=1 d=5.93389e-08 t=30955
+yi qi 	一起	c=3 d=4.58179e-14 t=30955
+yi qian 	一千	c=1 d=7.45291e-13 t=30955
+yi qian 	以前	c=5 d=1.74824e-13 t=30955
+yi qie 	一切	c=1 d=1.00102e-12 t=30955
+yi que ren 	已確認	c=2 d=1.21362e-13 t=30955
+yi que yi guai 	一瘸一拐	c=2 d=1.66153e-14 t=30955
+yi qun 	一羣	c=1 d=7.99332e-13 t=30955
+yi ru 	移入	c=5 d=2.76862e-09 t=30955
+yi shan chu 	已刪除	c=1 d=3.43593e-21 t=30955
+yi sheng cheng 	已生成	c=3 d=3.5232e-12 t=30955
+yi shi 	一時	c=1 d=1.06825e-12 t=30955
+yi shu 	藝術	c=1 d=4.45541e-19 t=30955
+yi shuang 	一雙	c=1 d=2.8463e-12 t=30955
+yi si 	意思	c=5 d=2.54982e-12 t=30955
+yi sou 	一搜	c=1 d=3.08336e-12 t=30955
+yi suan chu 	已算出	c=1 d=0.00140882 t=30955
+yi tao 	一套	c=1 d=1.36835e-13 t=30955
+yi tian 	一天	c=2 d=1.15786e-19 t=30955
+yi tian jia 	已添加	c=1 d=2.97215e-21 t=30955
+yi tiao 	一條	c=23 d=1.31976e-05 t=30955
+yi wai 	以外	c=2 d=3.12241e-13 t=30955
+yi wan cheng 	已完成	c=3 d=1.69357e-14 t=30955
+yi wen 	疑問	c=2 d=4.15207e-13 t=30955
+yi wu 	役物	c=0 d=1.92044e-31 t=30955
+yi xi 	一席	c=1 d=5.60565e-15 t=30955
+yi xia 	一下	c=17 d=0.000765216 t=30955
+yi xia 	以下	c=4 d=3.93803e-08 t=30955
+yi xie 	一些	c=10 d=1.37608e-07 t=30955
+yi xiu gai 	已修改	c=2 d=6.54771e-19 t=30955
+yi yang 	一樣	c=1 d=3.02862e-08 t=30955
+yi yi 	意義	c=3 d=2.87491e-12 t=30955
+yi you 	已有	c=1 d=3.13913e-17 t=30955
+yi yuan 	醫院	c=5 d=2.67918e-06 t=30955
+yi zhang 	一張	c=2 d=0.0111647 t=30955
+yi zhen 	一陣	c=1 d=1.31153e-14 t=30955
+yi zhi 	一直	c=4 d=3.41646e-13 t=30955
+yi zhi 	一致	c=4 d=2.74887e-14 t=30955
+yi zhi ding 	已指定	c=3 d=1.29739e-20 t=30955
+yi zhi xing 	一致性	c=1 d=2.24325e-05 t=30955
+yi zhong 	一種	c=3 d=1.16532e-12 t=30955
+yi zu 	一組	c=1 d=1.07899e-12 t=30955
+yi zu he 	已組合	c=2 d=2.62836e-16 t=30955
+yin 	音	c=1 d=1.17795e-15 t=30955
+yin biao 	音標	c=5 d=1.46988e-11 t=30955
+yin cang 	隱藏	c=7 d=0.00011692 t=30955
+yin dao 	引導	c=1 d=3.97004e-15 t=30955
+yin hang 	銀行	c=7 d=3.76603e-12 t=30955
+yin hang ka 	銀行卡	c=2 d=2.36717e-12 t=30955
+yin hang ka hao 	銀行卡號	c=1 d=1.10363e-13 t=30955
+yin hao 	引號	c=3 d=1.5425e-14 t=30955
+yin jin 	引進	c=1 d=0.00831246 t=30955
+yin ni 	隱匿	c=1 d=5.00878e-14 t=30955
+yin qing 	引擎	c=6 d=4.43195e-08 t=30955
+yin ru 	引入	c=10 d=0.0100017 t=30955
+yin she 	隱射	c=1 d=2.89729e-15 t=30955
+yin wei 	因爲	c=7 d=1.07068e-09 t=30955
+yin xiang 	印象	c=1 d=5.41286e-15 t=30955
+yin yong 	引用	c=5 d=0.000710174 t=30955
+ying 	營	c=0 d=2.3481e-14 t=30955
+ying bang 	英鎊	c=1 d=4.20394e-12 t=30955
+ying da 	應答	c=1 d=1.19535e-11 t=30955
+ying gai 	應該	c=14 d=3.12094e-06 t=30955
+ying gai shi 	應該是	c=2 d=0.00882647 t=30955
+ying hua 	櫻花	c=1 d=2.0016e-17 t=30955
+ying jian 	硬件	c=1 d=2.25488e-07 t=30955
+ying pan 	硬盤	c=2 d=3.69912e-07 t=30955
+ying she 	映射	c=68 d=0.00379349 t=30955
+ying she wen jian 	映射文件	c=6 d=3.60794e-10 t=30955
+ying wen 	英文	c=6 d=4.21154e-12 t=30955
+ying xiang 	影響	c=3 d=8.98121e-11 t=30955
+ying xiang li 	影響力	c=1 d=1.77008e-12 t=30955
+ying ye 	營業	c=3 d=4.27271e-12 t=30955
+ying ye dan dang 	營業擔當	c=3 d=1.19373e-11 t=30955
+ying yong 	應用	c=6 d=2.00695e-12 t=30955
+ying yu 	英語	c=3 d=4.14135e-12 t=30955
+ying zhi 	英知	c=1 d=1.0471e-12 t=30955
+yong 	勇	c=1 d=2.59549e-15 t=30955
+yong 	用	c=32 d=5.4421e-06 t=30955
+yong bu dao 	用不到	c=1 d=2.11808e-06 t=30955
+yong dao 	用到	c=4 d=9.96358e-15 t=30955
+yong de 	用的	c=1 d=9.71437e-13 t=30955
+yong gong 	用工	c=1 d=3.11488e-14 t=30955
+yong hu 	用戶	c=66 d=0.00120082 t=30955
+yong hu ming 	用戶名	c=14 d=1.9973e-11 t=30955
+yong hu zu 	用戶組	c=2 d=1.32915e-14 t=30955
+yong jin 	佣金	c=2 d=3.21743e-26 t=30955
+yong jin dui xiang 	佣金對象	c=1 d=4.40341e-28 t=30955
+yong jiu le 	用久了	c=1 d=7.46967e-10 t=30955
+yong lai 	用來	c=2 d=0.126818 t=30955
+yong le 	用了	c=1 d=1.28534e-12 t=30955
+yong qi lai 	用起來	c=1 d=2.30474e-29 t=30955
+yong she 	用設	c=1 d=2.38935e-12 t=30955
+yong shen me 	用什麼	c=1 d=8.13097e-08 t=30955
+yong tu 	用途	c=2 d=2.46386e-13 t=30955
+yong xin 	用心	c=2 d=3.44555e-14 t=30955
+yong yu 	用於	c=21 d=2.80679e-10 t=30955
+yong zhe 	用着	c=0 d=1.5898e-14 t=30955
+yong zhe ka 	用着卡	c=1 d=1.59776e-13 t=30955
+you 	又	c=4 d=6.00276e-13 t=30955
+you 	呦	c=1 d=1.50109e-14 t=30955
+you 	有	c=71 d=0.196502 t=30955
+you 	由	c=10 d=0.000804733 t=30955
+you bian 	右邊	c=1 d=1.83849e-17 t=30955
+you bian 	郵編	c=1 d=0.000266536 t=30955
+you da 	優達	c=3 d=1.10334e-30 t=30955
+you dao 	有道	c=8 d=0.000235217 t=30955
+you dao li 	有道理	c=1 d=1.19575e-15 t=30955
+you de 	有的	c=2 d=1.17491e-14 t=30955
+you dian 	有點	c=5 d=3.29044e-12 t=30955
+you dian 	由點	c=1 d=3.66419e-13 t=30955
+you guan 	有關	c=1 d=1.73502e-12 t=30955
+you hen duo 	有很多	c=1 d=0.00609675 t=30955
+you hou 	油猴	c=3 d=9.59816e-05 t=30955
+you hua 	優化	c=2 d=1.30488e-12 t=30955
+you hui 	優惠	c=1 d=1.87563e-17 t=30955
+you jian 	右鍵	c=1 d=7.43622e-16 t=30955
+you jian 	郵件	c=1 d=7.19659e-13 t=30955
+you ke neng 	有可能	c=1 d=1.63399e-12 t=30955
+you ku 	優酷	c=1 d=3.70164e-15 t=30955
+you mei you 	有沒有	c=1 d=5.80433e-13 t=30955
+you nei rong 	有內容	c=1 d=2.52445e-12 t=30955
+you neng 	又能	c=2 d=1.0471e-12 t=30955
+you ni de 	有你的	c=1 d=0.000117391 t=30955
+you qu bie 	有區別	c=1 d=7.43495e-14 t=30955
+you ren 	有人	c=1 d=4.17359e-15 t=30955
+you shang xia 	有上下	c=1 d=1.26074e-20 t=30955
+you shen me 	有什麼	c=1 d=0.00228818 t=30955
+you shi 	優勢	c=1 d=1.24113e-12 t=30955
+you shi jian 	有時間	c=1 d=7.03705e-14 t=30955
+you ti shi 	有提示	c=1 d=4.03416e-27 t=30955
+you wang 	有望	c=0 d=8.63816e-15 t=30955
+you wang jia 	有望價	c=1 d=8.68146e-14 t=30955
+you wen ti 	有問題	c=2 d=2.7591e-07 t=30955
+you wu 	有誤	c=2 d=3.17084e-17 t=30955
+you xia la kuang 	有下拉框	c=1 d=1.38686e-24 t=30955
+you xian 	有限	c=2 d=5.77453e-30 t=30955
+you xian ji 	優先級	c=3 d=0.00073892 t=30955
+you xiang 	郵箱	c=8 d=3.10473e-05 t=30955
+you xiao 	有效	c=41 d=9.23558e-12 t=30955
+you xiao qi 	有效期	c=34 d=1.92404e-11 t=30955
+you xiao wu xiao 	有效無效	c=1 d=6.14838e-14 t=30955
+you xiao xing 	有效性	c=14 d=1.45583e-12 t=30955
+you xie 	有些	c=1 d=2.17732e-07 t=30955
+you xiu 	優秀	c=1 d=6.98509e-15 t=30955
+you yi ge 	有一個	c=1 d=0.181772 t=30955
+you yu 	有餘	c=2 d=2.32064e-14 t=30955
+you zhi 	優質	c=3 d=3.88222e-25 t=30955
+you zhong 	有種	c=1 d=1.62611e-14 t=30955
+you zi biao 	有子表	c=4 d=1.25089e-26 t=30955
+yu 	俞	c=1 d=1.3821e-13 t=30955
+yu 	域	c=6 d=3.39495e-12 t=30955
+yu 	宇	c=2 d=2.64064e-12 t=30955
+yu 	於	c=9 d=1.79893e-12 t=30955
+yu 	羽	c=1 d=6.72743e-14 t=30955
+yu 	與	c=108 d=0.674239 t=30955
+yu 	餘	c=6 d=0.000220719 t=30955
+yu ce 	預測	c=6 d=0.770121 t=30955
+yu dao 	遇到	c=2 d=3.06851e-14 t=30955
+yu ding 	預訂	c=2 d=2.54295e-09 t=30955
+yu e 	餘額	c=2 d=2.20985e-05 t=30955
+yu fa 	語法	c=2 d=0.000586461 t=30955
+yu fu shi tong 	與富士通	c=33 d=4.76335e-12 t=30955
+yu fu wu qi 	與服務器	c=1 d=4.12069e-12 t=30955
+yu huo 	慾火	c=0 d=3.43359e-14 t=30955
+yu huo fei 	慾火非	c=1 d=3.4508e-13 t=30955
+yu huo fei 	與或費	c=1 d=7.97402e-14 t=30955
+yu jie shi 	與解釋	c=1 d=3.86137e-12 t=30955
+yu ju 	語句	c=15 d=4.92705e-12 t=30955
+yu jun 	于軍	c=1 d=1.37521e-13 t=30955
+yu kuai 	愉快	c=1 d=1.54281e-13 t=30955
+yu liu 	預留	c=1 d=6.59757e-20 t=30955
+yu men 	與門	c=1 d=3.66419e-13 t=30955
+yu ming 	域名	c=5 d=6.93586e-12 t=30955
+yu qi 	逾期	c=4 d=4.72775e-13 t=30955
+yu wang 	慾望	c=1 d=1.35078e-08 t=30955
+yu xiu lu 	御秀路	c=1 d=1.13157e-13 t=30955
+yu xuan 	餘弦	c=1 d=1.20216e-19 t=30955
+yu yan 	語言	c=18 d=0.000823103 t=30955
+yu you wen ti 	與有問題	c=1 d=1.66212e-07 t=30955
+yu yue 	預約	c=6 d=2.42723e-28 t=30955
+yu zhong 	語種	c=2 d=6.33697e-25 t=30955
+yuan 	元	c=6 d=1.00212e-08 t=30955
+yuan 	原	c=1 d=0.873716 t=30955
+yuan 	員	c=1 d=0.778801 t=30955
+yuan 	園	c=1 d=4.98507e-14 t=30955
+yuan 	媛	c=1 d=5.95126e-13 t=30955
+yuan 	源	c=2 d=2.29566e-12 t=30955
+yuan 	猿	c=1 d=2.7281e-13 t=30955
+yuan 	苑	c=2 d=3.93937e-12 t=30955
+yuan bi zhong 	原幣種	c=2 d=1.55381e-30 t=30955
+yuan cang ku 	原倉庫	c=1 d=3.23804e-29 t=30955
+yuan chan di 	原產地	c=1 d=1.51067e-30 t=30955
+yuan chang 	原廠	c=26 d=9.63826e-08 t=30955
+yuan cheng 	遠程	c=11 d=4.21949e-12 t=30955
+yuan dai ma 	源代碼	c=2 d=4.82759e-14 t=30955
+yuan du 	怨毒	c=1 d=2.1471e-19 t=30955
+yuan gong 	員工	c=54 d=1.17257e-11 t=30955
+yuan gong guan li 	員工管理	c=1 d=3.25936e-18 t=30955
+yuan lai 	原來	c=2 d=2.53098e-13 t=30955
+yuan li 	原理	c=3 d=5.55214e-13 t=30955
+yuan ma 	源碼	c=6 d=3.04325e-05 t=30955
+yuan mian 	原棉	c=1 d=1.875e-13 t=30955
+yuan sheng 	原生	c=2 d=1.11889e-12 t=30955
+yuan shi 	原始	c=36 d=0.00170683 t=30955
+yuan shi bi zhong 	原始幣種	c=1 d=5.27831e-13 t=30955
+yuan shi cai gou 	原始採購	c=2 d=2.0432e-09 t=30955
+yuan shi cai gou dan jia 	原始採購單價	c=1 d=0.00278085 t=30955
+yuan su 	元素	c=5 d=2.71765e-12 t=30955
+yuan tong 	圓通	c=1 d=9.38024e-13 t=30955
+yuan wen 	原文	c=0 d=2.66718e-13 t=30955
+yuan wen jian 	原文件	c=4 d=1.31768e-11 t=30955
+yuan xing 	原型	c=2 d=3.54079e-14 t=30955
+yuan you 	原有	c=1 d=2.57544e-12 t=30955
+yuan ze 	原則	c=2 d=7.52912e-15 t=30955
+yue 	月	c=11 d=8.65969e-13 t=30955
+yue chang 	越長	c=1 d=5.99658e-14 t=30955
+yue da 	越大	c=1 d=6.05686e-14 t=30955
+yue ding 	約定	c=1 d=2.00399e-31 t=30955
+yue du 	閱讀	c=2 d=2.7281e-13 t=30955
+yue fen 	月份	c=5 d=8.79123e-13 t=30955
+yue hao 	約好	c=1 d=1.45296e-13 t=30955
+yue qing 	樂清	c=1 d=4.94698e-15 t=30955
+yue qing shi 	樂清市	c=1 d=4.87333e-15 t=30955
+yue shu 	約束	c=5 d=9.84721e-14 t=30955
+yue xiao 	越小	c=1 d=6.14838e-14 t=30955
+yun 	暈	c=0 d=4.9223e-16 t=30955
+yun 	雲	c=15 d=7.59613e-12 t=30955
+yun dan 	運單	c=1 d=2.96246e-12 t=30955
+yun dong xie 	運動鞋	c=1 d=2.86057e-12 t=30955
+yun ke tang 	雲課堂	c=1 d=2.46849e-13 t=30955
+yun nan 	雲南	c=1 d=8.09455e-14 t=30955
+yun nan sheng 	雲南省	c=1 d=4.61252e-15 t=30955
+yun shu 	運輸	c=8 d=4.12864e-05 t=30955
+yun shu fang shi 	運輸方式	c=13 d=0.000813824 t=30955
+yun suan 	運算	c=3 d=1.43228e-12 t=30955
+yun suan fu 	運算符	c=1 d=2.3485e-15 t=30955
+yun xing 	運行	c=23 d=1.78808e-07 t=30955
+yun xing de 	運行的	c=1 d=3.79277e-07 t=30955
+yun xing shi 	運行時	c=2 d=2.71195e-12 t=30955
+yun xing shi jian 	運行時間	c=1 d=3.30637e-10 t=30955
+yun ying 	運營	c=2 d=3.73898e-12 t=30955
+za kan 	咋看	c=1 d=2.74038e-07 t=30955
+za le 	咋了	c=1 d=1.9321e-13 t=30955
+za le 	砸了	c=1 d=1.92246e-13 t=30955
+za rou 	雜糅	c=1 d=8.11414e-13 t=30955
+zai 	再	c=14 d=0.000101944 t=30955
+zai 	在	c=83 d=0.0206195 t=30955
+zai 	載	c=2 d=2.61481e-14 t=30955
+zai ba 	再把	c=1 d=9.51553e-05 t=30955
+zai ban 	再辦	c=1 d=1.32286e-27 t=30955
+zai duo 	再多	c=1 d=3.0924e-17 t=30955
+zai fa bu yi ci 	在發佈一次	c=1 d=1.2719e-06 t=30955
+zai hao 	再好	c=1 d=3.39123e-14 t=30955
+zai ji guo lai 	在寄過來	c=1 d=1.57585e-27 t=30955
+zai kai ji 	在開機	c=1 d=2.50452e-07 t=30955
+zai kan 	再看	c=3 d=2.75411e-07 t=30955
+zai kan kan 	再看看	c=1 d=1.63032e-15 t=30955
+zai ku 	在庫	c=1 d=1.55832e-13 t=30955
+zai na 	在哪	c=1 d=4.35444e-14 t=30955
+zai na chi 	在哪吃	c=1 d=3.18549e-13 t=30955
+zai nong 	再弄	c=2 d=9.18825e-05 t=30955
+zai qu 	再去	c=1 d=9.22301e-20 t=30955
+zai ru 	載入	c=1 d=2.41336e-12 t=30955
+zai ti 	載體	c=3 d=1.19723e-12 t=30955
+zai tu 	在途	c=3 d=1.6657e-09 t=30955
+zai wo men 	在我們	c=1 d=5.99658e-14 t=30955
+zai xian 	在線	c=3 d=1.2536e-12 t=30955
+zai yong 	再用	c=1 d=1.0406e-27 t=30955
+zai yu 	在於	c=1 d=3.73948e-17 t=30955
+zai zhan 	再戰	c=1 d=7.14099e-10 t=30955
+zai zhao 	再找	c=1 d=3.04532e-13 t=30955
+zai zhe li 	在這裏	c=2 d=2.25732e-12 t=30955
+zan 	暫	c=1 d=1.28355e-25 t=30955
+zan cun 	暫存	c=3 d=0.00307529 t=30955
+zan qu 	暫取	c=2 d=2.57417e-25 t=30955
+zan shi 	暫時	c=5 d=5.35846e-12 t=30955
+zao 	早	c=1 d=4.60062e-14 t=30955
+zao chen 	早晨	c=1 d=5.19972e-13 t=30955
+zao dian 	早點	c=1 d=1.21991e-15 t=30955
+zao shui 	早睡	c=1 d=1.76125e-12 t=30955
+zao xing 	造型	c=1 d=7.30661e-15 t=30955
+ze 	則	c=76 d=5.96938e-06 t=30955
+ze biao shi 	則表示	c=1 d=2.87442e-10 t=30955
+ze bu neng 	則不能	c=1 d=2.5772e-20 t=30955
+ze chong xin 	則重新	c=1 d=1.44199e-12 t=30955
+ze fan hui 	則返回	c=1 d=1.26182e-30 t=30955
+ze hui 	則會	c=2 d=1.56991e-12 t=30955
+ze ji lu 	則記錄	c=1 d=5.45128e-10 t=30955
+ze ren 	責任	c=1 d=5.98111e-13 t=30955
+ze shi 	則是	c=13 d=8.82216e-12 t=30955
+ze ti shi 	則提示	c=2 d=1.55612e-12 t=30955
+zen 	怎	c=1 d=2.54982e-12 t=30955
+zen me 	怎麼	c=8 d=2.51692e-06 t=30955
+zen me ban 	怎麼辦	c=2 d=3.80899e-13 t=30955
+zen me la 	怎麼啦	c=1 d=0.00021605 t=30955
+zen me zuo 	怎麼做	c=1 d=1.57371e-11 t=30955
+zeng 	增	c=4 d=0.687289 t=30955
+zeng 	曾	c=0 d=3.2175e-14 t=30955
+zeng gai 	增改	c=2 d=5.22579e-13 t=30955
+zeng jia 	增加	c=41 d=2.14768e-10 t=30955
+zeng liang 	增量	c=2 d=2.48728e-14 t=30955
+zeng qiang 	增強	c=3 d=4.02956e-12 t=30955
+zeng shan 	增刪	c=2 d=8.07366e-13 t=30955
+zeng shan gai 	曾刪改	c=2 d=3.23363e-13 t=30955
+zha shi 	紮實	c=0 d=9.57135e-16 t=30955
+zhai quan 	債券	c=1 d=7.47221e-14 t=30955
+zhan 	佔	c=1 d=2.11405e-13 t=30955
+zhan 	棧	c=1 d=2.43215e-15 t=30955
+zhan dian 	站點	c=4 d=3.50116e-07 t=30955
+zhan lve 	戰略	c=2 d=4.21377e-30 t=30955
+zhan lve yi wu 	戰略役物	c=2 d=4.01044e-30 t=30955
+zhan shi 	展示	c=6 d=3.46192e-12 t=30955
+zhan tie 	粘貼	c=4 d=0.923116 t=30955
+zhan yong 	佔用	c=5 d=4.81079e-10 t=30955
+zhan zai 	站在	c=1 d=5.02089e-13 t=30955
+zhan zhang 	站長	c=1 d=9.05145e-05 t=30955
+zhang 	張	c=4 d=1.38504e-13 t=30955
+zhang ben 	賬本	c=1 d=0.00554422 t=30955
+zhang hao 	帳號	c=3 d=2.34204e-12 t=30955
+zhang hu 	賬戶	c=6 d=2.983e-11 t=30955
+zhang hu ming 	賬戶名	c=2 d=1.63224e-13 t=30955
+zhao 	兆	c=1 d=0.571209 t=30955
+zhao 	找	c=1 d=9.21986e-16 t=30955
+zhao 	照	c=1 d=1.65069e-14 t=30955
+zhao bu dao 	找不到	c=7 d=8.59717e-13 t=30955
+zhao dao 	找到	c=4 d=0.00322412 t=30955
+zhao de 	找的	c=0 d=1.58187e-14 t=30955
+zhao de dui bu dui 	找的對不對	c=1 d=1.5898e-13 t=30955
+zhao hang 	招行	c=3 d=1.09222e-11 t=30955
+zhao huan 	召喚	c=1 d=6.74484e-15 t=30955
+zhao shang 	招商	c=2 d=7.12096e-12 t=30955
+zhe 	着	c=3 d=2.84023e-11 t=30955
+zhe 	者	c=4 d=8.22433e-11 t=30955
+zhe 	這	c=6 d=5.64177e-13 t=30955
+zhe bian 	這邊	c=6 d=9.70776e-05 t=30955
+zhe bu shi 	着不是	c=1 d=2.29605e-14 t=30955
+zhe cai shi 	這纔是	c=1 d=1.27255e-12 t=30955
+zhe dian 	這點	c=1 d=7.23266e-13 t=30955
+zhe die 	摺疊	c=2 d=2.52535e-14 t=30955
+zhe duan 	這段	c=2 d=3.8786e-16 t=30955
+zhe duan hua 	這段話	c=1 d=1.42419e-13 t=30955
+zhe ge 	這個	c=37 d=0.00585822 t=30955
+zhe ge biao 	這個表	c=1 d=2.40631e-07 t=30955
+zhe ge lei 	這個類	c=1 d=7.49028e-13 t=30955
+zhe ge shuo ming 	這個說明	c=1 d=3.97964e-14 t=30955
+zhe ge yue 	這個月	c=1 d=8.38429e-16 t=30955
+zhe hang 	折行	c=1 d=6.64667e-19 t=30955
+zhe he 	這和	c=1 d=0.00226541 t=30955
+zhe huan 	折換	c=5 d=1.0869e-30 t=30955
+zhe jia 	這家	c=1 d=1.59776e-13 t=30955
+zhe jiang 	浙江	c=1 d=1.50651e-27 t=30955
+zhe jiang sheng 	浙江省	c=1 d=4.82481e-15 t=30955
+zhe ju 	這句	c=1 d=1.49721e-13 t=30955
+zhe li 	這裏	c=7 d=2.52316e-06 t=30955
+zhe liang ge 	這兩個	c=2 d=1.82398e-12 t=30955
+zhe me duo 	這麼多	c=1 d=8.68146e-14 t=30955
+zhe me jiu 	這麼久	c=1 d=1.22286e-14 t=30955
+zhe qun 	這羣	c=1 d=1.65468e-13 t=30955
+zhe san ge 	這三個	c=1 d=6.64327e-13 t=30955
+zhe shi 	這是	c=3 d=3.5017e-15 t=30955
+zhe wo 	這我	c=1 d=1.39528e-07 t=30955
+zhe xia 	這下	c=1 d=1.54281e-13 t=30955
+zhe xie 	這些	c=3 d=2.20908e-12 t=30955
+zhe xue 	哲學	c=1 d=2.29566e-12 t=30955
+zhe yang 	這樣	c=6 d=1.89289e-07 t=30955
+zhe yi 	這一	c=1 d=6.67656e-13 t=30955
+zhe yi hang 	這一行	c=1 d=2.50878e-27 t=30955
+zhe you 	這又	c=0 d=3.06851e-15 t=30955
+zhe zhong 	這種	c=1 d=1.98614e-14 t=30955
+zhei li 	這裏	c=1 d=4.23593e-13 t=30955
+zhen 	真	c=1 d=4.27851e-13 t=30955
+zhen 	陣	c=1 d=1.40662e-14 t=30955
+zhen dang qi 	振盪器	c=1 d=7.23266e-13 t=30955
+zhen de 	真的	c=2 d=3.88882e-07 t=30955
+zhen dui 	針對	c=2 d=4.16528e-11 t=30955
+zhen jia 	真假	c=1 d=4.82402e-13 t=30955
+zhen shi 	真實	c=3 d=0.0443785 t=30955
+zhen shi 	真是	c=2 d=1.43133e-13 t=30955
+zhen zhen zheng zheng 	真真正正	c=1 d=8.83398e-13 t=30955
+zhen zheng 	真正	c=1 d=9.76305e-13 t=30955
+zheng 	整	c=2 d=5.79352e-10 t=30955
+zheng 	正	c=2 d=8.13374e-12 t=30955
+zheng 	證	c=2 d=1.18366e-13 t=30955
+zheng chang 	正常	c=7 d=8.69632e-07 t=30955
+zheng dan 	整單	c=3 d=2.22645e-12 t=30955
+zheng ge 	整個	c=1 d=1.38568e-14 t=30955
+zheng hang 	整行	c=2 d=4.49558e-07 t=30955
+zheng hao 	正好	c=2 d=6.50113e-15 t=30955
+zheng li 	整理	c=2 d=3.70996e-12 t=30955
+zheng shu 	整數	c=1 d=2.44434e-15 t=30955
+zheng shui 	徵稅	c=1 d=2.18333e-10 t=30955
+zheng ti 	整體	c=1 d=1.19266e-14 t=30955
+zheng xiang 	正向	c=9 d=0.578263 t=30955
+zheng xin 	徵信	c=4 d=5.70882e-13 t=30955
+zheng zai 	正在	c=11 d=1.67884e-07 t=30955
+zheng zai bian ji 	正在編輯	c=1 d=6.91558e-15 t=30955
+zheng ze 	正則	c=10 d=0.000205647 t=30955
+zheng ze biao da shi 	正則表達式	c=2 d=3.62958e-19 t=30955
+zheng zhi 	政治	c=1 d=0.00621991 t=30955
+zhi 	之	c=1 d=5.90733e-14 t=30955
+zhi 	值	c=98 d=0.226723 t=30955
+zhi 	只	c=2 d=1.07361e-12 t=30955
+zhi 	志	c=2 d=0.546074 t=30955
+zhi 	指	c=2 d=4.81237e-14 t=30955
+zhi 	止	c=13 d=0.524663 t=30955
+zhi 	知	c=1 d=1.37521e-13 t=30955
+zhi 	置	c=1 d=0.0284388 t=30955
+zhi 	至	c=5 d=1.14789e-05 t=30955
+zhi bo 	直播	c=2 d=4.91812e-05 t=30955
+zhi chi 	支持	c=12 d=6.14719e-11 t=30955
+zhi chuan di 	值傳遞	c=1 d=2.91886e-14 t=30955
+zhi ci 	至此	c=2 d=1.41637e-07 t=30955
+zhi dan 	製單	c=6 d=1.08629e-12 t=30955
+zhi dan ren 	製單人	c=8 d=7.72591e-13 t=30955
+zhi dao 	指導	c=1 d=2.41377e-14 t=30955
+zhi dao 	直到	c=1 d=2.05157e-13 t=30955
+zhi dao 	知道	c=6 d=1.4306e-07 t=30955
+zhi de 	值得	c=2 d=1.24973e-06 t=30955
+zhi de mai 	值得買	c=2 d=4.9545e-05 t=30955
+zhi ding 	指定	c=28 d=1.87416 t=30955
+zhi du 	只讀	c=1 d=8.40459e-16 t=30955
+zhi du mo shi 	只讀模式	c=1 d=8.44672e-15 t=30955
+zhi fu 	支付	c=49 d=0.000964516 t=30955
+zhi fu bao 	支付寶	c=3 d=1.10078e-12 t=30955
+zhi fu tiao jian 	支付條件	c=3 d=2.11918e-12 t=30955
+zhi fu xie yi 	支付協議	c=7 d=0.000480062 t=30955
+zhi gong 	職工	c=1 d=2.68055e-12 t=30955
+zhi gou 	只夠	c=1 d=3.21586e-07 t=30955
+zhi guan 	直觀	c=1 d=3.87136e-13 t=30955
+zhi hang 	支行	c=1 d=1.14294e-13 t=30955
+zhi he 	之和	c=1 d=1.92678e-10 t=30955
+zhi he 	紙盒	c=1 d=1.88863e-10 t=30955
+zhi hou 	之後	c=1 d=3.76143e-27 t=30955
+zhi hu 	支護	c=1 d=1.18651e-12 t=30955
+zhi hu 	知乎	c=7 d=0.000263884 t=30955
+zhi jia 	支架	c=1 d=6.05047e-31 t=30955
+zhi jian 	之間	c=14 d=0.0115624 t=30955
+zhi jian 	只見	c=2 d=1.29262e-12 t=30955
+zhi jiao 	指教	c=1 d=1.47849e-12 t=30955
+zhi jie 	直接	c=8 d=0.000508735 t=30955
+zhi jin 	至今	c=1 d=2.7765e-14 t=30955
+zhi lu 	之路	c=4 d=0.00167889 t=30955
+zhi mei 	之美	c=4 d=0.392586 t=30955
+zhi nan 	指南	c=15 d=2.53539e-11 t=30955
+zhi neng 	只能	c=14 d=2.44939e-12 t=30955
+zhi neng 	智能	c=3 d=0.000601259 t=30955
+zhi qi 	志氣	c=1 d=1.66297e-13 t=30955
+zhi qian 	之前	c=9 d=0.0219282 t=30955
+zhi shao 	至少	c=1 d=1.71805e-14 t=30955
+zhi sheng cheng 	只生成	c=1 d=3.91972e-12 t=30955
+zhi shi 	只是	c=5 d=8.14748e-13 t=30955
+zhi shi 	指示	c=5 d=7.69484e-06 t=30955
+zhi shi 	知識	c=12 d=4.27309e-12 t=30955
+zhi tui 	只推	c=1 d=6.25321e-07 t=30955
+zhi wei 	只爲	c=1 d=1.64643e-13 t=30955
+zhi wei 	置爲	c=1 d=2.63427e-13 t=30955
+zhi wei 	職位	c=2 d=2.03983e-14 t=30955
+zhi xian shi 	只顯示	c=2 d=1.16322e-14 t=30955
+zhi xiang 	只想	c=1 d=1.40638e-12 t=30955
+zhi xiang 	指向	c=4 d=3.16424e-12 t=30955
+zhi xiang 	紙箱	c=1 d=2.46891e-15 t=30955
+zhi xie 	只寫	c=1 d=9.9123e-15 t=30955
+zhi xing 	執行	c=56 d=1.86789e-08 t=30955
+zhi xu yao 	只需要	c=1 d=8.07639e-17 t=30955
+zhi yao 	只要	c=1 d=1.61382e-13 t=30955
+zhi ying 	直營	c=1 d=6.23813e-08 t=30955
+zhi yong 	只用	c=1 d=7.54733e-14 t=30955
+zhi you 	只有	c=7 d=0.00491728 t=30955
+zhi yu 	至於	c=0 d=2.7281e-14 t=30955
+zhi yun 	直運	c=2 d=5.16575e-12 t=30955
+zhi zao shang 	製造商	c=1 d=1.60993e-14 t=30955
+zhi zeng 	只增	c=1 d=1.88407e-11 t=30955
+zhi zhen 	指針	c=1 d=0.000903477 t=30955
+zhi zhi 	紙質	c=1 d=3.24984e-13 t=30955
+zhong 	中	c=277 d=0.0350831 t=30955
+zhong 	種	c=4 d=1.42764e-12 t=30955
+zhong bao 	中保	c=1 d=2.3721e-15 t=30955
+zhong de 	中的	c=6 d=2.81834e-06 t=30955
+zhong dian 	重點	c=1 d=9.47454e-13 t=30955
+zhong duan 	中斷	c=2 d=6.03395e-13 t=30955
+zhong guo 	中國	c=10 d=0.000149456 t=30955
+zhong hua 	中華	c=1 d=3.62329e-28 t=30955
+zhong huan 	中環	c=1 d=3.84211e-12 t=30955
+zhong ji 	終極	c=1 d=9.64261e-14 t=30955
+zhong jian jian 	中間件	c=4 d=3.45156e-13 t=30955
+zhong shi 	忠實	c=1 d=4.97178e-15 t=30955
+zhong wen 	中文	c=10 d=0.30271 t=30955
+zhong wu 	中午	c=1 d=1.47036e-06 t=30955
+zhong xia 	中下	c=1 d=3.43282e-20 t=30955
+zhong yao 	重要	c=1 d=1.00621e-14 t=30955
+zhong yao xing 	重要性	c=1 d=1.83344e-14 t=30955
+zhong zhi 	終止	c=1 d=8.55223e-14 t=30955
+zhou 	周	c=2 d=0.543351 t=30955
+zhou liu 	週六	c=2 d=1.13679e-12 t=30955
+zhou mo 	週末	c=2 d=3.42472e-12 t=30955
+zhou pu 	周浦	c=1 d=4.52041e-13 t=30955
+zhou wu 	週五	c=1 d=8.60533e-28 t=30955
+zhu 	主	c=7 d=2.69297e-12 t=30955
+zhu 	朱	c=1 d=4.70492e-13 t=30955
+zhu biao 	主表	c=19 d=1.08023e-11 t=30955
+zhu ce 	註冊	c=9 d=1.28525e-12 t=30955
+zhu ce biao 	註冊表	c=2 d=1.67325e-19 t=30955
+zhu cheng xu 	主程序	c=4 d=5.25778e-13 t=30955
+zhu cong 	主從	c=2 d=9.88669e-14 t=30955
+zhu dang 	主檔	c=5 d=3.56449e-12 t=30955
+zhu fen zhi 	主分支	c=1 d=5.27829e-13 t=30955
+zhu ji 	主機	c=2 d=7.12013e-05 t=30955
+zhu jian 	主鍵	c=10 d=1.82405e-12 t=30955
+zhu jie 	註解	c=11 d=6.28182e-10 t=30955
+zhu li 	助理	c=1 d=6.63876e-05 t=30955
+zhu ming ming 	朱明明	c=2 d=3.1696e-13 t=30955
+zhu ru 	注入	c=10 d=8.98459e-06 t=30955
+zhu she qi 	注射器	c=1 d=1.48232e-13 t=30955
+zhu shi 	註釋	c=43 d=1.98223e-08 t=30955
+zhu shou 	助手	c=2 d=1.69657e-13 t=30955
+zhu shu ju 	主數據	c=24 d=2.24574e-09 t=30955
+zhu ti 	主題	c=8 d=5.62896e-05 t=30955
+zhu xiao 	註銷	c=2 d=0.00118858 t=30955
+zhu yao 	主要	c=10 d=0.00115045 t=30955
+zhu yao you 	主要有	c=1 d=5.24841e-05 t=30955
+zhu ye 	主頁	c=2 d=4.89666e-12 t=30955
+zhu yi 	注意	c=8 d=0.000739157 t=30955
+zhu yuan 	住院	c=2 d=3.41083e-13 t=30955
+zhu zhi 	住址	c=2 d=3.31809e-14 t=30955
+zhua bao 	抓包	c=1 d=3.38247e-13 t=30955
+zhua bing 	抓兵	c=0 d=1.51514e-07 t=30955
+zhua qu 	抓取	c=2 d=1.92222e-13 t=30955
+zhuan 	轉	c=26 d=0.00964093 t=30955
+zhuan bu le 	轉不了	c=2 d=1.14236e-07 t=30955
+zhuan cheng 	轉成	c=10 d=0.0107418 t=30955
+zhuan dao 	轉到	c=0 d=1.1063e-13 t=30955
+zhuan dao na 	轉到那	c=1 d=1.11184e-12 t=30955
+zhuan fa 	轉發	c=0 d=6.81147e-14 t=30955
+zhuan fa dao 	轉發到	c=1 d=6.8456e-13 t=30955
+zhuan huan 	轉換	c=30 d=0.163661 t=30955
+zhuan huan cheng 	轉換成	c=1 d=4.44238e-14 t=30955
+zhuan lan 	專欄	c=1 d=0.565525 t=30955
+zhuan le 	轉了	c=1 d=1.10307e-07 t=30955
+zhuan qian 	賺錢	c=1 d=0.00634556 t=30955
+zhuan xing 	轉型	c=2 d=3.35845e-13 t=30955
+zhuan xing cheng 	轉型成	c=1 d=2.98502e-13 t=30955
+zhuan ye 	專業	c=5 d=5.69776e-14 t=30955
+zhuan yi 	轉移	c=1 d=3.1321e-20 t=30955
+zhuan yi 	轉義	c=1 d=3.88336e-20 t=30955
+zhuan zhang 	轉賬	c=1 d=1.16302e-12 t=30955
+zhuang 	狀	c=3 d=4.55652e-10 t=30955
+zhuang 	裝	c=11 d=3.32351e-12 t=30955
+zhuang dao 	裝到	c=1 d=2.49805e-06 t=30955
+zhuang de 	裝得	c=1 d=3.78491e-12 t=30955
+zhuang ge 	裝個	c=2 d=3.73957e-06 t=30955
+zhuang kuan dai 	裝寬帶	c=1 d=4.44465e-20 t=30955
+zhuang tai 	狀態	c=52 d=0.00290931 t=30955
+zhuang tu 	壯圖	c=1 d=2.2611e-10 t=30955
+zhuang xia 	裝下	c=1 d=3.43359e-13 t=30955
+zhuang xiang 	裝箱	c=5 d=1.20359e-18 t=30955
+zhuang xiang dan 	裝箱單	c=45 d=5.82977e-12 t=30955
+zhuang zhi 	裝置	c=2 d=9.15823e-14 t=30955
+zhui ben 	追本	c=1 d=1.02902e-13 t=30955
+zhui jia 	追加	c=35 d=0.00437795 t=30955
+zhui qiu 	追求	c=1 d=5.46726e-15 t=30955
+zhui sui 	追隨	c=1 d=2.72857e-15 t=30955
+zhun 	準	c=2 d=5.02198e-19 t=30955
+zhun bei 	準備	c=4 d=5.35237e-14 t=30955
+zhun que 	準確	c=3 d=0.0395743 t=30955
+zhun zai 	迍災	c=1 d=3.03116e-17 t=30955
+zhuo mian 	桌面	c=2 d=1.74821 t=30955
+zi 	子	c=10 d=4.87904e-11 t=30955
+zi 	字	c=4 d=3.98993e-06 t=30955
+zi ben 	資本	c=1 d=0.00660453 t=30955
+zi ben lun 	資本論	c=2 d=2.33791e-13 t=30955
+zi biao 	子表	c=56 d=0.000890581 t=30955
+zi cai dan 	字菜單	c=1 d=2.93298e-12 t=30955
+zi cha xun 	字查詢	c=3 d=7.1078e-14 t=30955
+zi chan 	資產	c=1 d=0.00557201 t=30955
+zi cong 	自從	c=1 d=3.242e-14 t=30955
+zi dian 	字典	c=26 d=0.891057 t=30955
+zi dian biao 	字典表	c=17 d=1.17718e-07 t=30955
+zi ding yi 	自定義	c=14 d=5.60089e-05 t=30955
+zi dong 	自動	c=46 d=2.49761 t=30955
+zi dong gou jian 	自動構建	c=1 d=7.95347e-13 t=30955
+zi dong guan lian 	自動關聯	c=1 d=1.9321e-13 t=30955
+zi dong hua 	自動化	c=1 d=1.13311e-29 t=30955
+zi dong ti jiao 	自動提交	c=1 d=1.2949e-11 t=30955
+zi dong wan cheng 	自動完成	c=1 d=4.65161e-26 t=30955
+zi duan 	字段	c=96 d=0.000370275 t=30955
+zi duan ming 	字段名	c=2 d=1.37166e-12 t=30955
+zi fu 	字符	c=6 d=3.16142e-12 t=30955
+zi fu chuan 	字符串	c=19 d=0.838169 t=30955
+zi hao 	字號	c=2 d=7.86334e-17 t=30955
+zi ji 	自己	c=14 d=6.57382e-07 t=30955
+zi jie 	字節	c=2 d=3.5407e-09 t=30955
+zi jie dian 	子節點	c=17 d=5.79512e-08 t=30955
+zi jin 	資金	c=1 d=1.27893e-12 t=30955
+zi lei 	子類	c=7 d=1.61312e-12 t=30955
+zi liao 	資料	c=5 d=2.67483e-12 t=30955
+zi mu 	字母	c=1 d=4.16211e-12 t=30955
+zi pin fan 	子品番	c=6 d=4.15418e-12 t=30955
+zi ru 	字如	c=1 d=1.10363e-13 t=30955
+zi shang pin 	子商品	c=1 d=9.27712e-30 t=30955
+zi ti 	字體	c=14 d=0.000253537 t=30955
+zi wang 	子網	c=1 d=1.85634e-13 t=30955
+zi xi 	仔細	c=1 d=4.3982e-14 t=30955
+zi xing che 	自行車	c=1 d=1.70948e-14 t=30955
+zi you 	自由	c=3 d=3.02237e-12 t=30955
+zi yuan 	資源	c=6 d=0.310367 t=30955
+zi zeng 	自增	c=4 d=5.92259e-15 t=30955
+zong 	總	c=4 d=1.48054e-09 t=30955
+zong cheng ben 	總成本	c=1 d=1.1804e-10 t=30955
+zong gong si 	總公司	c=2 d=4.51204e-12 t=30955
+zong guan 	縱觀	c=1 d=9.61772e-13 t=30955
+zong hang 	總行	c=0 d=7.05408e-14 t=30955
+zong hang shu 	總行數	c=1 d=7.08943e-13 t=30955
+zong he 	總和	c=4 d=8.03338e-13 t=30955
+zong jie 	總結	c=3 d=2.98511e-13 t=30955
+zong jin e 	總金額	c=3 d=1.32455e-09 t=30955
+zong shu 	總數	c=3 d=7.06035e-09 t=30955
+zong shu liang 	總數量	c=2 d=8.51588e-10 t=30955
+zu 	租	c=1 d=2.58211e-13 t=30955
+zu cheng 	組成	c=2 d=2.10765e-11 t=30955
+zu fang 	租房	c=0 d=0.000568457 t=30955
+zu he 	組合	c=19 d=4.52755e-12 t=30955
+zu zhi 	組織	c=4 d=0.00486404 t=30955
+zu zhuang 	組裝	c=1 d=1.73502e-12 t=30955
+zui 	最	c=2 d=5.44052e-14 t=30955
+zui da 	最大	c=5 d=2.16695e-12 t=30955
+zui da de 	最大的	c=1 d=1.49538e-28 t=30955
+zui da hua 	最大化	c=1 d=2.50579e-13 t=30955
+zui da zhi 	最大值	c=1 d=1.51041e-28 t=30955
+zui di 	最低	c=1 d=9.83742e-14 t=30955
+zui hao 	最好	c=2 d=9.46886e-13 t=30955
+zui hou 	最後	c=6 d=6.48303e-09 t=30955
+zui jian dan 	最簡單	c=1 d=8.90124e-14 t=30955
+zui jin 	最近	c=3 d=5.44417e-07 t=30955
+zui le 	醉了	c=1 d=1.29535e-15 t=30955
+zui mei 	最美	c=1 d=1.3113e-12 t=30955
+zui shang mian 	最上面	c=1 d=5.54028e-24 t=30955
+zui xiao 	最小	c=4 d=4.75398e-13 t=30955
+zui xiao hua 	最小化	c=1 d=5.22848e-19 t=30955
+zui xin 	最新	c=10 d=6.007e-05 t=30955
+zui zhong 	最終	c=8 d=0.00119097 t=30955
+zui zhong yong hu 	最終用戶	c=2 d=0.000400354 t=30955
+zuo 	做	c=11 d=4.50224e-05 t=30955
+zuo 	坐	c=1 d=2.68611e-07 t=30955
+zuo 	左	c=1 d=1.15164e-14 t=30955
+zuo biao 	座標	c=1 d=5.56332e-14 t=30955
+zuo bu liao 	做不了	c=2 d=1.67281e-13 t=30955
+zuo cheng 	做成	c=1 d=3.53816e-13 t=30955
+zuo dao 	做到	c=2 d=1.16064e-12 t=30955
+zuo de 	做的	c=3 d=0.000927901 t=30955
+zuo fei 	作廢	c=5 d=1.07116e-12 t=30955
+zuo hao 	做好	c=2 d=1.13522e-12 t=30955
+zuo le 	做了	c=1 d=1.189e-08 t=30955
+zuo le mei you 	做了沒有	c=1 d=1.19494e-07 t=30955
+zuo tian 	昨天	c=6 d=9.15319e-13 t=30955
+zuo wei 	作爲	c=4 d=7.47882e-11 t=30955
+zuo wei 	座位	c=0 d=1.70096e-15 t=30955
+zuo wei shu 	座位數	c=1 d=1.70948e-14 t=30955
+zuo ye 	作業	c=3 d=0.000481141 t=30955
+zuo yi ge 	做一個	c=1 d=2.22781e-12 t=30955
+zuo yong 	作用	c=4 d=5.41069e-09 t=30955
+zuo you 	左右	c=4 d=8.53443e-07 t=30955
