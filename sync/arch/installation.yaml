@@ -2,7 +2,7 @@ distribution_code_name: "fcitx-rime"
 distribution_name: Rime
 distribution_version: 0.2.3
 install_time: "Sat Dec  2 17:22:35 2017"
-installation_id: "2f51aa41-1e75-493d-9f2d-cc28724d04f6"
-rime_version: 1.2.9
-installation_id: 'arch'
-sync_dir: '/home/lingyv/Coding/config/my_rime_config/sync'
+installation_id: arch
+rime_version: 1.3.1
+sync_dir: "/home/lance/coding/config/my_rime_config/sync"
+update_time: "Thu May 10 11:23:01 2018"
