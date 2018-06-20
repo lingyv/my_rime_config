@@ -1,0 +1,14 @@
+# Rime user dictionary
+#@/db_name	easy_en.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	14
+#@/user_id	macbook
+I 	I	c=1 d=1 t=6
+easy 	easy	c=2 d=1.9802 t=14
+english 	english	c=1 d=1 t=11
+if 	if	c=1 d=1 t=3
+love 	love	c=1 d=1 t=7
+ok 	ok	c=1 d=1 t=13
+rime 	rime	c=1 d=1 t=9
+you 	you	c=1 d=1 t=8
