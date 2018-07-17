@@ -2,13 +2,18 @@
 #@/db_name	easy_en.userdb
 #@/db_type	userdb
 #@/rime_version	1.2.9
-#@/tick	14
+#@/tick	21
 #@/user_id	macbook
-I 	I	c=1 d=1 t=6
-easy 	easy	c=2 d=1.9802 t=14
-english 	english	c=1 d=1 t=11
-if 	if	c=1 d=1 t=3
-love 	love	c=1 d=1 t=7
-ok 	ok	c=1 d=1 t=13
-rime 	rime	c=1 d=1 t=9
-you 	you	c=1 d=1 t=8
+I 	I	c=1 d=0.960789 t=21
+easy 	easy	c=3 d=2.90711 t=21
+english 	english	c=2 d=1.94128 t=21
+git 	git	c=1 d=1 t=15
+go 	go	c=1 d=1 t=17
+if 	if	c=1 d=0.946485 t=21
+j 	j	c=1 d=1 t=21
+love 	love	c=1 d=0.965605 t=21
+ok 	ok	c=1 d=0.995012 t=21
+rime 	rime	c=1 d=0.97531 t=21
+sou 	sou	c=1 d=1 t=16
+u 	u	c=1 d=1 t=18
+you 	you	c=1 d=0.970446 t=21

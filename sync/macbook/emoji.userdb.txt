@@ -2,5 +2,6 @@
 #@/db_name	emoji.userdb
 #@/db_type	userdb
 #@/rime_version	1.2.9
-#@/tick	1
+#@/tick	2
 #@/user_id	macbook
+knife;shu'ru'fa`input 	🔪	c=1 d=1 t=2
