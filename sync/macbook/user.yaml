@@ -1,10 +1,11 @@
 var:
   option:
     ascii_punct: true
+    full_shape: false
     simplification: true
   previously_selected_schema: double_pinyin_flypy
   schema_access_time:
-    double_pinyin_flypy: 1529891332
+    double_pinyin_flypy: 1532310868
     easy_en: 1529566346
     emoji: 1529484055
-    luna_pinyin_simp: 1529743669
+    luna_pinyin_simp: 1532246782
