@@ -18,4 +18,3 @@ patch:
     - {schema: luna_pinyin_simp}
     - {schema: double_pinyin_flypy}
     - {schema: easy_en}
-    - {schema: emoji}
