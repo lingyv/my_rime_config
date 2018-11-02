@@ -15,6 +15,6 @@ patch:
     - { when: paging, accept: bracketleft, send: Page_Up }
     - { when: has_menu, accept: bracketright, send: Page_Down }
   schema_list:
-    - {schema: luna_pinyin_simp}
+    # - {schema: luna_pinyin_simp}
     - {schema: double_pinyin_flypy}
     - {schema: easy_en}

@@ -5,17 +5,17 @@
 #@/tick	28
 #@/user_id	macbook
 I 	I	c=1 d=0.960789 t=28
-count 	count	c=1 d=1 t=23
+count 	count	c=1 d=0.97531 t=28
 easy 	easy	c=3 d=2.90711 t=28
 english 	english	c=4 d=3.86456 t=28
 git 	git	c=1 d=0.970446 t=28
 go 	go	c=1 d=0.980199 t=28
 if 	if	c=1 d=0.946485 t=28
-input 	input	c=1 d=1 t=27
+input 	input	c=1 d=0.995012 t=28
 j 	j	c=1 d=1 t=28
 love 	love	c=1 d=0.965605 t=28
 ok 	ok	c=1 d=0.995012 t=28
-positive 	positive	c=2 d=1.99005 t=24
+positive 	positive	c=2 d=1.95064 t=28
 rime 	rime	c=2 d=1.92688 t=28
 sou 	sou	c=1 d=0.97531 t=28
 u 	u	c=1 d=0.985112 t=28

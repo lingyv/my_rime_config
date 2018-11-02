@@ -5,7 +5,7 @@ var:
     simplification: true
   previously_selected_schema: double_pinyin_flypy
   schema_access_time:
-    double_pinyin_flypy: 1541056567
-    easy_en: 1541054793
+    double_pinyin_flypy: 1541058108
+    easy_en: 1541058081
     emoji: 1541056512
     luna_pinyin_simp: 1541056376
