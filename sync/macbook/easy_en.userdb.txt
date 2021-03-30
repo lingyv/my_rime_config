@@ -2,22 +2,31 @@
 #@/db_name	easy_en.userdb
 #@/db_type	userdb
 #@/rime_version	1.2.9
-#@/tick	30
+#@/tick	39
 #@/user_id	macbook
-I 	I	c=1 d=0.960789 t=30
-are 	are	c=1 d=1 t=30
-count 	count	c=1 d=0.97531 t=30
-easy 	easy	c=3 d=2.90711 t=30
-english 	english	c=4 d=3.86456 t=30
-git 	git	c=1 d=0.970446 t=30
-go 	go	c=1 d=0.980199 t=30
-if 	if	c=1 d=0.946485 t=30
-input 	input	c=1 d=0.995012 t=30
-j 	j	c=1 d=1 t=30
-love 	love	c=1 d=0.965605 t=30
-ok 	ok	c=1 d=0.995012 t=30
-positive 	positive	c=2 d=1.95064 t=30
-rime 	rime	c=2 d=1.92688 t=30
-sou 	sou	c=1 d=0.97531 t=30
-u 	u	c=1 d=0.985112 t=30
-you 	you	c=2 d=1.95581 t=30
+Characteristic 	Characteristic	c=1 d=0.970446 t=39
+Curve 	Curve	c=1 d=0.97531 t=39
+I 	I	c=1 d=0.960789 t=39
+Operating 	Operating	c=1 d=0.965605 t=39
+Receiver 	Receiver	c=1 d=0.960789 t=39
+are 	are	c=1 d=1 t=39
+coffee 	coffee	c=1 d=0.980199 t=39
+count 	count	c=1 d=0.97531 t=39
+easy 	easy	c=3 d=2.90711 t=39
+english 	english	c=4 d=3.86456 t=39
+git 	git	c=1 d=0.970446 t=39
+go 	go	c=1 d=0.980199 t=39
+house 	house	c=1 d=1 t=39
+if 	if	c=1 d=0.946485 t=39
+input 	input	c=1 d=0.995012 t=39
+j 	j	c=1 d=1 t=39
+k 	k	c=1 d=0.995012 t=39
+love 	love	c=1 d=0.965605 t=39
+mo 	mo	c=1 d=0.985112 t=39
+ok 	ok	c=1 d=0.995012 t=39
+positive 	positive	c=2 d=1.95064 t=39
+rime 	rime	c=2 d=1.92688 t=39
+sou 	sou	c=1 d=0.97531 t=39
+u 	u	c=1 d=0.985112 t=39
+x 	x	c=1 d=0.99005 t=39
+you 	you	c=2 d=1.95581 t=39
