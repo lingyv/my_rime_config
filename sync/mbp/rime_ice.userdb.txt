@@ -1,0 +1,16 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	12
+#@/user_id	mbp
+bu qi zuo yong 	不起作用	c=1 d=1 t=12
+dao ru 	导入	c=1 d=1 t=9
+fan ye 	翻页	c=1 d=1 t=11
+fang an 	方案	c=1 d=1 t=3
+hao chu 	好处	c=1 d=1 t=1
+huan cun 	缓存	c=1 d=1 t=7
+ne 	呢	c=1 d=1 t=6
+ni shuo 	你说	c=3 d=2.95556 t=8
+xuan dan 	选单	c=1 d=1 t=4
+zhong kuo hao 	中括号	c=1 d=1 t=10
